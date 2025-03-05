@@ -1,0 +1,36 @@
+version: "3.1"
+
+nlu:
+
+- intent: check_weather
+  examples: |
+    - What's the weather like in [New York]{"entity": "location"}?
+    - Show me the weather forecast for [London]{"entity": "location"}.
+    - Will it rain in [Tokyo]{"entity": "location"} tomorrow?
+    - How's the weather in [Paris]{"entity": "location"} right now?
+    - Check the temperature in [Los Angeles]{"entity": "location"}.
+    - Is it going to be sunny in [Berlin]{"entity": "location"} next week?
+    - Tell me the weather conditions in [Sydney]{"entity": "location"}.
+    - What's the forecast for [Dubai]{"entity": "location"} this weekend?
+    - Do I need an umbrella in [Chicago]{"entity": "location"} today?
+    - Give me the weather report for [San Francisco]{"entity": "location"}.
+    - What's the temperature in [Miami]{"entity": "location"}?
+    - Check if it's snowing in [Toronto]{"entity": "location"}.
+    - Is there a thunderstorm expected in [Hong Kong]{"entity": "location"}?
+    - Tell me if it's hot in [Bangkok]{"entity": "location"} right now.
+    - Will it be cloudy in [Rome]{"entity": "location"} on Saturday?
+    - Find out if it's windy in [Barcelona]{"entity": "location"} this evening.
+    - Can you check if it's humid in [Singapore]{"entity": "location"}?
+    - Show me the temperature in [Moscow]{"entity": "location"} for tomorrow.
+    - What's the climate like in [Athens]{"entity": "location"}?
+    - How cold is it in [Stockholm]{"entity": "location"} today?
+    - Will there be a heatwave in [Las Vegas]{"entity": "location"} next week?
+    - Is it safe to go outside in [New Delhi]{"entity": "location"} due to air quality?
+    - Let me know if it's foggy in [San Diego]{"entity": "location"} right now.
+    - Check if there's a storm coming to [Cape Town]{"entity": "location"}.
+    - What's the UV index in [Honolulu]{"entity": "location"} today?
+    - Can you check if there's a hurricane warning for [Mexico City]{"entity": "location"}?
+    - What will the temperature be in [Amsterdam]{"entity": "location"} on Friday?
+    - Will it be freezing in [Reykjavik]{"entity": "location"} tomorrow morning?
+    - Check if it's raining in [Dublin]{"entity": "location"} later today.
+    - Show me the weekly weather forecast for [Istanbul]{"entity": "location"}.

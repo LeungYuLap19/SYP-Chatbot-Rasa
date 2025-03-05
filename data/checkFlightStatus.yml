@@ -1,0 +1,58 @@
+version: "3.1"
+
+nlu:
+
+- regex: flight_number
+  examples: |
+    - [A-Z]{2}\\d+
+
+- intent: check_flight_status
+  examples: |
+    - check flight [AA100]{"entity": "flight_number"} on [15-03-2025]{"entity": "date"}
+    - what is the status of flight [BA256]{"entity": "flight_number"} on [12-06-2025]{"entity": "date"}
+    - track flight [SQ318]{"entity": "flight_number"} on [25-07-2025]{"entity": "date"}
+    - is flight [EK501]{"entity": "flight_number"} on time on [30-04-2025]{"entity": "date"}
+    - flight status for [LH760]{"entity": "flight_number"} on [05-08-2025]{"entity": "date"}
+    - tell me about flight [QR908]{"entity": "flight_number"} on [18-02-2025]{"entity": "date"}
+    - I need to check flight [DL404]{"entity": "flight_number"} on [23-05-2025]{"entity": "date"}
+    - is [AF102]{"entity": "flight_number"} delayed on [09-09-2025]{"entity": "date"}
+    - find status of [QF63]{"entity": "flight_number"} on [14-11-2025]{"entity": "date"}
+    - how is flight [CX101]{"entity": "flight_number"} doing on [21-01-2025]{"entity": "date"}
+    - any update on flight [VS400]{"entity": "flight_number"} for [29-03-2025]{"entity": "date"}
+    - status of [AI187]{"entity": "flight_number"} on [11-10-2025]{"entity": "date"}
+    - track [KLM601]{"entity": "flight_number"} on [03-07-2025]{"entity": "date"}
+    - tell me about flight [AC854]{"entity": "flight_number"} on [22-12-2025]{"entity": "date"}
+    - I want to check [JL44]{"entity": "flight_number"} status for [19-02-2025]{"entity": "date"}
+    - what's happening with [NH223]{"entity": "flight_number"} on [27-06-2025]{"entity": "date"}
+    - update on [UA837]{"entity": "flight_number"} on [08-05-2025]{"entity": "date"}
+    - check if [SW123]{"entity": "flight_number"} is delayed on [17-04-2025]{"entity": "date"}
+    - status update for flight [TG916]{"entity": "flight_number"} on [06-09-2025]{"entity": "date"}
+    - is [ET500]{"entity": "flight_number"} on schedule for [13-03-2025]{"entity": "date"}
+    - what's the update on flight [BA175]{"entity": "flight_number"} on [26-07-2025]{"entity": "date"}
+    - I need status for [QR815]{"entity": "flight_number"} on [31-08-2025]{"entity": "date"}
+    - show me details for [EK407]{"entity": "flight_number"} on [04-10-2025]{"entity": "date"}
+    - tell me about [LH430]{"entity": "flight_number"} on [07-06-2025]{"entity": "date"}
+    - when is [AA321]{"entity": "flight_number"} arriving on [10-12-2025]{"entity": "date"}
+    - find flight [CX580]{"entity": "flight_number"} on [15-04-2025]{"entity": "date"}
+    - I need flight info for [SQ932]{"entity": "flight_number"} on [20-09-2025]{"entity": "date"}
+    - tell me if [JL723]{"entity": "flight_number"} is on time on [28-02-2025]{"entity": "date"}
+    - update me on [AF890]{"entity": "flight_number"} on [09-11-2025]{"entity": "date"}
+    - when will [UA100]{"entity": "flight_number"} land on [01-07-2025]{"entity": "date"}
+
+- intent: change_flight_number
+  examples: |
+    - How about [LH778]{"entity": "flight_number"}.
+    - Actually, I meant [CX271]{"entity": "flight_number"} instead.
+    - Wait, change it to [EK205]{"entity": "flight_number"}.
+    - No, I was asking about [BA290]{"entity": "flight_number"}.
+    - Oops, I meant [SQ905]{"entity": "flight_number"}.
+    - Can you check [AA250]{"entity": "flight_number"} instead?
+
+- intent: change_flight_date
+  examples: |
+    - How about on [2025-12-25]{"entity": "date"}?
+    - Actually, I meant on [2025-06-12]{"entity": "date"}.
+    - Wait, can you check for [2025-09-05]{"entity": "date"} instead?
+    - No, I need it for [2025-04-20].
+    - Oops, I was asking about [2025-08-30].
+    - Sorry, check on [2025-10-15]{"entity": "date"} instead.

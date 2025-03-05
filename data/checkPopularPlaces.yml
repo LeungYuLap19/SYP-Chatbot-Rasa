@@ -1,0 +1,147 @@
+version: "3.1"
+
+nlu:
+
+- intent: check_popular_places
+  examples: |
+    - What are the most visited places in [New York]{"entity": "location"}?
+    - Tell me about famous historical sites in [Tokyo]{"entity": "location"}.
+    - Which landmarks define [Paris]{"entity": "location"}?
+    - What are the most iconic places in [London]{"entity": "location"}?
+    - Suggest must-visit cultural spots in [Sydney]{"entity": "location"}.
+    - Show me the top-rated tourist destinations in [Dubai]{"entity": "location"}.
+    - I want to see the most famous monuments in [Rome]{"entity": "location"}.
+    - What are the best sightseeing places in [Berlin]{"entity": "location"}?
+    - Find me the most Instagram-worthy spots in [Bangkok]{"entity": "location"}.
+    - What historical sites should I visit in [Los Angeles]{"entity": "location"}?
+    - List the most beautiful places in [Hong Kong]{"entity": "location"}.
+    - Where can I find breathtaking views in [Singapore]{"entity": "location"}?
+    - What are the hidden cultural gems in [Barcelona]{"entity": "location"}?
+    - Which locations define the essence of [Amsterdam]{"entity": "location"}?
+    - Explore famous sightseeing destinations in [Seoul]{"entity": "location"}.
+
+- intent: check_restaurant
+  examples: |
+    - Show me nearby restaurants in [New York]{"entity": "location"}.
+    - Find a good restaurant in [Paris]{"entity": "location"}.
+    - I'm looking for a place to eat in [Tokyo]{"entity": "location"}.
+    - Recommend some restaurants in [London]{"entity": "location"}.
+    - Where can I get dinner tonight in [Los Angeles]{"entity": "location"}?
+    - Suggest a nice restaurant for lunch in [Sydney]{"entity": "location"}.
+    - What restaurants are popular in [Rome]{"entity": "location"}?
+    - Any top-rated restaurants around [Berlin]{"entity": "location"}?
+    - I need a restaurant with good reviews in [Barcelona]{"entity": "location"}.
+    - Can you find me a restaurant in [Toronto]{"entity": "location"}?
+    - List some fine dining options in [Singapore]{"entity": "location"}.
+    - Where should I go for a meal in [Cape Town]{"entity": "location"}?
+    - Recommend a cozy restaurant in [San Francisco]{"entity": "location"}.
+    - Any good Italian restaurants in [Milan]{"entity": "location"}?
+    - Find a restaurant that serves vegan food in [Amsterdam]{"entity": "location"}.
+
+- intent: check_dessert
+  examples: |
+    - I'm craving something sweet in [New York]{"entity": "location"}.
+    - Find a dessert place nearby in [Tokyo]{"entity": "location"}.
+    - Where can I get some good dessert in [Paris]{"entity": "location"}?
+    - Show me dessert options in [Los Angeles]{"entity": "location"}.
+    - Recommend a place for desserts in [London]{"entity": "location"}.
+    - Any famous dessert spots around [Berlin]{"entity": "location"}?
+    - What's a popular dessert cafe in [Rome]{"entity": "location"}?
+    - I want to try a unique dessert in [Barcelona]{"entity": "location"}.
+    - Where to find the best desserts in [Sydney]{"entity": "location"}?
+    - List some dessert parlors in [Milan]{"entity": "location"}.
+    - Can you suggest a dessert shop in [Cape Town]{"entity": "location"}?
+    - I need a place for an after-dinner treat in [Tokyo]{"entity": "location"}.
+    - What desserts do you recommend in [Singapore]{"entity": "location"}?
+    - Find a dessert bar for me in [Toronto]{"entity": "location"}.
+    - Suggest some must-try sweets in [Seoul]{"entity": "location"}.
+
+- intent: check_cafe
+  examples: |
+    - Find a cozy cafe nearby in [San Francisco]{"entity": "location"}.
+    - I'm looking for a cafe to work from in [New York]{"entity": "location"}.
+    - Recommend a quiet cafe in [London]{"entity": "location"}.
+    - Show me the best cafes in [Tokyo]{"entity": "location"}.
+    - Any nice cafes in [Berlin]{"entity": "location"}?
+    - Where can I get coffee in [Sydney]{"entity": "location"}?
+    - Find a cafe that serves great pastries in [Paris]{"entity": "location"}.
+    - Suggest a cafe for brunch in [Rome]{"entity": "location"}.
+    - What are the best cafes to visit in [Los Angeles]{"entity": "location"}?
+    - I need a cafe with Wi-Fi in [Seoul]{"entity": "location"}.
+    - What cafes should I try in [Barcelona]{"entity": "location"}?
+    - Can you recommend a cafe for a first date in [Tokyo]{"entity": "location"}?
+    - Where can I relax in a cafe in [Milan]{"entity": "location"}?
+    - Any cafes with outdoor seating in [Amsterdam]{"entity": "location"}?
+    - Show me a cafe with a good ambiance in [Hong Kong]{"entity": "location"}.
+
+- intent: check_bar
+  examples: |
+    - Find a good bar in [New York]{"entity": "location"}.
+    - Show me some bars in [Los Angeles]{"entity": "location"}.
+    - Recommend a cool bar in [London]{"entity": "location"}.
+    - Where's the best bar in [Berlin]{"entity": "location"}?
+    - I'm looking for a cocktail bar in [Sydney]{"entity": "location"}.
+    - Can you suggest a rooftop bar in [Paris]{"entity": "location"}?
+    - Any good bars for nightlife in [Tokyo]{"entity": "location"}?
+    - Find a speakeasy bar in [Rome]{"entity": "location"}.
+    - What are the top bars in [San Francisco]{"entity": "location"}?
+    - Any dive bars in [Barcelona]{"entity": "location"}?
+    - Show me a trendy bar in [Dubai]{"entity": "location"}.
+    - Where can I find a quiet bar in [Seoul]{"entity": "location"}?
+    - Recommend a bar with great music in [Hong Kong]{"entity": "location"}.
+    - Find a sports bar in [Miami]{"entity": "location"}.
+    - Suggest a bar for a casual evening in [Milan]{"entity": "location"}.
+
+- intent: check_night_market
+  examples: |
+    - Where are the best night markets in [Taipei]{"entity": "location"}?
+    - Find a popular night market in [Bangkok]{"entity": "location"}.
+    - Show me the night markets in [Seoul]{"entity": "location"}.
+    - What night markets are famous in [Kuala Lumpur]{"entity": "location"}?
+    - Recommend a night market in [Tokyo]{"entity": "location"}.
+    - Are there any night markets in [Hong Kong]{"entity": "location"}?
+    - I want to visit a night market in [Jakarta]{"entity": "location"}.
+    - Find me a night market in [Shanghai]{"entity": "location"}.
+    - Where can I shop at a night market in [Singapore]{"entity": "location"}?
+    - Suggest a night market to check out in [Chengdu]{"entity": "location"}.
+    - Any popular night markets in [Manila]{"entity": "location"}?
+    - Show me a local night market in [Ho Chi Minh City]{"entity": "location"}.
+    - Where can I explore night markets in [Seoul]{"entity": "location"}?
+    - Tell me about a night market in [Ho Chi Minh City]{"entity": "location"}.
+    - Can you find a night market in [Bali]{"entity": "location"}?
+
+- intent: check_entertainment
+  examples: |
+    - What entertainment options are available in [New York]{"entity": "location"}?
+    - Find some fun activities in [Los Angeles]{"entity": "location"}.
+    - Show me entertainment events in [Tokyo]{"entity": "location"}.
+    - What's happening for entertainment in [London]{"entity": "location"}?
+    - Recommend some entertainment spots in [Paris]{"entity": "location"}.
+    - Where can I go for a night out in [Berlin]{"entity": "location"}?
+    - Any live shows or performances in [Barcelona]{"entity": "location"}?
+    - What are the top entertainment venues in [Sydney]{"entity": "location"}?
+    - Find fun things to do in [Rome]{"entity": "location"}.
+    - Suggest some entertainment in [Singapore]{"entity": "location"}.
+    - Can you find a comedy club in [Los Angeles]{"entity": "location"}?
+    - What entertainment activities can I do in [Tokyo]{"entity": "location"}?
+    - Show me outdoor entertainment in [Milan]{"entity": "location"}.
+    - Any entertainment centers in [Dubai]{"entity": "location"}?
+    - Recommend a live music event in [San Francisco]{"entity": "location"}.
+
+- intent: check_shopping
+  examples: |
+    - Where can I go shopping in [New York]{"entity": "location"}?
+    - Find shopping malls in [London]{"entity": "location"}.
+    - Recommend some places to shop in [Paris]{"entity": "location"}.
+    - Show me where to shop in [Tokyo]{"entity": "location"}.
+    - I need shopping options in [Los Angeles]{"entity": "location"}.
+    - Where are the best shopping centers in [Dubai]{"entity": "location"}?
+    - What are the best shopping streets in [Barcelona]{"entity": "location"}?
+    - Find luxury shopping in [Milan]{"entity": "location"}.
+    - Any cool shops in [Sydney]{"entity": "location"}?
+    - Can you suggest where to shop for electronics in [Singapore]{"entity": "location"}?
+    - Find trendy shopping spots in [San Francisco]{"entity": "location"}.
+    - Where can I buy souvenirs in [Rome]{"entity": "location"}?
+    - Show me shopping options in [Berlin]{"entity": "location"}.
+    - What are the top shopping destinations in [Seoul]{"entity": "location"}?
+    - Any good shopping malls in [Hong Kong]{"entity": "location"}?

@@ -1,0 +1,112 @@
+version: "3.1"
+
+rules:
+
+# flight search
+- rule: Activate flight status form
+  steps:
+  - or:
+    - intent: check_flight_status
+    - intent: change_flight_number
+    - intent: change_flight_date
+  - action: flight_status_form
+  - active_loop: flight_status_form
+
+- rule: Submit flight status form
+  condition:
+  - active_loop: flight_status_form
+  steps:
+  - action: flight_status_form
+  - active_loop: null
+  - slot_was_set:
+    - requested_slot: null
+  - action: utter_flight_status
+
+- rule: Activate flights search form
+  steps:
+  - or:
+    - intent: check_scheduled_flights
+    - intent: change_departure_iata
+    - intent: change_arrival_iata
+  - action: flights_search_form
+  - active_loop: flights_search_form
+
+- rule: Submit flights search form
+  condition:
+  - active_loop: flights_search_form
+  steps: 
+  - action: flights_search_form
+  - active_loop: null
+  - slot_was_set:
+    - requested_slot: null
+  - action: utter_flights_search
+
+# hotel search
+- rule: Activate hotel form
+  steps:
+  - intent: check_hotels
+  - action: hotels_form
+  - active_loop: hotels_form
+
+- rule: Submit hotel form
+  condition:
+  - active_loop: hotels_form
+  steps: 
+  - action: hotels_form
+  - active_loop: null
+  - slot_was_set:
+    - requested_slot: null
+  - action: utter_hotels
+
+# weather search
+- rule: Activate weather form
+  steps:
+  - intent: check_weather
+  - action: weather_form
+  - active_loop: weather_form
+
+- rule: Submit weather form
+  condition:
+  - active_loop: weather_form
+  steps: 
+  - action: weather_form
+  - active_loop: null
+  - slot_was_set:
+    - requested_slot: null
+  - action: utter_weather
+
+# place search
+- rule: Activate places form
+  steps:
+  - or:
+    - intent: check_popular_places
+    - intent: check_restaurant
+    - intent: check_dessert
+    - intent: check_cafe
+    - intent: check_bar
+    - intent: check_night_market
+    - intent: check_entertainment
+    - intent: check_shopping
+  - action: places_form
+  - active_loop: places_form
+
+- rule: Submit places form
+  condition:
+  - active_loop: places_form
+  steps:
+  - action: places_form
+  - active_loop: null
+  - slot_was_set:
+    - requested_slot: null
+  - action: action_utter_places_response
+
+# examples
+- rule: Say goodbye anytime the user says goodbye
+  steps:
+  - intent: goodbye
+  - action: utter_goodbye
+
+- rule: Say 'I am a bot' anytime the user challenges
+  steps:
+  - intent: bot_challenge
+  - action: utter_iamabot

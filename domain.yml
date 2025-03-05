@@ -1,0 +1,260 @@
+version: "3.1"
+
+intents:
+  # flight search 
+  - check_flight_status
+  - change_flight_number
+  - change_flight_date
+
+  - check_scheduled_flights
+  - change_departure_iata
+  - change_arrival_iata
+
+  # hotel search
+  - check_hotels
+
+  # weather search
+  - check_weather
+
+  # place search
+  - check_popular_places
+  - check_restaurant
+  - check_dessert
+  - check_cafe
+  - check_bar
+  - check_night_market
+  - check_entertainment
+  - check_shopping
+
+  # example
+  - greet
+  - goodbye
+  - affirm
+  - deny
+  - mood_great
+  - mood_unhappy
+  - bot_challenge 
+
+entities:
+  - flight_number
+  - date
+  - location
+  - iata
+
+slots:
+  flight_number:
+    type: text
+    influence_conversation: false
+    mappings:
+      - type: from_entity
+        entity: flight_number
+
+  date:
+    type: text
+    influence_conversation: false
+    mappings:
+      - type: from_entity
+        entity: date
+
+  check_in:
+    type: text
+    influence_conversation: false
+    mappings:
+      - type: from_entity
+        entity: date
+        role: check_in
+
+  check_out:
+    type: text
+    influence_conversation: false
+    mappings:
+      - type: from_entity
+        entity: date
+        role: check_out
+
+  location:
+    type: text
+    influence_conversation: false
+    mappings:
+      - type: from_entity
+        entity: location
+  
+  departure: 
+    type: text
+    influence_conversation: false
+    mappings:
+      - type: from_entity
+        entity: iata
+        role: departure
+
+  arrival: 
+    type: text
+    influence_conversation: false
+    mappings:
+      - type: from_entity
+        entity: iata
+        role: arrival
+        
+actions:
+  - utter_flight_status
+  - utter_flights_search
+  - utter_weather
+
+  - utter_popular_places
+  - utter_restaurant
+  - utter_dessert
+  - utter_cafe
+  - utter_bar
+  - utter_night_market
+  - utter_entertainment
+  - utter_shopping
+
+  - action_utter_places_response
+
+responses:
+  # flight search
+  utter_flight_status:
+  - custom:
+      message: "checking flight {flight_number} on {date}..."
+      data: 
+        response_type: "flightStatus"
+        flight_number: "{flight_number}"
+        date: "{date}"
+
+  utter_flights_search:
+  - custom:
+      message: "checking flights from {departure} to {arrival} on {date}..."
+      data:
+        response_type: "flightSearch"
+        departure: "{departure}"
+        arrival: "{arrival}"
+        date: "{date}"
+
+  # hotel search
+  utter_hotels:
+  - custom:
+      message: "checking hotels in {location} from {check_in} to {check_out}..."
+      data:
+        response_type: "hotelSearch"
+        location: "{location}"
+        check_in: "{check_in}"
+        check_out: "{check_out}"
+
+  # weather search
+  utter_weather:
+  - custom:
+      message: "checking weather in {location}..."
+      data:
+        response_type: "weather"
+        location: "{location}"
+
+  # places search
+  utter_popular_places:
+  - custom:
+      message: "checking popular places in {location}..."
+      data:
+        response_type: "popularPlaces"
+        location: "{location}"
+
+  utter_restaurant:
+  - custom:
+      message: "Searching for restaurants in {location}..."
+      data:
+        response_type: "restaurantSearch"
+        location: "{location}"
+
+  utter_dessert:
+  - custom:
+      message: "Looking for dessert places in {location}..."
+      data:
+        response_type: "dessertSearch"
+        location: "{location}"
+
+  utter_cafe:
+  - custom:
+      message: "Finding cozy cafes in {location}..."
+      data:
+        response_type: "cafeSearch"
+        location: "{location}"
+
+  utter_bar:
+  - custom:
+      message: "Searching for bars in {location}..."
+      data:
+        response_type: "barSearch"
+        location: "{location}"
+
+  utter_night_market:
+  - custom:
+      message: "Checking out night markets in {location}..."
+      data:
+        response_type: "nightMarketSearch"
+        location: "{location}"
+  
+  utter_entertainment:
+  - custom:
+      message: "Finding entertainment options in {location}..."
+      data:
+        response_type: "entertainmentSearch"
+        location: "{location}"
+  
+  utter_shopping:
+  - custom:
+      message: "Searching for shopping destinations in {location}..."
+      data:
+        response_type: "shoppingSearch"
+        location: "{location}"
+  
+  # example
+  utter_greet:
+  - text: "Hey! How are you?"
+
+  utter_cheer_up:
+  - text: "Here is something to cheer you up:"
+    image: "https://i.imgur.com/nGF1K8f.jpg"
+
+  utter_did_that_help:
+  - text: "Did that help you?"
+
+  utter_happy:
+  - text: "Great, carry on!"
+
+  utter_goodbye:
+  - text: "Bye"
+
+  utter_iamabot:
+  - text: "I am a bot, powered by Rasa."
+
+forms:
+  # flight search
+  flight_status_form:
+    required_slots:
+      - flight_number
+      - date
+
+  flights_search_form:
+    required_slots:
+      - departure
+      - arrival
+      - date
+
+  # hotel search
+  hotels_form:
+    required_slots:
+      - location
+      - check_in
+      - check_out
+
+  # weather search
+  weather_form:
+    required_slots:
+      - location
+
+  # place search
+  places_form:
+    required_slots:
+      - location
+
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true
