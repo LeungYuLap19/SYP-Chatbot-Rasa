@@ -1,0 +1,3410 @@
+aab | arrabury airport | tanbar | brisbane
+aac | el arish international airport | arish | cairo
+aad | adado airport | adado | khartoum
+aae | les salines airport | el hadjar | algiers
+aal | aalborg airport | vadum | copenhagen
+aan | al ain airport |  | dubai
+aaq | anapa airport | anapa | moscow
+aar | aarhus airport | ebeltoft | copenhagen
+aat | altay airport | awiytan | urumqi
+aax | araxa airport | araxa | sao paulo
+aba | abakan airport | podsineye | krasnoyarsk
+abb | asaba international airport | asaba | lagos
+abd | abadan airport | abadan | tehran
+abe | lehigh valley international airport | catasauqua | new york
+abi | abilene regional airport |  | chicago
+abj | felix houphouet boigny airport | abidjan | abidjan
+abl | ambler airport |  | anchorage
+abm | northern peninsula airport |  | brisbane
+abr | aberdeen municipal airport | aberdeen | chicago
+abt | al-aqiq airport | al bahah | riyadh
+abu | haliwen airport | atambua | makassar
+abv | nnamdi azikiwe international airport | madala | lagos
+abx | albury airport | east albury | sydney
+aby | southwest georgia regional airport |  | new york
+abz | aberdeen international airport | dyce | london
+aca | acapulco international airport | 10 de abril | mexico city
+acc | kotoka international airport | accra | accra
+ace | lanzarote airport | tias | canary
+acf | alaer talimu airport | aral | urumqi
+ach | altenrhein airport | rheineck | zurich
+aci | alderney airport | beaumont-hague | guernsey
+ack | nantucket memorial airport | nantucket | new york
+aco | cobano airport | cobano | costa rica
+act | waco municipal airport | gholson | chicago
+acv | arcata-eureka airport | mckinleyville | los angeles
+acx | xingyi airport | xinzhou | shanghai
+acy | atlantic city international airport | pomona | new york
+acz | zabol airport | zabol | tehran
+ada | adana airport | seyhan | istanbul
+adb | izmir adnan menderes airport |  | istanbul
+add | addis ababa bole international airport | addis ababa | addis ababa
+adf | adiyaman airport | adiyaman | istanbul
+adj | marka international airport | amman | amman
+adl | adelaide airport | plympton | adelaide
+adm | ardmore municipal airport | dickson | chicago
+adq | kodiak benny benson state airport |  | anchorage
+ads | addison airport | haltom city | chicago
+adu | ardabil airport | namin | tehran
+adz | gustavo rojas pinilla airport | san andres | bogota
+aee | adareil airport |  | juba
+aep | jorge newbery airport | colegiales | argentina
+aeq | ar horqin airport | tianshan | shanghai
+aer | sochi international airport | orel-izumrud | moscow
+aes | vigra alesund airport | valderoy | oslo
+aex | alexandria international airport | alexandria | chicago
+aey | akureyri airport | akureyri | reykjavik
+afa | san rafael airport | san rafael | argentina
+afk | ampara kondavattavan tank airport | ampara | colombo
+afl | alta floresta airport |  | cuiaba
+afw | fort worth alliance airport | haslet | chicago
+aga | agadir al massira airport | inezgane | casablanca
+agb | augsburg airport | rehling | berlin
+agc | allegheny county airport | pleasant hills | new york
+agf | la garenne airport | le passage | paris
+agh | angelholm helsingborg airport |  | stockholm
+agp | malaga airport |  | madrid
+ags | augusta regional airport |  | new york
+agt | alejo garcia airport | colonia yguazu | asuncion
+agu | aguascalients international airport | penuelas (el cienegal) | mexico city
+agx | agatti island airport | kavaratti | kolkata
+ahb | abha regional airport |  | riyadh
+ahe | ahe airport |  | tahiti
+ahj | hongyuan airport | qiongxi | shanghai
+aho | alghero-fertilia airport | alghero | rome
+ahu | charif al idrissi airport | imzourene | casablanca
+aia | alliance airport | alliance | denver
+ait | aitutaki airport |  | rarotonga
+aja | ajaccio napoleon bonaparte airport | ajaccio | paris
+ajf | jouf airport | sakaka | riyadh
+aji | agri airport | hamur | istanbul
+ajl | aizawl airport | sairang | kolkata
+ajr | arvidsjaur airport | arvidsjaur | stockholm
+aju | aracaju airport | aracaju | maceio
+akj | asahikawa airport | asahikawa | tokyo
+akl | auckland airport | mangere | auckland
+akn | king salmon airport |  | anchorage
+ako | colorado plains regional airport | akron | denver
+aku | aksu airport |  | shanghai
+akx | aktyubinsk airport | aqtobe | aqtobe
+aky | civil airport |  | rangoon
+ala | almaty airport | pervomayskiy | almaty
+alb | albany international airport | colonie | new york
+alc | alicante-elche airport |  | madrid
+alf | alta airport | alta | oslo
+alg | houari boumediene airport | dar el beida | algiers
+alh | albany airport | albany | perth
+alj | alexander bay airport |  | johannesburg
+alo | waterloo airport | cedar falls | chicago
+als | alamosa municipal airport | alamosa | denver
+alw | walla walla airport | walla walla east | los angeles
+ama | rick husband amarillo international airport |  | chicago
+amd | ahmedabad airport | naroda | kolkata
+amh | arba mintch airport | arba minch' | addis ababa
+amm | queen alia international airport | al jizah | amman
+amq | pattimura airport | amahusu | jayapura
+ams | amsterdam airport schiphol | aalsmeer | amsterdam
+anc | ted stevens anchorage international airport |  | anchorage
+ane | angers-marce airport |  | paris
+anf | cerro moreno international airport | antofagasta | santiago
+ani | aniak airport |  | anchorage
+anr | antwerp international airport | mortsel | brussels
+anu | v.c. bird international airport | parham | antigua
+anv | anvik airport |  | anchorage
+anx | andenes airport | andenes | oslo
+aog | anshan teng'ao airport | anshan | shanghai
+aoi | ancona falconara airport | falconara marittima | rome
+aoj | aomori airport |  | tokyo
+aok | karpathos airport | karpathos | athens
+aom | adam airport |  | muscat
+aoo | altoona airport | martinsburg | new york
+aop | alferez fap alfredo vladimir sara bauer airport | alianza cristiana | lima
+aor | sultan abdul halim airport | jitra | kuala lumpur
+apa | centennial airport |  | denver
+apf | naples municipal airport | naples | new york
+apj | ngari burang airport | burang | shanghai
+apl | nampula airport | nampula | maputo
+apn | alpena county regional airport | alpena | detroit
+apo | apartado airport | carepa | bogota
+apw | faleolo airport | satapuala | apia
+aqb | quiche airport | santa cruz del quiche | guatemala
+aqg | anqing tianzhushan airport | anqing | shanghai
+aqi | qaisumah airport | al qaysumah | riyadh
+aqj | king hussein international airport | aqaba | amman
+aqp | rodriguez ballon international airport | arequipa | lima
+ard | alor island airport | sifala | makassar
+arh | talagi airport | arkhangel'sk | moscow
+ari | chacalluta airport | arica | santiago
+ark | arusha airport | arusha | dar es salaam
+arm | armidale airport | armidale | sydney
+arn | stockholm arlanda airport | marsta | stockholm
+art | watertown airport | dexter | new york
+aru | aracatuba airport | aracatuba | sao paulo
+asb | ashgabat airport | ashgabat | ashgabat
+ase | aspen airport | aspen | denver
+asf | astrakhan airport | yaksatovo | volgograd
+asi | saint helena airport |  | st helena
+asj | amami airport |  | tokyo
+asm | asmara international airport | asmara | asmara
+aso | asosa airport |  | addis ababa
+asp | alice springs airport |  | darwin
+asr | kayseri airport | kayseri | istanbul
+asu | silvio pettirossi international airport | limpio | asuncion
+asw | aswan airport | aswan | cairo
+ath | eleftherios venizelos international airport | spata | athens
+atk | atqasuk edward burnell sr. memorial airport |  | anchorage
+atl | hartsfield-jackson atlanta international airport |  | new york
+atm | altamira airport | altamira | santarem
+atq | sri guru ram dass jee international airport | raja sansi | kolkata
+att | atmautluak airport |  | nome
+atw | outagamie county regional airport | menasha | chicago
+aty | watertown airport | watertown | chicago
+atz | assiut airport | asyut | cairo
+aua | reina beatrix international airport | oranjestad | aruba
+aub | itauba airport | itauba | cuiaba
+auc | arauca airport | arauca | bogota
+aug | augusta airport | augusta | new york
+auh | abu dhabi international airport |  | dubai
+auk | alakanuk airport |  | nome
+auq | hiva oa airport |  | marquesas
+aur | aurillac airport | aurillac | paris
+aus | austin-bergstrom international airport | hornsby bend | chicago
+aux | araguaina airport | araguaina | araguaina
+auz | municipal airport | aurora | chicago
+ava | an shun/huang guo shu airport | anshun | chongqing
+avl | asheville regional airport | fletcher | new york
+avn | avignon-caumont airport | noves | paris
+avp | wilkes-barre/scranton international airport | avoca | new york
+avv | avalon airport | little river | melbourne
+awb | awaba airport | awaba | port moresby
+awp | austral downs airport |  | darwin
+awz | ahwaz airport | ahvaz | tehran
+axa | clayton j. lloyd international airport | the valley | anguilla
+axd | demokritos airport | alexandroupoli | athens
+axm | el eden airport | la tebaida | bogota
+axp | springpoint airport | masons bay | nassau
+axr | arutua airport | arutua | tahiti
+axs | altus/quartz mountain regional airport |  | chicago
+axt | akita airport | akita | tokyo
+axu | axum airport | aksum | addis ababa
+ayj | maharishi valmiki international airport | faizabad | kolkata
+ayn | anyang airport | anyang | shanghai
+ayp | yanamilla airport | carmen alto | lima
+ayq | connellan airport |  | darwin
+ayt | antalya airport | aksu | istanbul
+aza | phoenix-mesa gateway airport | queen creek | phoenix
+azd | yazd airport | yazd | tehran
+azh | azamgarh airport | manduri | kolkata
+azl | fazenda tucunare airport |  | cuiaba
+azn | andizhan airport | andijon | tashkent
+azo | kalamazoo battle creek international airport | portage | detroit
+azr | adrar airport | adrar | algiers
+bah | bahrain international airport | al muharraq | bahrain
+bal | batman airport | yenikoy | istanbul
+baq | e cortissoz airport | malambo | bogota
+bat | airport chafei amsei | barretos | sao paulo
+bau | bauru airport | bauru | sao paulo
+bav | baotou airport | shulinzhao | chongqing
+bax | barnaul gherman titov international airport | gon'ba | omsk
+bba | teniente vidal airport |  | santiago
+bbb | benson municipal airport | benson | chicago
+bbi | biju patnaik international airport | bhubaneshwar | kolkata
+bbk | kasane airport | kasane | gaborone
+bbl | ballera airport |  | brisbane
+bbn | bario airport |  | kuching
+bcd | bacolod-silay international airport | bacolod city | manila
+bci | barcaldine airport |  | brisbane
+bcm | bacau airport | margineni-munteni | bucharest
+bcn | barcelona-el prat airport | el prat de llobregat | madrid
+bda | l.f. wade international airport |  | bermuda
+bdb | bundaberg airport | thabeban | brisbane
+bdj | syamsudin noor international airport | banjarbaru | makassar
+bdl | bradley international airport | windsor locks | new york
+bdo | husein sastranegara airport | bandung | jakarta
+bdp | bhadrapur airport | bhadrapur | kathmandu
+bdq | vadodara airport | vadodara | kolkata
+bds | brindisi - salento airport | materdomini | rome
+bdu | bardufoss airport | moen | oslo
+beb | benbecula airport | benbecula | london
+beg | belgrad nikola tesla airport | surcin | belgrade
+bej | kalimarau airport |  | makassar
+bel | val de cans international airport | belem | belem
+bem | beni mellal airport | beni mellal | casablanca
+ber | berlin brandenburg airport |  | berlin
+bes | brest bretagne airport | guipavas | paris
+bet | bethel airport |  | anchorage
+bew | beira airport |  | maputo
+bey | beirut-rafic hariri international airport | baabda | beirut
+bfd | bradford airport | bradford | new york
+bff | western nebraska regional airport | terrytown | denver
+bfi | boeing field international airport | boulevard park | los angeles
+bfj | bijie airport | bijie | chongqing
+bfk | buffalo municipal airport | aurora | denver
+bfl | meadows field airport | oildale | los angeles
+bfm | mobile downtown airport |  | chicago
+bfn | bram fischer international airport | bloemfontein | johannesburg
+bfs | belfast international airport | antrim | london
+bfv | buri ram airport | satuek | bangkok
+bga | palonegro international airport | lebrija | bogota
+bgc | braganca airport | braganca | lisbon
+bgf | bangui airport | bangui | bangui
+bgg | bingol airport |  | istanbul
+bgi | grantley adams international airport |  | barbados
+bgm | greater binghamton airport | johnson city | new york
+bgn | belaya gora airport | belaya gora | srednekolymsk
+bgo | bergen airport | ytrebygda | oslo
+bgr | bangor international airport | bangor | new york
+bgw | baghdad international airport | abu ghurayb | baghdad
+bgx | airport cmdt. gustavo kraemer | bage | sao paulo
+bgy | orio al serio international airport | orio al serio | rome
+bhb | bar harbor airport | trenton | new york
+bhd | george best belfast city airport | castlereagh | london
+bhe | woodbourne airport | blenheim | auckland
+bhh | bisha airport | qal`at bishah | riyadh
+bhi | comandante airport | bahia blanca | argentina
+bhj | rudra mata airport | bhuj | kolkata
+bhk | bukhara airport | bukhara | samarkand
+bhm | birmingham-shuttlesworth international airport | tarrant | chicago
+bho | raja bhoj airport | bhopal | kolkata
+bhq | broken hill airport |  | broken hill
+bhr | bharatpur airport |  | kathmandu
+bhs | raglan airport | kelso | sydney
+bhu | bhavnagar airport | bhavnagar | kolkata
+bhv | bahawalpur airport | bahawalpur | karachi
+bhw | bhagatanwala airport |  | karachi
+bhx | birmingham international airport | bickenhill | london
+bhy | beihai fucheng airport | beihai | chongqing
+bia | bastia poretta airport | borgo | paris
+bik | mokmer airport | biak | jayapura
+bil | billings logan international airport | billings | denver
+bim | bimini international airport |  | nassau
+bio | bilbao airport | sondika | madrid
+biq | biarritz - anglet - bayonne airport | anglet | paris
+bir | biratnagar airport | jogbani | kathmandu
+bis | bismarck airport | bismarck | chicago
+bja | bejaia airport | bejaia | algiers
+bjf | batsfjord airport | batsfjord | oslo
+bji | bemidji airport | bemidji | chicago
+bjl | yundum international airport | abuko | banjul
+bjm | bujumbura international airport | bujumbura | bujumbura
+bjq | bahja airport |  | muscat
+bjr | bahar dar airport | bahir dar | addis ababa
+bju | bajura airport |  | kathmandu
+bjv | milas-bodrum airport | kiulukioi | istanbul
+bjw | bajawa soa airport | naru | makassar
+bjx | guanajuato international airport | colonia nuevo mexico | mexico city
+bjz | badajoz airport | talavera la real | madrid
+bkc | buckland airport |  | anchorage
+bki | kota kinabalu international airport | putatan | kuching
+bkk | suvarnabhumi airport | lat krabang | bangkok
+bkl | burke lakefront airport | cleveland | new york
+bkn | balkanabat airport | balkanabat | ashgabat
+bko | bamako-senou international airport | bamako | bamako
+bkq | blackall airport |  | brisbane
+bks | fatmawati soekarno airport | bengkulu | jakarta
+bkv | bailing airport | bailingmiao | shanghai
+bkw | beckley airport | daniels | new york
+bkz | bukoba airport | bukoba | dar es salaam
+bla | general jose antonio anzoategui international airport | barcelona | caracas
+blb | panama pacifico airport | ancon | panama
+ble | dala airport | ornas | stockholm
+bli | bellingham international airport | marietta-alderwood | los angeles
+blj | batna airport | batna | algiers
+blk | blackpool airport | great marton | london
+bll | billund airport | billund | copenhagen
+blm | monmouth executive airport | belmar | new york
+blq | guglielmo marconi airport | trebbo | rome
+blr | kempegowda international airport | devanhalli | kolkata
+blz | chileka airport |  | blantyre
+bma | bromma airport | bromma | stockholm
+bme | broome airport |  | perth
+bmi | central illinois regional airport | bloomington | chicago
+bml | berlin municipal airport |  | new york
+bmu | sultan muhammad salahuddin airport | melati | makassar
+bmv | phung-duc airport | buon ma thuot | ho chi minh
+bna | nashville international airport | lakewood | chicago
+bnd | bandar abbas international airport | bandar 'abbas | tehran
+bne | brisbane airport | ascot | brisbane
+bni | benin city airport | benin city | lagos
+bnk | ballina byron airport | ballina | sydney
+bnn | bronnoysund airport bronnoy | bronnoysund | oslo
+bnx | banja luka airport | laktasi | sarajevo
+bob | motu mute airport |  | tahiti
+bod | bordeaux airport | le haillan | paris
+bog | el dorado international airport | funza | bogota
+boh | bournemouth airport | st leonards | london
+boj | bourgas airport | sredets | sofia
+bom | chhatrapati shivaji international airport | mumbai | kolkata
+bon | flamingo international airport | dorp tera kora | kralendijk
+boo | bodo airport | bodo | oslo
+bos | logan international airport | chelsea | new york
+bpe | qinhuangdao beidaihe airport |  | shanghai
+bpl | bole airport | dostyq | shanghai
+bpn | sultan aji muhamad sulaiman airport | city of balikpapan | makassar
+bps | porto seguro airport | porto seguro | bahia
+bpt | jefferson county airport | nederland | chicago
+bpx | bangda airport | yanduo | shanghai
+bqb | bussellton regional airport | vasse | perth
+bqn | rafael hernandez airport | san antonio | puerto rico
+bqs | blagoveschensk airport | shangmachang | yakutsk
+bqt | brest airport | zhabinka | minsk
+bra | barreiras airport | barreiras | bahia
+brc | san carlos de bariloche international airport | san carlos de bariloche | argentina
+brd | crow wing county airport | brainerd | chicago
+bre | bremen airport | bremen | berlin
+bri | palese airport | san paolo | rome
+brl | burlington airport | burlington | chicago
+brm | barquisimeto airport | barquisimeto | caracas
+brn | bern airport | belp | zurich
+bro | south padre island international airport | south point | chicago
+brq | turany airport | slapanice | prague
+brr | north bay airport |  | london
+brs | bristol airport | butcombe | london
+bru | brussels airport | zaventem | brussels
+brw | wiley post-will rogers memorial airport |  | anchorage
+bsb | brasilia international airport | brasilia | sao paulo
+bsd | baoshan airport | dianyang | shanghai
+bsg | bata airport | bata | malabo
+bsk | biskra airport | biskra | algiers
+bsl | euroairport swiss |  | zurich
+bso | basco airport | basco | manila
+bsq | bisbee municipal airport | naco | phoenix
+bsr | basra international airport | al basrah | baghdad
+bth | hang nadim international airport |  | jakarta
+bti | barter island airport |  | anchorage
+btj | sultan iskandar muda international airport | montasik | jakarta
+btk | bratsk airport | bratsk | irkutsk
+btm | butte airport | butte | denver
+btr | baton rouge metropolitan airport | brownsfield | chicago
+bts | bratislava airport |  | bratislava
+btu | bintulu airport | bintulu | kuching
+btv | burlington international airport | south burlington | new york
+btz | yala betong international airport | betong | bangkok
+bud | budapest ferenc liszt international airport | vecses | budapest
+buf | buffalo niagara international airport | williamsville | new york
+bup | bhatinda airport | bhatinda | kolkata
+buq | bulawayo airport | bulawayo | harare
+bur | bob hope airport | north hollywood | los angeles
+bus | batumi airport | batumi | tbilisi
+but | bathpalathang airport | jakar | thimphu
+buu | muara bungo airport | muarabungo | jakarta
+buw | baubau airport |  | makassar
+buz | bushehr airport | bushehr | tehran
+bva | beauvais-tille airport | tille | paris
+bvb | boa vista airport | boa vista | boa vista
+bvc | rabil airport | vila de sal rei | cape verde
+bve | laroche airport | brive-la-gaillarde | paris
+bvg | berlevag airport | berlevag | oslo
+bvh | vilhena airport |  | porto velho
+bvj | bovanenkovo airport | aksarka | yekaterinburg
+bvy | beverly municipal airport | beverly | new york
+bwa | bhairawa airport | bhairahawa | kathmandu
+bwi | baltimore/wash international thurgood marshall airport | ferndale | new york
+bwn | brunei international airport | bandar seri begawan | brunei
+bwt | burnie wynyard airport | wynyard | hobart
+bww | las brujas airport | yaguajay | havana
+bxu | butuan airport | libertad | manila
+bxw | harun thohir airport | paloh | jakarta
+bxy | baikonur krayniy airport | toretam | qyzylorda
+byf | albert-bray airport | bray-sur-somme | paris
+byh | arkansas international airport | blytheville | chicago
+byo | bonito airport | bonito | campo grande
+byp | barimunya airport |  | perth
+byr | laeso airport | byrum | copenhagen
+bze | philip s.w. goldson international airport |  | belize
+bzg | bydgoszcz airport | bydgoszcz | warsaw
+bzk | bryansk international airport | bryansk | moscow
+bzl | barisal airport | barisal | dhaka
+bzm | bemolanga airport |  | antananarivo
+bzn | bozeman yellowstone international airport | belgrade | denver
+bzr | beziers vias airport | portiragnes | paris
+bzv | maya maya airport | brazzaville | brazzaville
+bzx | bazhong enyang airport | bazhou | shanghai
+bzy | beltsy airport | balti | chisinau
+cab | cabinda airport | cabinda | luanda
+cac | cascavel airport | cascavel | sao paulo
+cae | columbia metropolitan airport |  | new york
+cag | cagliari elmas airport | elmas | rome
+cai | cairo international airport |  | cairo
+cak | akron-canton airport | greensburg | new york
+cal | machrihanish airport | campbeltown | london
+can | guangzhou baiyun international airport |  | shanghai
+cap | cap haitien airport | okap | port-au-prince
+caw | bartolomeu lisandro airport | campos | sao paulo
+cay | felix eboue airport | matoury | cayenne
+cbb | j wilsterman airport | cochabamba | la paz
+cbg | cambridge airport | fulbourn | london
+cbo | awang airport | awang | manila
+cbq | calabar airport | calabar | lagos
+cbr | canberra airport | forrest | canberra
+cbt | catumbela airport | catumbela | luanda
+ccb | cable airport | claremont | los angeles
+ccc | jardines del rey airport | moron | havana
+ccf | carcassonne airport | pennautier | paris
+ccg | crane county airport | crane | chicago
+ccj | calicut international airport | ferokh | kolkata
+cck | cocos islands airport | west island | cocos
+ccp | carriel sur airport | concepcion | santiago
+ccs | simon bolivar international airport | catia la mar | caracas
+ccu | netaji subhas chandra bose airport | dam dam | kolkata
+cdb | cold bay airport |  | nome
+cdc | cedar city airport | cedar city | denver
+cdg | charles de gaulle airport |  | paris
+cdr | chadron airport | chadron | denver
+cdv | mudhole smith airport |  | anchorage
+ceb | mactan-cebu international airport | buagsong | manila
+cec | del norte county regional airport | crescent city | los angeles
+ced | ceduna airport |  | adelaide
+cee | cherepovets airport | tonshalovo | moscow
+ceg | hawarden airport | chester | london
+cei | chiang rai international airport | chiang rai | bangkok
+cek | chelyabinsk international airport | potanino | yekaterinburg
+cen | ciudad obregon airport | antonio rosales | hermosillo
+cez | montezuma county airport | cortez | denver
+cfb | cabo frio international airport | cabo frio | sao paulo
+cfe | clermont-ferrand auvergne airport | aulnat | paris
+cfg | jaime gonzalez airport | cienfuegos | havana
+cfk | chlef international airport | chlef | algiers
+cfm | conklin (leismer) airport |  | edmonton
+cfn | donegal airport | derrybeg | dublin
+cfq | creston valley airport | creston | creston
+cfr | carpiquet airport | carpiquet | paris
+cfs | coffs harbour airport | coffs harbour | sydney
+cfu | ioannis kapodistrias airport | kerkyra | athens
+cgb | marechal rondon international airport | varzea grande | cuiaba
+cgd | changde airport | doumuhu | shanghai
+cgh | sao paulo/congonhas airport | diadema | sao paulo
+cgi | cape girardeau airport | scott city | chicago
+cgk | soekarno-hatta international airport | teluknaga | jakarta
+cgn | cologne bonn airport | wahn-heide | berlin
+cgo | zhengzhou xinzheng airport |  | shanghai
+cgp | shah amanat international airport | chittagong | dhaka
+cgq | changchun longjia international airport | changchun | shanghai
+cgr | campo grande international airport | campo grande | campo grande
+cgy | laguindingan international airport | lumbia | manila
+cha | chattanooga airport | east ridge | new york
+chc | christchurch international airport | prebbleton | auckland
+chg | chaoyang airport | chaoyang | shanghai
+cho | charlottesville albemarle airport | hollymead | new york
+chq | chania international airport | mouzouras | athens
+chs | charleston international airport | hanahan | new york
+chu | chuathbaluk airport |  | anchorage
+chy | choiseul bay airport |  | guadalcanal
+cia | ciampino-g. b. pastine international airport | ciampino | rome
+cic | chico municipal airport | chico | los angeles
+cid | the eastern iowa airport | fairfax | chicago
+cif | chifeng airport |  | shanghai
+cih | changzhi airport | daxinzhuang | shanghai
+cij | e. beltram airport | brasileia | la paz
+cit | shymkent airport | shymkent | almaty
+ciu | chippewa county airport |  | detroit
+cix | cornel ruiz airport | chiclayo | lima
+ciy | comiso airport | comiso | rome
+cja | cajamarca airport | cajamarca | lima
+cjb | coimbatore international airport | irugur | kolkata
+cjc | el loa airport | calama | santiago
+cjf | coondewanna airport |  | perth
+cjj | cheongju airport | cheongju-si | seoul
+cjm | chumphon airport | pathio | bangkok
+cjs | abraham gonzalez international airport | ciudad juarez | ojinaga
+cju | jeju international airport |  | seoul
+cjz | cajazeiras airport | cajazeiras | fortaleza
+ckb | benedum airport | bridgeport | new york
+ckg | chongqing jiangbei international airport | shuangfengqiao | shanghai
+ckh | chokurdah airport | chokurdakh | srednekolymsk
+cks | carajas airport |  | belem
+cky | conakry airport | conakry | conakry
+ckz | canakkale airport | canakkale | istanbul
+cld | mcclellan-palomar airport | lake san marcos | los angeles
+cle | cleveland hopkins international airport | brook park | new york
+clj | avram iancu cluj international airport | sannicoara | bucharest
+cll | easterwood airport | college station | chicago
+clo | alfonso b. aragon airport | palmira | bogota
+clq | colima airport | cuauhtemoc | mexico city
+clt | charlotte douglas international airport |  | new york
+cly | sainte catherine airport | calvi | paris
+cmb | bandaranaike international airport | katunayake | colombo
+cme | ciudad del carmen airport | ciudad del carmen | merida
+cmg | corumba internacional airport |  | campo grande
+cmh | john glenn columbus international airport | gahanna | new york
+cmi | willard university airport | savoy | chicago
+cmn | mohamed v international airport | nouaseur | casablanca
+cmw | ign agramonte international airport | camaguey | havana
+cmx | houghton county airport | dollar bay | detroit
+cnd | kogalniceanu airport | mihail kogalniceanu | bucharest
+cnf | tancredo neves international airport | lagoa santa | sao paulo
+cnj | cloncurry airport |  | brisbane
+cnn | kannur international airport | mattanur | kolkata
+cnp | neerlerit inaat airport |  | scoresbysund
+cnq | camba punta airport | corrientes | argentina
+cns | cairns airport | cairns | brisbane
+cnw | tstc waco airport | hillsboro | chicago
+cnx | chiang mai international airport | chiang mai | bangkok
+cod | yellowstone regional airport | cody | denver
+cok | cochin international airport | angamali | kolkata
+coo | cotonou airport | cotonou | porto-novo
+cop | cooperstown - westville airport | cooperstown | new york
+cor | ingeniero aeronautico ambrosio l.v. taravella international airport | villa allende | argentina
+cos | colorado springs airport | security-widefield | denver
+cou | columbia regional airport | ashland | chicago
+cpc | chapelco airport | junin de los andes | argentina
+cpd | coober pedy airport |  | adelaide
+cpe | campeche international airport | campeche | merida
+cph | copenhagen airport | dragor | copenhagen
+cpo | chamonate airport | copiapo | santiago
+cpp | coposa airport |  | santiago
+cpr | casper/natrona county international airport | mills | denver
+cps | st. louis downtown airport | cahokia | chicago
+cpt | cape town international airport | lansdowne | johannesburg
+cpv | joao suassuna airport | campina grande | fortaleza
+cpx | benjamin rivera noriega airport | culebra | puerto rico
+cqa | canarana airport |  | cuiaba
+cra | craiova airport | carcea | bucharest
+crd | general e. mosconi international airport | comodoro rivadavia | argentina
+cre | grand strand airport | north myrtle beach | new york
+cri | crooked island airport |  | nassau
+crl | charleroi brussels south airport | charleroi | brussels
+crm | national airport | bobon | manila
+crp | corpus christi international airport |  | chicago
+crw | yeager airport | charleston | new york
+csg | columbus airport |  | new york
+csx | changsha huanghua airport |  | shanghai
+csy | cheboksary airport | cheboksary | moscow
+cta | catania-fontanarossa airport | catania | rome
+ctc | catamarca airport | san fernando del valle de catamarca | argentina
+ctf | coatepeque airport | nuevo progreso | guatemala
+ctg | rafael nunez international airport | cartagena | bogota
+ctl | charleville airport |  | brisbane
+ctm | chetumal airport | chetumal | cancun
+ctn | cooktown airport |  | brisbane
+cts | new chitose airport | chitose | tokyo
+ctu | chengdu shuangliu international airport | dongsheng | shanghai
+ctv | catoca airport | saurimo | luanda
+cua | ciudad constitución airport |  | mazatlan
+cuc | camilo daza international airport | cucuta | bogota
+cue | mariscal lamar international airport | cuenca | guayaquil
+cuf | levaldigi airport | centallo | rome
+cul | culiacan international airport | el diez | mazatlan
+cun | cancun international airport | alfredo v. bonfil | cancun
+cur | curacao international airport | sint michiel liber | curacao
+cuu | gen fierro villalobos airport | ninguno [cereso] | chihuahua
+cuz | alejandro velasco astete international airport | cusco | lima
+cvg | cincinnati/northern kentucky airport | hebron | new york
+cvj | general mariano matamoros airport | cuernavaca | mexico city
+cvm | ciudad victoria airport | ciudad victoria | monterrey
+cvn | clovis municipal airport | texico | denver
+cvq | carnarvon airport |  | perth
+cvt | coventry airport | ryton on dunsmore | london
+cvu | corvo island (azores) airport |  | azores
+cwa | central wisconsin airport | mosinee | chicago
+cwb | afonso pena international airport | sao jose dos pinhais | sao paulo
+cwc | chernivtsi international airport | chernivtsi | kiev
+cwj | cangyuan washan airport | mengdong | chongqing
+cwk | chitrakoot airport |  | kolkata
+cwl | cardiff airport | rhoose | london
+cwx | cochise county airport | willcox | phoenix
+cxb | coxs bazar airport | cox's bazar | dhaka
+cxc | chitina airport |  | anchorage
+cxi | christmas island airport | london village | kiritimati
+cxj | hugo cantergiani regional airport | caxias do sul | sao paulo
+cxr | cam ranh international airport | cam lam | ho chi minh
+cyb | charles kirkconnel international airport |  | cayman
+cyi | chiayi airport | taibao | taipei
+cyo | cayo largo del sur airport | jaguey grande | havana
+cyp | calbayog airport | sabang | manila
+cyx | cherskiy airport | cherskiy | srednekolymsk
+cyz | cauayan airport | cauayan | manila
+czl | ain el bey airport | constantine | algiers
+czm | cozumel airport | san miguel de cozumel | cancun
+czr | chara kyust-kemda airport |  | chita
+czs | campo internacional airport | cruzeiro do sul | rio branco
+czu | corozal airport | morroa | bogota
+czx | changzhou airport | luoxi | shanghai
+dab | daytona beach international airport | daytona beach | new york
+dac | hazrat shahjalal international airport | tungi | dhaka
+dad | da nang international airport | thanh khe | ho chi minh
+dam | damascus international airport | harran al `awamid | damascus
+dar | julius nyerere international airport | dar es salaam | dar es salaam
+dat | datong airport | beijiazao | shanghai
+dau | daru airport |  | port moresby
+dav | enrique malek airport | pedregal | panama
+dax | dazhou heshi airport | xiwai | shanghai
+day | james m. cox dayton international airport | vandalia | new york
+dbo | dubbo city regional airport | dubbo | sydney
+dbq | dubuque municipal airport | dubuque | chicago
+dbr | darbhanga airport | darbhanga | kolkata
+dbv | dubrovnik airport | jasenice | zagreb
+dca | ronald reagan national airport |  | new york
+dcf | canefield airport |  | dominica
+dck | dahl creek airport |  | anchorage
+dcm | mazamet airport | lagarrigue | paris
+dcy | daocheng yading airport | sangpi | shanghai
+ddc | dodge city municipal airport | dodge city | chicago
+ddd | dhaalu airport | kudahuvadhoo | maldives
+ddg | langtou airport |  | shanghai
+ddr | shigatse tingri airport | xigaze | shanghai
+dea | dera ghazi khan airport |  | karachi
+deb | debrecen airport | debrecen | budapest
+dec | decatur airport | long creek | chicago
+ded | dehra dun airport | dehradun | kolkata
+dee | mendeleyevo airport | yuzhno-kurilsk | sakhalin
+def | dezful airport | andimeshk | tehran
+del | indira gandhi international airport | gurgaon | kolkata
+den | denver international airport | lochbuie | denver
+deq | deqing moganshan airport | leidian | shanghai
+dex | nop goliat airport |  | jakarta
+dfa | danfeng airport | yaoshi | shanghai
+dfw | dallas/fort worth international airport | grapevine | chicago
+dgh | deoghar international airport | deoghar | kolkata
+dgo | guadalupe victoria airport | jose refugio salcido | monterrey
+dgt | dumaguete airport | dumaguete | manila
+dhf | al dhafra military airport |  | dubai
+dhm | gaggal airport | dharmsala | kolkata
+dhn | dothan regional airport | midland city | chicago
+dhr | de kooy/den helder airport | den helder | amsterdam
+dhx | dhoho international airport |  | jakarta
+dia | doha international airport | doha | qatar
+dib | dibrugarh airport | dibrugarh | kolkata
+dig | diqing shangri-la airport | shangri-la | shanghai
+dik | dickinson regional airport | dickinson | boise
+dil | comoro airport | dili | dili
+din | dien bien airport | dien bien phu | ho chi minh
+dir | aba tenna d yilma airport | dire dawa | addis ababa
+diu | diu airport | diu | kolkata
+diw | mawella lagoon airport |  | colombo
+diy | diyarbakir airport | baglar | istanbul
+djb | sultan thaha airport | jambi city | jakarta
+dje | melita airport | houmt souk | tunis
+djg | inedbirenne airport |  | algiers
+djj | sentani airport | sentani | jayapura
+dkr | leopold sedar senghor international airport | mermoz boabab | dakar
+dla | douala airport | douala | douala
+dlc | dalian zhoushuizi international airport | dalian | shanghai
+dle | dole-jura airport | choisey | paris
+dlg | dillingham airport |  | anchorage
+dlh | duluth international airport | hermantown | chicago
+dli | lien khuong airport | duc trong | ho chi minh
+dlm | dalaman airport | dalaman | istanbul
+dlr | dalnerechensk airport | dal'nerechensk | vladivostok
+dls | columbia gorge regional/the dalles municipal airport | the dalles | los angeles
+dlu | dali airport | dali | shanghai
+dmb | jambyl airport | taraz | almaty
+dmd | doomadgee airport |  | brisbane
+dme | moscow domodedovo airport | yakovlevskoye | moscow
+dmk | don mueang international airport | don mueang | bangkok
+dmm | king fahd international airport | al awjam | riyadh
+dmu | dimapur airport | dimapur | kolkata
+dnd | dundee airport |  | london
+dne | dallas north airport | westworth | chicago
+dnh | dunhuang airport |  | shanghai
+dnk | dnepropetrovsk international airport | aviatorskoe | kiev
+dnr | pleurtuit airport | pleurtuit | paris
+dnz | cardak airport | cardak | istanbul
+dob | dobo airport |  | jayapura
+dod | dodoma airport | dodoma | dar es salaam
+doh | hamad international airport | doha | qatar
+dok | donetsk international airport | avdiyivka | kiev
+dol | saint gatien airport | saint-gatien-des-bois | paris
+dom | melville hall airport |  | dominica
+dou | dourados airport | dourados | campo grande
+doy | dongying airport | shengli | shanghai
+dpa | dupage airport | wayne | chicago
+dpb | pampa guanaco airport |  | santiago
+dpl | dipolog airport | dipolog | manila
+dpo | devonport airport |  | hobart
+dps | ngurah rai international airport | kelanabian | makassar
+dqa | daqing shi airport | wolitun | shanghai
+dqm | duqm international airport |  | muscat
+drg | deering airport |  | nome
+dro | durango-la plata county airport | bayfield | denver
+drp | bicol international airport |  | manila
+drs | dresden international airport |  | berlin
+drt | del rio international airport | ciudad acuna | chicago
+drw | darwin international airport | ludmilla | darwin
+dsa | doncaster sheffield airport | finningley | london
+dsi | destin-fort walton beach airport | destin | chicago
+dsm | des moines international airport | norwalk | chicago
+dsn | ordos ejin horo airport | tianjiao | shanghai
+dss | blaise diagne international airport | pout | dakar
+dsy | dara sakor international airport | koh kong | phnom penh
+dtb | sisingamangaraja xii international airport | siborong-borong | jakarta
+dtm | dortmund airport | holzwickede | berlin
+dtu | wudalianchi dedu airport | baoquan | shanghai
+dtw | detroit metropolitan wayne county airport | romulus | detroit
+dub | dublin airport | beaumont | dublin
+dud | dunedin international airport | milton | auckland
+duf | pine island airport | southern shores | new york
+dur | king shaka international airport | ballitoville | johannesburg
+dus | dusseldorf international airport |  | berlin
+dut | unalaska airport |  | nome
+dvl | devils lake airport | devils lake | chicago
+dvo | francisco bangoy intl airport | babak | manila
+dvt | phoenix deer valley airport | glendale | phoenix
+dwc | dubai world central - al maktoum international airport |  | dubai
+dwd | dawadmi airport | ad dawadimi | riyadh
+dxb | dubai airport |  | dubai
+dxj | xiangxi biancheng airport |  | shanghai
+dxr | danbury municipal airport | danbury | new york
+dyg | zhangjiajie hehua airport |  | shanghai
+dyr | anadyr airport | anadyr | anadyr
+dyu | dushanbe airport | dushanbe | dushanbe
+dza | dzaoudzi airport | pamandzi | mayotte
+dzh | dazhou jinya airport | dazhou | shanghai
+dzn | zhezhazgan airport | zhezqazghan | almaty
+eap | euroairport basel-mulhouse-freiburg airport | basel | zurich
+ear | kearney regional airport | kearney | chicago
+eas | san sebastian airport | fuenterrabia | madrid
+eau | eau claire airport | lake hallie | chicago
+eba | marina di campo airport | campo nell'elba | rome
+ebb | entebbe international airport | entebbe | kampala
+ebj | esbjerg airport | tjaereborg | copenhagen
+ebl | erbil international airport | erbil | baghdad
+ebo | ebon airport | ebon | majuro
+ebu | boutheon airport | veauche | paris
+eca | emmet county airport | east tawas | detroit
+eci | costa esmeralda airport | tola | managua
+ecn | ercan airport | geri | nicosia
+edi | edinburgh airport | ratho | london
+edl | eldoret airport | eldoret | nairobi
+edn | enterprise muni airport |  | chicago
+edo | balikesir koca seyit airport | edremit | istanbul
+eek | eek airport |  | nome
+ees | berenice international airport | berenice city | cairo
+efl | kefallinia airport | argostolion | athens
+efo | east fork airport |  | nome
+egc | roumanieres airport | bergerac | paris
+ege | eagle county airport | gypsum | denver
+egm | sege airport |  | guadalcanal
+egn | geneina airport | geneina | khartoum
+ego | belgorod airport | belgorod | moscow
+egs | egilsstadir airport |  | reykjavik
+egx | egegik airport |  | anchorage
+ehu | ezhou huahu airport | ezhou | shanghai
+ein | eindhoven airport | meerhoven | amsterdam
+eis | terrance b. lettsome international airport |  | tortola
+eja | variguies airport | barrancabermeja | bogota
+ejh | wedjh airport | al wajh | riyadh
+ejn | ejin banner taolai airport | dalain hob | chongqing
+eko | elko airport | elko | los angeles
+eks | shakhtyorsk airport | shakhtersk | sakhalin
+elc | elcho island airport |  | darwin
+eld | south arkansas regional airport | el dorado | chicago
+elf | el fasher airport | el fasher | khartoum
+elg | el golea airport | metlili chaamba | algiers
+elh | north eleuthera international airport |  | nassau
+eli | elim airport |  | nome
+elm | elmira corning regional airport | big flats | new york
+elp | el paso international airport | fort bliss | denver
+elq | prince nayef bin abdulaziz regional airport | al bukayriyah | riyadh
+els | east london airport | east london | johannesburg
+elu | guemar airport | reguiba | algiers
+ema | east midlands airport | castle donington | london
+emd | emerald airport | emerald | brisbane
+emk | emmonak airport |  | nome
+ena | kenai municipal airport | kenai | anchorage
+ene | h. hasan aroeboesman airport | onekore | makassar
+enh | enshi airport | enshi | shanghai
+enu | enugu airport | enugu | lagos
+enw | kenosha regional airport | kenosha | chicago
+eny | ershilipu airport | bao'an | shanghai
+eoh | enrique olaya herrera airport | itagui | bogota
+eoi | eday airport |  | london
+epr | esperance airport | nulsen | perth
+eqs | esquel airport | esquel | argentina
+erc | erzincan airport | erzincan | istanbul
+erf | erfurt airport | ingersleben | berlin
+erg | erbogachen airport | yerbogachen | irkutsk
+erh | moulay ali cherif airport | errachidia | casablanca
+eri | erie international airport | fairview | new york
+erl | eren hot airport | erenhot | shanghai
+ers | eros airport |  | windhoek
+erz | erzurum airport | ilica | istanbul
+esb | esenboga international airport | akyurt | istanbul
+esc | delta county airport | escanaba | detroit
+esd | orcas island airport |  | los angeles
+esl | elista airport | troitskoye | moscow
+esm | esmeraldas airport | esmeraldas | guayaquil
+esu | essaouira airport | essaouira | casablanca
+eth | eilat airport |  | jerusalem
+etl | svetlaya airport | svetlaya | vladivostok
+etm | ramon airport |  | jerusalem
+etr | coronel artilleria victor larrea airport | santa rosa | guayaquil
+etz | metz-nancy-lorraine airport | verny | paris
+eug | eugene airport | junction city | los angeles
+eun | hassan i airport | laayoune / el aaiun | casablanca
+eux | f d roosevelt airport | oranjestad | kralendijk
+eve | harstad/narvik airport evenes | evenskjer | oslo
+evg | sveg airport | sveg | stockholm
+evn | zvartnots international airport | arbat' | yerevan
+evv | evansville regional airport | melody hill | chicago
+ewb | new bedford airport | new bedford | new york
+ewn | coastal carolina regional airport | james city | new york
+ewr | newark liberty international airport | elizabeth | new york
+ext | exeter international airport | topsham | london
+eya | zeya airport |  | yakutsk
+eyk | beloyarsky airport | beloyarskiy | yekaterinburg
+eyp | el yopal airport | yopal | bogota
+eyw | key west international airport | stock island | new york
+eze | ministro pistarini airport | ezeiza | argentina
+ezs | elazig airport | mollakendi | istanbul
+fae | vagar airport | midvagur | faroe
+fai | fairbanks international airport |  | anchorage
+fao | faro airport |  | lisbon
+far | hector international airport | oakport | chicago
+fat | fresno yosemite international airport | sunnyside | los angeles
+fav | fakarava airport |  | tahiti
+fay | fayetteville regional airport | hope mills | new york
+fbd | faizabad airport | fayzabad | kabul
+fbm | lubumbashi international airport | lubumbashi | lubumbashi
+fca | glacier park international airport | evergreen | denver
+fcm | flying cloud airport |  | chicago
+fco | leonardo da vinci-fiumicino airport | fiumicino-isola sacra | rome
+fde | bringeland airport | sande | oslo
+fdf | martinique aime cesaire international airport | le lamentin | martinique
+fdh | friedrichshafen airport | friedrichshafen | berlin
+feg | fergana airport | fergana | tashkent
+fen | fernando de noronha airport | fernando de noronha (distrito estadual) | noronha
+fez | fes-saiss airport | oulad tayeb | casablanca
+fgi | fagali i airport | apia | apia
+fih | n'djili airport | masina | kinshasa
+fki | bangoka international airport | kisangani | lubumbashi
+fkl | venango regional airport | franklin | new york
+fkq | fak fak airport | fakfak | jayapura
+fks | fukushima airport | sukagawa | tokyo
+fla | capitolio airport | florencia | bogota
+flg | flagstaff pulliam airport | kachina village | phoenix
+fll | fort lauderdale-hollywood international airport |  | new york
+fln | hercilio luz international airport | carianos | sao paulo
+flo | florence airport | florence | new york
+flr | firenze-peretola airport | sesto fiorentino | rome
+fls | flinders island airport | bridport | hobart
+flw | santa cruz airport |  | azores
+flx | fallon municipal airport |  | los angeles
+flz | ferdinand lumban tobing airport | batangtoru | jakarta
+fma | el pucu airport | formosa | argentina
+fmi | kalemie airport | kalemie | lubumbashi
+fmm | memmingen allgau airport | memmingerberg | berlin
+fmn | four corners regional airport | farmington | denver
+fmo | munster osnabruck international airport | ladbergen | berlin
+fna | lungi international airport | masoyila | freetown
+fnc | madeira airport | machico | madeira
+fnd | funadhoo airport | funadhoo | maldives
+fni | garons airport | garons | paris
+fnj | pyongyang sunan international airport | sunan | pyongyang
+fnl | municipalcipal airport |  | denver
+fnt | bishop international airport | flint | detroit
+foc | changle international airport |  | shanghai
+fod | fort dodge airport | fort dodge | chicago
+fon | fortuna airport | quesada | costa rica
+for | pinto martins airport | fortaleza | fortaleza
+fpo | grand bahama international airport | freeport | nassau
+fra | frankfurt airport | kelsterbach | berlin
+frd | friday harbor airport |  | los angeles
+fre | fera island airport |  | guadalcanal
+fro | flora airport | floro | oslo
+frs | santa elena airport | flores | guatemala
+fru | manas international airport | bishkek | bishkek
+frw | francistown airport | francistown | gaborone
+fsc | sud corse airport | bonifacio | paris
+fsd | sioux falls regional airport (joe foss field) | sioux falls | chicago
+fsm | fort smith regional airport | barling | chicago
+fsp | saint pierre airport | saint-pierre | miquelon
+fsz | shizuoka airport | shimada | tokyo
+fta | futuna airport |  | efate
+fte | el calafate airport |  | argentina
+ftu | marillac airport | fort dauphin | antananarivo
+fue | fuerteventura airport | puerto del rosario | canary
+fug | fuyang airport | fuyang | shanghai
+fuj | fukue airport | fukuecho | tokyo
+fuk | fukuoka airport | fukuoka-shi | tokyo
+fun | funafuti atol international airport | fakaifou village | funafuti
+fuo | fuoshan airport | guangzhou | shanghai
+fvr | forrest river airport |  | perth
+fwa | fort wayne international airport | ossian | indiana
+fxe | fort lauderdale executive airport | dania beach | new york
+fyj | fuyuan dongji airport | fuyuan | shanghai
+fyn | fuyun koktokay airport | kalatongke | shanghai
+fyu | fort yukon airport |  | anchorage
+fzl | fuzuli international airport | fuzuli | baku
+gae | gabès matmata international airport | gabes | tunis
+gaj | junmachi airport | higashine | tokyo
+gal | edward g. pitka sr. airport |  | anchorage
+gam | gambell airport |  | nome
+gan | gan/seenu airport | hithadhoo | maldives
+gao | los canos airport |  | havana
+gau | lokpriya gopinath bordoloi international airport | palasbari | kolkata
+gay | gaya airport | bodh gaya | kolkata
+gbb | gabala international airport | agdas | baku
+gbe | sir seretse khama international airport | mmopone | gaborone
+gbr | walter j. koladza airport | great barrington | new york
+gbt | gorgon airport | gorgan | tehran
+gbw | ginbata airport |  | perth
+gcc | campbell county airport | gillette | denver
+gci | guernsey airport |  | guernsey
+gck | garden city municipal airport | garden city | chicago
+gcm | owen roberts international airport | george town | cayman
+gct | grand canyon bar 10 airport |  | phoenix
+gdb | gondia airport | gondia | kolkata
+gde | gode/iddidole airport | yeed | addis ababa
+gdl | don miguel hidal y costilla international airport | el quince | mexico city
+gdn | gdansk lech walesa airport | banino | warsaw
+gdq | gondar airport | gondar | addis ababa
+gdr | angra dos reis airport | angra dos reis | sao paulo
+gdv | dawson community airport | west glendive | denver
+gdx | magadan airport | sokol | magadan
+gdz | gelendzik airport | gelendzhik | moscow
+gea | noumea magenta airport | noumea | noumea
+geg | spokane international airport | airway heights | los angeles
+gem | president obiang nguema international airport | mongomo | malabo
+geo | cheddi jagan international airport | vreed-en-hoop | guyana
+ger | rafael cabrera airport |  | havana
+ges | general santos international airport | buayan | manila
+get | geraldton airport | geraldton | perth
+gev | gallivare airport | gaellivare | stockholm
+gff | griffith airport | griffith | sydney
+gfk | grand forks international airport | grand forks | chicago
+gfn | grafton airport | south grafton | sydney
+ggg | gregg county airport | longview | chicago
+ggh | gastão mesquita airport | cianorte | sao paulo
+ggj | guaíra airport | salto del guaira | sao paulo
+ggm | kakamega airport | kakamega | nairobi
+ggt | exuma international airport | george town | nassau
+ggw | glasgow international airport | glasgow | denver
+gha | noumerate airport | ghardaia | algiers
+ghb | governor's harbour airport |  | nassau
+ghs | melak airport |  | makassar
+ghv | brașov-ghimbav international airport |  | bucharest
+gib | north front airport | gibraltar | gibraltar
+gig | galeao antonio carlos jobim international airport | duque de caxias | sao paulo
+gil | gilgit airport | gilgit | karachi
+gis | gisborne airport | gisborne | auckland
+giz | jazan regional airport | jizan | riyadh
+gjl | jijel ferhat abbas airport | jijel | algiers
+gjt | grand junction regional airport | fruitvale | denver
+gka | goroka airport |  | port moresby
+gkk | kooddoo airport |  | maldives
+gla | glasgow international airport | inchinnan | london
+glf | golfito airport |  | costa rica
+glh | greenville airport | metcalfe | chicago
+gll | klanten airport | gol | oslo
+gln | goulimime airport | guelmim | casablanca
+glt | gladstone airport |  | brisbane
+glu | gelephu airport | sarpang | thimphu
+glv | golovin airport |  | nome
+gmb | gambela airport | gambela | addis ababa
+gme | gomel airport | gomel | minsk
+gmo | gombe lawanti international airport | akko | lagos
+gmp | gimpo international airport | bucheon-si | seoul
+gmq | golog maqin airport | dawu | shanghai
+gmz | la gomera airport | alajero | canary
+gna | grodno airport | hrodna | minsk
+gnb | grenoble-isere airport | saint-etienne-de-saint-geoirs | paris
+gnd | maurice bishop international airport | saint george's | grenada
+gnj | ganja international airport | ganja | baku
+gns | gunungsitoli airport |  | jakarta
+gnv | gainesville regional airport | gainesville | new york
+gny | sanliurfa gap airport |  | istanbul
+goa | genoa cristoforo colombo airport | san teodoro | rome
+goh | nuuk airport | nuuk | godthab
+goi | dabolim airport | chicalim | kolkata
+goj | nizhny novgorod international airport | gorbatovka | moscow
+gom | goma airport | goma | lubumbashi
+gop | gorakhpur airport | gorakhpur | kolkata
+goq | golmud airport | guolemude | shanghai
+got | goteborg landvetter airport | landvetter | stockholm
+gou | garoua airport | garoua | douala
+gov | nhulunbuy airport |  | darwin
+gox | mopa airport | mopa | kolkata
+goy | tura airport |  | krasnoyarsk
+gpa | araxos airport | patra | athens
+gpi | guapi airport |  | bogota
+gps | baltra airport | puerto ayora | galapagos
+gpt | gulfport-biloxi international airport | west gulfport | chicago
+grb | austin straubel international airport | ashwaubenon | chicago
+gri | grand island airport | grand island | chicago
+grj | george airport | george | johannesburg
+gro | girona-costa brava airport | vilobi d'onyar | madrid
+grq | eelde airport | vries | amsterdam
+grr | gerald r. ford international airport | forest hills | detroit
+gru | sao paulo-guarulhos international airport | guarulhos | sao paulo
+grv | groznyy airport | staraya sunzha | moscow
+grw | graciosa island airport | lagoa | azores
+grx | granada airport | chauchina | madrid
+grz | graz airport | feldkirchen bei graz | vienna
+gse | gothenburg city airport | majorna | stockholm
+gsm | dayrestan airport | bandar-e khamir | tehran
+gso | piedmont triad international airport | oak ridge | new york
+gsp | greenville-spartanburg international airport | greer | new york
+gst | gustavus airport |  | juneau
+gsv | saratov gagarin airport | shumeyka | saratov
+gte | alyangula airport |  | darwin
+gtf | great falls international airport | great falls | denver
+gto | tolotio airport | isimu | makassar
+gtr | golden triangle regional airport | west point | chicago
+gtt | georgetown airport | georgetown | brisbane
+gua | la aurora international airport | santa catarina pinula | guatemala
+guc | gunnison airport | gunnison | denver
+gum | a.b. won pat international airport | tamuning-tumon-harmon village | guam
+gur | gurney airport |  | port moresby
+guw | atyrau airport | atyrau | aqtau
+gva | geneve airport | les avanchets | zurich
+gvr | governador valadares airport | governador valadares | sao paulo
+gwd | gwadar airport | gwadar | karachi
+gwl | gwalior airport | morar | kolkata
+gwt | westerland - sylt airport | tinnum | berlin
+gxa | beringin airport |  | pontianak
+gxh | gannan xiahe airport | nawu | shanghai
+gya | guayaramerin airport | guayaramerin | la paz
+gyb | wodgina airport | wodgina | perth
+gyd | heydar aliyev international airport | yeni suraxani | baku
+gye | jose joaquin de olmedo airport | eloy alfaro | guayaquil
+gyg | magan airport | magan | yakutsk
+gyn | santa genoveva airport | goiania | sao paulo
+gys | guang yuan airport | guangyuan | shanghai
+gyu | guyuan liupanshan airport | shirak | shanghai
+gyz | gruyere mine airport |  | perth
+gza | gaza - yaser arafat international airport | shukat as sufi | gaza
+gzg | garze gesar airport | ganzi | shanghai
+gzo | gizo airport |  | guadalcanal
+gzp | gazipasa airport | gazipasa | istanbul
+gzt | gaziantep airport | oguzeli | istanbul
+haa | hasvik airport | breivikbotn | oslo
+hac | hachijo jima airport |  | tokyo
+had | halmstad airport | halmstad | stockholm
+hah | prince said ibrahim internatonal airport |  | comoro
+haj | hannover airport | langenhagen | berlin
+hak | haikou airport |  | shanghai
+ham | hamburg airport | fuhlsbuettel | berlin
+han | noi bai international airport | soc son | ho chi minh
+haq | hanimaadhoo airport | dhidhdhoo | maldives
+has | hail airport | hayil | riyadh
+hau | haugesund airport | vedavagen | oslo
+hav | jose marti international airport | boyeros | havana
+hba | hobart international airport | seven mile beach | hobart
+hbe | borg el arab airport | alexandria | cairo
+hbq | qilian airport | hongtu | shanghai
+hbx | hubli airport | hubli | kolkata
+hcj | hechi jinchengjiang airport | nandan chengguanzhen | shanghai
+hcr | holy cross airport |  | anchorage
+hcz | chenzhou beihu airport | chenzhou | shanghai
+hdf | heringsdorf airport | seebad heringsdorf | berlin
+hdg | handan airport | handan | shanghai
+hdk | kulhudhuffushi airport | kulhudhuffushi | maldives
+hdm | hamadan airport | hamadan | tehran
+hdn | yampa valley airport | hayden | denver
+hdo | hindon airport | ghaziabad | kolkata
+hds | hoedspruit airport | hoedspruit | johannesburg
+hdy | hat yai international airport | khlong hoi khong | bangkok
+hea | herat international airport | guzarah | kabul
+heh | heho airport |  | rangoon
+hek | heihe airport | xinfu | shanghai
+hel | helsinki-vantaa airport |  | helsinki
+her | heraklion airport | nea alikarnassos | athens
+het | hohhot baita international airport | haoxinying | shanghai
+hew | hengdian airport | nanshi | shanghai
+hfa | haifa airport | qiryat mozqin | jerusalem
+hfe | hefei xinqiao airport |  | shanghai
+hfs | hagfors airport | hagfors | stockholm
+hft | hammerfest airport | hammerfest | oslo
+hga | hargeisa airport | hargeysa | mogadishu
+hge | higuerote airport | higuerote | caracas
+hgh | hangzhou xiaoshan international airport |  | shanghai
+hgn | mae hong son airport | mae hong son | bangkok
+hgo | korhogo airport | korhogo | abidjan
+hgr | wash. county regional airport | state line | new york
+hgu | mount hagen airport | mount hagen | port moresby
+hhh | hilton head airport | hilton head island | new york
+hhn | frankfurt - hahn airport | lautzenhausen | berlin
+hhq | hua hin airport | hua hin | bangkok
+hia | huai'an lianshui airport | huai'an | shanghai
+hib | chisholm airport | hibbing | chicago
+hid | horn island airport |  | brisbane
+hij | hiroshima airport | takehara | tokyo
+hin | sacheon airport | chinju | seoul
+hir | honiara international airport |  | guadalcanal
+hjj | zhijiang airport | zhijiang | shanghai
+hjr | khajuraho airport | khajuraho | kolkata
+hka | blytheville municipal airport | blytheville | chicago
+hkd | hakodate airport | hakodate | tokyo
+hkg | hong kong international airport | tuen mun | hong kong
+hkk | hokitika airport |  | auckland
+hkn | hoskins airport |  | port moresby
+hkt | phuket international airport |  | bangkok
+hla | lanseria international airport | diepsloot | johannesburg
+hld | hulunbuir hailar airport | fendou | shanghai
+hle | saint helena airport | jamestown | st helena
+hlh | ulanhot airport | heping | shanghai
+hlj | beidahuang general airport | zhaodong | shanghai
+hln | helena regional airport | helena | denver
+hlp | halim perdanakusuma airport | jakarta | jakarta
+hly | anglesey airport | holyhead | london
+hlz | hamilton international airport | hamilton | auckland
+hma | khanty-mansiysk airport | khanty-mansiysk | yekaterinburg
+hmb | mubarak international airport | al manshah | cairo
+hme | oued irara airport | hassi messaoud | algiers
+hmi | hami airport | hami | shanghai
+hmo | gen pesqueira garcia airport | hermosillo | hermosillo
+hmr | hamar airport | hamar | oslo
+hmv | hemavan airport |  | stockholm
+hmy | seosan airport | suisan | seoul
+hna | hanamaki airport | hanamaki | tokyo
+hnd | haneda airport | kawasaki | tokyo
+hnh | hoonah airport |  | juneau
+hnl | honolulu international airport | hickam field | honolulu
+hnm | hana airport | hana | honolulu
+hns | haines municipal airport |  | juneau
+hny | hengyang nanyue airport | hengyang | shanghai
+hob | lea county airport | hobbs | denver
+hod | hodeidah airport | al hudaydah | aden
+hof | al-ahsa airport | al hufuf | riyadh
+hog | frank pais airport | cacocum | havana
+hom | homer airport |  | anchorage
+hor | horta airport | ribeira grande | azores
+hou | william p. hobby airport |  | chicago
+hov | hovden airport | volda | oslo
+hox | homalin airport | yairipok | rangoon
+hpb | hooper bay airport |  | nome
+hpg | shennongjia hongping airport | hongping | shanghai
+hph | cat bi international airport | haiphong | ho chi minh
+hpn | westchester county airport | purchase | new york
+hpy | baytown airport | baytown | chicago
+hql | tashkurgan airport | taxkorgan tajik | urumqi
+hqq | anyang hongqiqu airport |  | shanghai
+hrb | harbin taiping international airport |  | shanghai
+hre | harare international airport | epworth | harare
+hrf | hoarafushi airport | hoarafushi | maldives
+hrg | hurghada international airport | hurghada | cairo
+hrh | aligarh airport |  | kolkata
+hri | mattala rajapaksa international airport |  | colombo
+hrk | kharkov airport | bezlyudivka | kiev
+hrl | valley international airport | harlingen | chicago
+hro | boone county airport | harrison | chicago
+hrs | harrismith airport | kriel | johannesburg
+hsa | hazret sultan international airport | kentau | almaty
+hsf | suifenhe dongning airport | suifenhe | shanghai
+hsg | saga airport | okawa | tokyo
+hsj | shangjie airport | gongyi | shanghai
+hsl | huslia airport |  | anchorage
+hsn | putuoshan airport | dadong'ao | shanghai
+hsr | rajkot international airport |  | kolkata
+hsv | huntsville international airport | madison | chicago
+hta | chita airport | domna | chita
+htg | hatanga airport | khatanga | krasnoyarsk
+hti | hamilton island airport |  | lindeman
+htn | hotan airport | nu'erbage | shanghai
+hts | tri-state/milton airport | ceredo | new york
+htt | huatugou airport | gasi | shanghai
+hty | hatay airport | serinyol | istanbul
+huc | humacao airport | bajandas | puerto rico
+hue | humera airport |  | addis ababa
+huh | huahine airport | fare | tahiti
+hui | phu bai international airport | phu vang | ho chi minh
+hun | hualien airport | hualien city | taipei
+huo | holingol huolinhe airport | mositai | shanghai
+hus | hughes municipal airport |  | anchorage
+huu | huanuco airport | huanuco | lima
+hux | huatulco airport | sector h tres | mexico city
+huy | humberside airport | croxton | london
+huz | huizhou airport | longfeng | shanghai
+hvb | hervey bay airport |  | brisbane
+hvd | khovd airport | khovd | hovd
+hvg | valan airport | honningsvag | oslo
+hvn | new haven airport | east haven | new york
+hvr | havre city county airport | havre | denver
+hwd | hayward executive airport | hayward | los angeles
+hxd | delingha airport | keluke | urumqi
+hya | barnstable municipal airport | hyannis | new york
+hyd | rajiv gandhi international airport | balapur | kolkata
+hyn | luqiao airport | hengjie | shanghai
+hys | hays municipal airport | hays | chicago
+hza | establecimiento el araza airport | general guido | argentina
+hzg | hanzhong airport | xiangshui | shanghai
+hzh | liping airport | longlisuo | shanghai
+hzu | chengdu huaizhou airport | majialin village | shanghai
+iaa | igarka airport | igarka | krasnoyarsk
+iad | washington dulles international airport | floris | new york
+iag | niagara falls international airport | sanborn | new york
+iah | george bush intercontinental airport |  | chicago
+iam | in amenas airport |  | algiers
+ian | bob baker memorial airport |  | anchorage
+iar | tunoshna airport | yaroslavl | moscow
+ias | iasi airport | iasi | bucharest
+iba | ibadan airport | ibadan | lagos
+ibe | ibague airport | ibague | bogota
+ibm | iron bridge mine airport | marble bar | perth
+ibr | ibaraki airport | okunoya | tokyo
+ibz | ibiza airport | ibiza | madrid
+icc | andrés miguel salazar marcano airport | punta de piedras | caracas
+icn | incheon international airport |  | seoul
+ict | wichita dwight d. eisenhower national airport | wichita | chicago
+ida | idaho falls regional airport | idaho falls | boise
+idi | ndiana county airport (jimmy stewart field) | indiana | new york
+idr | devi ahilya bai holkar airport | indore | kolkata
+ieg | zielona gora-babimost airport | zielona gora | warsaw
+iev | kyiv international airport | chabany | kiev
+ifj | isafjordur airport |  | reykjavik
+ifn | isfahan international airport | dowlatabad | tehran
+ifo | ivano-frankovsk airport | cherniyiv | kiev
+ifp | laughlin bullhead international airport | laughlin | phoenix
+ifu | ifuru airport | ugoofaaru | maldives
+iga | inagua airport | matthew town | nassau
+igg | igiugig airport |  | anchorage
+igr | cataratas del iguazu international airport |  | argentina
+igt | magas airport | troitskaya | moscow
+igu | cataratas international airport | puerto iguazu | sao paulo
+iil | ilaam airport | ilam | tehran
+ijk | izhevsk airport | khokhryaki | samara
+iju | j. batista bos filho airport | ijui | sao paulo
+ika | imam khomeini international airport | robat karim | tehran
+ike | tiksi airport |  | yakutsk
+iki | iki airport | karatsu | tokyo
+iks | tiksi airport | tiksi | yakutsk
+ikt | irkutsk international airport | dzerzhinsk | irkutsk
+iku | issyk-kul international airport | cholpon-ata | bishkek
+ild | lleida-alguaire airport | alguaire | madrid
+ili | iliamna airport |  | anchorage
+ilm | wilmington international airport | wrightsboro | new york
+ilo | mandurriao airport | pakiad | manila
+ilp | ile des pins airport | vao | noumea
+ilr | ilorin international airport | ilorin | lagos
+ils | ilopango international airport | ilopango | el salvador
+ily | glenegedale airport | isle of islay | london
+imf | imphal municipal airport | imphal | kolkata
+imp | imperatriz airport | imperatriz | fortaleza
+imq | maku international airport | showt | tehran
+imt | ford airport | kingsford | menominee
+ina | inta airport | inta | moscow
+inc | yinchuan hedong international airport | yanghe | shanghai
+ind | indianapolis international airport | speedway | indiana
+inh | inhambane airport | inhambane | maputo
+ini | nis constantine the great airport | nis | belgrade
+inl | falls international airport | fort frances | chicago
+inn | innsbruck airport | vols | vienna
+int | smith-reynolds airport | winston-salem | new york
+inv | inverness airport | fortrose | london
+inz | in salah airport | i-n-salah | algiers
+ioa | ioannina airport | eksochi | athens
+iom | isle of man airport | castletown | isle of man
+ios | ilheus/bahia-jorge amado airport | ilheus | bahia
+ipc | mataveri international airport | ostrov paskhi | easter
+iph | ipoh airport | ipoh | kuala lumpur
+ipi | san luis airport | carlosama | bogota
+ipl | imperial county airport |  | los angeles
+ipn | usiminas airport | ipatinga | sao paulo
+ipt | lycoming county airport | montoursville | new york
+ipz | san isidro de el general airport | san isidro | costa rica
+iqm | qiemo airport |  | shanghai
+iqn | qingyang airport | nanjie | shanghai
+iqq | diego aracena international airport | iquique | santiago
+iqt | c.f. secada vignetta international airport | iquitos | lima
+ira | kirakira airport |  | guadalcanal
+iri | nduli airport | iringa | dar es salaam
+irj | la rioja airport | la rioja | argentina
+irk | kirksville municipal airport | la plata | chicago
+isa | mount isa airport |  | brisbane
+isb | islamabad international airport | rawalpindi | karachi
+ise | isparta suleyman demirel airport | keciborlu | istanbul
+isg | painushima ishigaki airport | ishigaki | tokyo
+ish | ischia airport | ischia | rome
+isk | gandhinagar airport | deolali | kolkata
+isl | istanbul ataturk airport |  | istanbul
+isn | sloulin field international airport |  | chicago
+isp | long island macarthur airport | bohemia | new york
+ist | istanbul new airport | bahcelievler | istanbul
+isu | sulaimaniyah international airport | as sulaymaniyah | baghdad
+ith | ithaca tompkins regional airport | lansing | new york
+itm | itami airport | toyonaka | tokyo
+ito | hilo international airport | hilo | honolulu
+iue | hanan airport | alofi | niue
+iup | lorenzo airport | apui | manaus
+ivc | invercargill airport | invercargill | auckland
+ivi | viveros island airport |  | panama
+ivl | ivalo airport | ivalo | helsinki
+iwa | ivanovo yuzhny airport | ivanovo | moscow
+iwd | gogebic county airport | ironwood | menominee
+iwj | hagi-iwami airport | masuda | tokyo
+iwk | iwakuni kintaikyo airport | iwakuni | tokyo
+ixa | agartala airport | agartala | kolkata
+ixb | bagdogra airport | baghdogra | kolkata
+ixc | chandigarh airport | chandigarh | kolkata
+ixd | bamrauli airport | allahabad | kolkata
+ixe | mangalore airport | mangalore | kolkata
+ixg | belgaum airport | belgaum | kolkata
+ixi | lilabari airport | north lakhimpur | kolkata
+ixj | satwari airport | jammu | kolkata
+ixl | leh airport | leh | kolkata
+ixm | madurai airport | tirupparangunram | kolkata
+ixr | birsa munda airport | ranchi | kolkata
+ixs | kumbhirgram airport | lakhipur | kolkata
+ixu | chikkalthana airport | aurangabad | kolkata
+ixz | port blair airport | port blair | kolkata
+iza | zona da mata regional airport | rio novo | sao paulo
+ize | itzehoe/hungriger wolf airport | peissen | berlin
+izo | izumo airport | hiratacho | tokyo
+jac | jackson hole airport | jackson | denver
+jae | shumba airport |  | new york
+jai | jaipur airport | jaipur | kolkata
+jak | jacmel regional airport | jacmel | port-au-prince
+jan | jackson-evers international airport | flowood | chicago
+jau | jauja airport | masma chicche | lima
+jav | ilulissat airport |  | godthab
+jax | jacksonville international airport | nassau village-ratliff | new york
+jbb | notohadinegoro airport | renes | jakarta
+jbq | la isabela international airport | santo domingo | santo domingo
+jbr | jonesboro airport | jonesboro | chicago
+jci | new century aircenter airport | gardner | chicago
+jcl | české budějovice airport |  | prague
+jcs | aeroporto de crateus airport | crateus | fortaleza
+jde | jiande qiandaohu airport | jiande | shanghai
+jdh | jodhpur airport | jodhpur | kolkata
+jdo | orlando bezerra de menezes airport | juazeiro do norte | fortaleza
+jdz | jingdezhen airport | hongyuan | shanghai
+jed | king abdulaziz international airport | jeddah | riyadh
+jeg | aasiaat airport |  | godthab
+jek | jeki airport | luangwa | lusaka
+jer | jersey airport | saint helier | jersey
+jfk | john f. kennedy international airport | inwood | new york
+jfr | paamiut airport |  | godthab
+jga | govardhanpur airport | bedi | kolkata
+jgd | jiagedaqi airport | jagdaqi | shanghai
+jgn | jiayuguan airport | jiayuguan | shanghai
+jgs | ji'an/jing gang shan airport | denglong | shanghai
+jhb | senai airport | taman senai | kuala lumpur
+jhf | são paulo catarina executive airport | são roque | sao paulo
+jhg | xishuangbanna gasa airport | jinghong | shanghai
+jhm | kapalua airport | napili-honokowai | honolulu
+jhs | sisimiut airport |  | godthab
+jhw | jamestown airport | celoron | new york
+jib | djibouti-ambouli international airport | djibouti | djibouti
+jic | jinchuan airport | jinchang | shanghai
+jij | jigiga airport | jijiga | addis ababa
+jik | ikaria airport | agios kirykos | athens
+jim | jimma airport | jima | addis ababa
+jiq | qianjiang wulingshan airport | zhoubai | shanghai
+jjg | jaguaruna regional airport | jaguaruna | sao paulo
+jjm | mulika lodge airport | maua | nairobi
+jjn | quanzhou jinjiang international airport | jinjiang | shanghai
+jkg | axamo airport | taberg | stockholm
+jkh | chios airport | chios | athens
+jkl | kalymnos island national airport | kalymnos | athens
+jkr | janakpur airport | janakpur | kathmandu
+jln | joplin airport | webb city | chicago
+jlr | jabalpur airport | ghansor | kolkata
+jmj | lancang jingmai airport | menglang | shanghai
+jmk | mikonos airport | mykonos | athens
+jms | jamestown airport | jamestown | chicago
+jmu | jiamusi airport | songjiang | shanghai
+jnb | o.r. tambo international airport | modderfontein | johannesburg
+jng | jining airport | jining | shanghai
+jnu | juneau international airport | juneau | juneau
+jnx | naxos airport | naxos | athens
+jnz | liaoning province airport | wanghu | shanghai
+joe | joensuu airport | joensuu | helsinki
+jog | adisutjipto international airport | depok | jakarta
+joi | joinville-lauro carneiro de loyola airport | joinville | sao paulo
+jok | yoshkar-ola airport | yoshkar-ola | moscow
+jos | jos airport | jos | lagos
+jpa | presidente castro pinto international airport | bayeux | fortaleza
+jpe | nagib demachki airport | paragominas | sao paulo
+jpo | brigadeiro firmino ayres airport | patos | recife
+jpr | ji-parana airport | ji parana | porto velho
+jpy | paraty airport | paraty | sao paulo
+jqa | qaarsut airport |  | godthab
+jqe | jaque airport | jaque | panama
+jrg | jharsuguda airport | jharsuguda | kolkata
+jrh | rowriah airport | jorhat | kolkata
+jro | kilimanjaro international airport | merelani | dar es salaam
+jrt | juruti airport | juruti | manaus
+jsb | walfrido salmito de almeida airport | são benedito | fortaleza
+jsh | sitia airport | siteia | athens
+jsi | skiathos airport | skiathos | athens
+jsj | jiansanjiang shidi airport | fujin | shanghai
+jsk | jask airport | jask | tehran
+jsr | jessore airport | jessore | dhaka
+jst | cambria county airport | geistown | new york
+jsy | syros island airport | ermoupolis | athens
+jta | pedro teixeira castelo airport | tauá | fortaleza
+jtc | bauru-arealva airport | bauru | sao paulo
+jtn | antônio ribeiro nogueira jr. state airport | itanhaém | sao paulo
+jtr | santorini international airport | mesaria | athens
+jty | astypalaia airport | astypalaia | athens
+jub | juba international airport | juba | juba
+juh | chizhou jiuhuashan airport | borivli | shanghai
+juj | el cadillal airport | la mendieta | argentina
+jul | juliaca airport | juliaca | lima
+juz | quzhou airport | quzhou | shanghai
+jvi | central jersey regional airport |  | new york
+jxa | jixi airport | hongjunlu | shanghai
+jyv | jyvaskyla airport | jyvaeskylae | helsinki
+jzh | jiuzhai huanglong airport | jin'an | shanghai
+kaa | kasama airport | kasama | lusaka
+kac | kameshly airport | al qamishli | damascus
+kad | kaduna airport | kaduna | lagos
+kaj | kajaani airport | kajaani | helsinki
+kal | kaltag airport |  | anchorage
+kan | mallam aminu kano international airport | kano | lagos
+kao | kuusamo airport | kuusamo | helsinki
+kaw | kawthaung airport |  | rangoon
+kbl | kabul international airport | kabul | kabul
+kbp | boryspil international airport | boryspil' | kiev
+kbr | sultan ismail petra airport | kota bharu | kuala lumpur
+kbu | gusti syamsir alam airport | sungaibali | makassar
+kbv | krabi airport | nuea khlong | bangkok
+kca | kuqa airport | luntai | shanghai
+kch | kuching international airport | kuching | kuching
+kck | kirensk airport | kirensk | irkutsk
+kcm | kahramanmaras airport | kahramanmaras | istanbul
+kco | cengiz topel airport | derince | istanbul
+kct | koggala airport |  | colombo
+kcy | krasnoyarsk cheremshanka airport |  | krasnoyarsk
+kcz | kochi ryoma airport | kochi-shi | tokyo
+kdh | kandahar airport | kandahar | kabul
+kdi | haluoleo airport |  | makassar
+kdl | kardla airport | kardla | tallinn
+kdu | skardu airport | skardu | karachi
+kdv | kandavu airport |  | fiji
+kdz | polgolla reservoir airport | kandy | colombo
+kea | keisah airport |  | jayapura
+kef | keflavik international airport | reykjanesbaer | reykjavik
+kej | kemerovo airport | kemerovo | novokuznetsk
+kem | kemi/tornio airport | keminmaa | helsinki
+kep | nepalganj airport | nepalgunj | kathmandu
+ker | kerman airport | kerman | tehran
+ket | keng tung airport |  | rangoon
+kfs | kastamonu airport | kastamonu | istanbul
+kfz | kukës international airport | kukës | tirane
+kgc | kingscote airport |  | adelaide
+kgd | khrabrovo airport | gur'yevsk | kaliningrad
+kgf | karaganda airport | koktal | almaty
+kgi | kalgoorlie airport | boulder | perth
+kgl | kigali international airport | kigali | kigali
+kgp | kogalym international airport | kogalym | yekaterinburg
+kgs | kos airport | antimacheia | athens
+kgt | kangding airport |  | shanghai
+kgx | grayling airport |  | anchorage
+khe | kherson international airport | kherson | kiev
+khg | kashi airport | kashi | shanghai
+khh | kaohsiung international airport | kaohsiung | taipei
+khi | jinnah international airport | malir cantonment | karachi
+khn | nanchang changbei international airport | lehua | shanghai
+khs | khasab airport | khasab | muscat
+khv | khabarovsk airport | topolevo | vladivostok
+khz | kauehi airport |  | tahiti
+kid | kristianstad airport | degeberga | stockholm
+kih | kish international airport | kish | tehran
+kij | niigata airport | kameda-honcho | tokyo
+kim | kimberley airport | kimberley | johannesburg
+kin | norman manley international airport |  | jamaica
+kir | kerry county airport | castleisland | dublin
+kis | kisumu airport | kisumu | nairobi
+kit | kithira airport | kythira | athens
+kix | kansai international airport | kaizuka | tokyo
+kiy | kilwa masoko airport |  | dar es salaam
+kja | yemelyanovo airport | yemel'yanovo | krasnoyarsk
+kjb | uyyalawada narasimha reddy airport | orvakal | kolkata
+kjh | kaili huangping airport | shiqian | shanghai
+kji | kanasi airport | oymak | shanghai
+kjt | kertajati international airport | jatiwangi | jakarta
+kjx | blangpidie airport | susoh | jakarta
+kka | koyuk airport |  | anchorage
+kkc | khon kaen airport | khon kaen | bangkok
+kke | kerikeri airport | kerikeri | auckland
+kkh | kongiganak airport |  | nome
+kkj | kitakyushu airport | kanda | tokyo
+kkn | kirkenes airport hoeybuktmoen | bjornevatn | oslo
+kkr | kaukura atoll airport |  | tahiti
+kks | kashan airport | kashan | tehran
+klb | kalabo airport | kalabo | lusaka
+klf | grabtsevo airport | kaluga | moscow
+klg | kalskag municipal airport |  | anchorage
+klo | kalibo international airport | brgy. nalook, kalibo | manila
+klr | kalmar oland airport | rinkabyholm | stockholm
+klu | klagenfurt airport | klagenfurt am woerthersee | vienna
+klv | karlovy vary airport | dalovice | prague
+klw | klawock airport |  | sitka
+klx | kalamata airport | thouria | athens
+kmg | kunming changshui international airport | qidian | shanghai
+kmi | miyazaki airport | miyazaki-shi | tokyo
+kmj | kumamoto airport | ozu | tokyo
+kmq | komatsu airport | komatsu | tokyo
+kms | kumasi airport | tafo | accra
+kmv | kalemyo airport | falam | rangoon
+kng | kaimana airport | kaimana | jayapura
+knh | kinmen airport | jincheng | taipei
+knk | kokhanok airport |  | anchorage
+kno | kuala namu international airport | percut | jakarta
+kns | king island airport | currie | currie
+knu | kanpur airport | kanpur | kolkata
+knx | kununurra airport |  | perth
+kny | kodinsk airport |  | krasnoyarsk
+koa | kona international airport at keahole |  | honolulu
+koe | el tari airport | penfui | dili
+koi | kirkwall airport |  | london
+koj | kagoshima airport | kajiki | tokyo
+kok | kruunupyy airport | kronoby | helsinki
+kop | nakhon phanom airport |  | bangkok
+kos | sihanouk international airport | sihanoukville | phnom penh
+kot | kotlik airport |  | nome
+kov | kokshetau airport | kokshetau | almaty
+kow | ganzhou airport | ganzhou | shanghai
+kpo | pohang airport | pohang | seoul
+kpw | keperveyem airport | bilibino | kamchatka
+kqh | kishangarh airport | kishangarh | kolkata
+kqr | karara airport |  | perth
+kqt | qurghonteppa international airport | bustonqal'a | dushanbe
+krb | karumba airport |  | brisbane
+krf | kramfors airport | bollstabruk | stockholm
+krk | j. paul ii international airport krakow-balice | balice | warsaw
+krl | korla airport | sayibage | shanghai
+krn | kiruna airport | kiruna | stockholm
+kro | kurgan airport | kurgan | yekaterinburg
+krp | karup airport | karup | copenhagen
+krr | krasnodar international airport | pashkovskiy | moscow
+krs | kristiansand airport | justvik | oslo
+krt | khartoum international airport | khartoum | khartoum
+krw | turkmanbashi airport | turkmenbasy | ashgabat
+kry | karamay airport |  | shanghai
+ksa | kosrae airport | tafunsak | kosrae
+ksc | barca airport | kosice | bratislava
+ksd | karlstad airport | karlstad | stockholm
+kse | kasese airport | kasese | kampala
+ksf | kassel-calden airport | calden | berlin
+ksh | kermanshah airport | kermanshah | tehran
+ksj | kasos island airport | fry | athens
+ksl | kassala airport | kassala | khartoum
+ksm | saint mary's airport |  | anchorage
+ksn | kostanay airport | kostanay | almaty
+kso | aristoteles airport | argos orestiko | athens
+ksq | karshi airport | qarshi | samarkand
+ksu | kristiansund airport kvernberget | rensvik | oslo
+ksy | kars airport | kars | istanbul
+ksz | kotlas airport | kotlas | moscow
+kta | karratha airport | nickol | perth
+kte | kerteh airport | kertih | kuala lumpur
+ktg | ketapang airport | ketapang | pontianak
+ktj | kichwa tembo airport | narok | nairobi
+ktl | kitale airport | kitale | nairobi
+ktm | tribhuvan international airport |  | kathmandu
+ktn | ketchikan international airport |  | sitka
+kts | brevig mission airport |  | anchorage
+ktt | kittila airport | kittilae | helsinki
+ktw | katowice international airport | ozarowice | warsaw
+kua | sultan haji ahmad shah airport | kuantan | kuala lumpur
+kud | kudat airport | kudat | kuching
+kuf | kurumoch international airport | bereza | samara
+kuh | kushiro airport | kushiro | tokyo
+kuk | kasigluk airport |  | nome
+kul | kuala lumpur international airport | kampung baharu nilai | kuala lumpur
+kum | yakushima airport |  | tokyo
+kun | kaunas airport | kaunas | vilnius
+kuo | kuopio airport | siilinjaervi | helsinki
+kus | kulusuk airport | tasiilaq | godthab
+kut | kutaisi international airport | kutaisi | tbilisi
+kuu | bhuntar airport | kulu | kolkata
+kuv | gunsan airport | kunsan | seoul
+kuy | kamusi airport |  | port moresby
+kva | kavala international airport | nea karya | athens
+kvg | kavieng airport |  | port moresby
+kvk | kirovsk airport | kirovsk | moscow
+kvl | kivalina airport |  | nome
+kvm | markovo airport |  | anadyr
+kvo | morava airport | kraljevo | belgrade
+kvx | kirov airport | strizhi | moscow
+kwa | kwajalein airport | ebaye | kwajalein
+kwe | guiyang longdongbao international airport | guiyang | shanghai
+kwi | kuwait international airport | janub as surrah | kuwait
+kwj | gwangju airport | gwangju | seoul
+kwk | kwigillingok airport |  | nome
+kwl | guilin liangjiang international airport | guilin | shanghai
+kwn | kwinhagak airport |  | anchorage
+kwt | kwethluk airport |  | anchorage
+kxb | sangia nibandera airport | kolaka | makassar
+kxd | kondinskoye airport | kondinskoye | yekaterinburg
+kxk | khurba airport | khurba | vladivostok
+kxo | kisoro airport |  | kampala
+kya | konya airport | asagipinarbasi | istanbul
+kyp | kyaukpyu airport |  | rangoon
+kyu | koyukuk airport |  | anchorage
+kyz | kyzyl airport | kyzyl | krasnoyarsk
+kzi | philippos airport | krokos | athens
+kzn | kazan international airport | stolbishchi | moscow
+kzo | kzyl-orda airport | tasboget | qyzylorda
+kzr | zafer airport |  | istanbul
+kzs | kastellorizo airport | kalkan | athens
+lad | quatro de fevereiro airport | luanda | luanda
+lae | nadzab airport |  | port moresby
+lai | servel airport | lannion | paris
+laj | correia pinto airport | lages | sao paulo
+lan | capital region international airport | edgemont park | detroit
+lao | laoag airport | san nicolas | manila
+lap | leon airport | el centenario | mazatlan
+laq | la braq airport | al bayda' | tripoli
+las | mccarran international airport |  | los angeles
+law | lawton-fort sill regional airport | lawton | chicago
+lax | los angeles international airport | el segundo | los angeles
+lba | leeds bradford international airport | yeadon | london
+lbb | lubbock preston smith international airport |  | chicago
+lbd | khujand airport | chkalov | dushanbe
+lbe | westmoreland county airport | lawson heights | new york
+lbj | komodo airport | labuhanbajo | makassar
+lbl | liberal municipal airport | liberal | chicago
+lbs | labasa airport |  | fiji
+lbu | labuan airport |  | kuching
+lbv | libreville airport |  | libreville
+lca | larnaca international airport | meneou | nicosia
+lce | goloson international airport | el porvenir | tegucigalpa
+lcg | a coruna airport | culleredo | madrid
+lch | lake charles regional airport | prien | chicago
+lcj | lodz lublinek airport | ksawerow | warsaw
+lck | rickenbacker international airport | obetz | new york
+lct | shijiazhuang luancheng airport |  | shanghai
+lcx | liancheng airport | wenheng | shanghai
+lcy | london city airport |  | london
+ldb | londrina airport | londrina | sao paulo
+lde | tarbes ossun lourdes airport | juillan | paris
+ldh | lord howe island airport | woolgoolga | lord howe
+lds | yichun shi airport | xuri | shanghai
+ldu | lahad datu airport |  | kuching
+ldy | city of derry airport | eglinton | london
+ldz | londolozi airport |  | johannesburg
+lea | learmonth airport |  | perth
+leb | lebanon regional airport | white river junction | new york
+lec | coronel horacio de mattos airport | vera cruz | bahia
+led | pulkovo airport | dachnoye | moscow
+lei | almeria airport | retamar | madrid
+lej | leipzig/halle airport |  | berlin
+len | leon airport | san andres del rabanedo | madrid
+let | gen. a.v. cobo airport | leticia | bogota
+lex | blue grass airport | monticello | new york
+lfh | lanping feng hua airport | jinding | shanghai
+lfm | lamerd airport | lamerd | tehran
+lfq | linfen qiaoli airport | linfen | shanghai
+lfr | la fria airport | la fria | caracas
+lft | lafayette regional airport | lafayette | chicago
+lfw | lome airport | lome | lome
+lga | laguardia airport | the bronx | new york
+lgb | long beach airport | signal hill | los angeles
+lgg | liege airport | awans | brussels
+lgi | deadmans cay airport | clarence town | nassau
+lgk | langkawi international airport | kuah | kuala lumpur
+lgp | legaspi airport | sagpon | manila
+lgq | lago agrio airport | nueva loja | guayaquil
+lgw | london gatwick airport | horley | london
+lgz | shannan longzi airport | shannan | shanghai
+lhe | allama iqbal international airport | lahore | karachi
+lhr | london heathrow airport | west drayton | london
+lhw | lanzhou zhongchuan international airport |  | shanghai
+lif | lifou airport | we | noumea
+lig | bellegarde airport | couzeix | paris
+lih | lihue airport | hanama'ulu | honolulu
+lil | lille airport | lesquin | paris
+lim | jorge chavez international airport | callao | lima
+lin | milano linate airport | novegro-tregarezzo-san felice | rome
+lio | limon international airport | limon | costa rica
+lir | liberia airport | liberia | costa rica
+lis | lisbon portela airport | moscavide | lisbon
+lit | bill and hillary clinton national airport | north little rock | chicago
+liw | loikaw airport | loikaw | rangoon
+ljg | lijiang airport | huangshan | shanghai
+lju | ljubljana joze pucnik airport | sencur | ljubljana
+lka | gewayenta airport | balela | makassar
+lkb | lakeba airport |  | fiji
+lkl | banak airport | lakselv | oslo
+lkn | leknes airport | leknes | oslo
+lko | chaudhary charan singh international airport | lucknow | kolkata
+lky | lake manyara airport | monduli | dar es salaam
+lla | lulea airport | bergnaset | stockholm
+llb | libo county libo city airport | chuanshan | shanghai
+llc | cagayan north international airport | bagumbayan | manila
+llf | lingling airport | lengshuitan | shanghai
+lli | lalibela airport | lalibela | addis ababa
+llj | silampari airport | lubuklinggau | jakarta
+llk | lankaran international airport | lankaran | baku
+llo | bua airport | beringinjaya | makassar
+llv | lüliang airport | lishi | shanghai
+llw | lilongwe international airport | lilongwe | blantyre
+lmm | federal airport | los mochis | mazatlan
+lmn | limbang airport | limbang | kuching
+lmp | lampedusa airport | lampedusa | rome
+lmt | crater lake klamath regional airport | altamont | los angeles
+lmu | letung airport |  | jakarta
+lmv | madivaru airport | madivaru | maldives
+lnj | lincang airport | mengmeng | shanghai
+lnk | lincoln airport | lincoln | chicago
+lnl | longnan chengzhou airport | diancun | shanghai
+lns | lancaster airport | lititz | new york
+lnu | robert atty bessing airport | mensalong | makassar
+lny | lanai airport | lana'i city | honolulu
+lnz | linz airport | horsching | vienna
+loe | loei airport | loei | bangkok
+loh | ciudad de catamayo airport | catamayo | guayaquil
+lok | lodwar airport |  | nairobi
+loo | l'mekrareg airport | laghouat | algiers
+lop | lombok international airport | tanakawu dua | makassar
+los | murtala muhammed international airport | oshodi | lagos
+lou | bowman field airport | louisville | kentucky
+lox | los tablones airport | morazan | guatemala
+lpa | gran canaria airport | ingenio | canary
+lpb | el alto international airport | la paz | la paz
+lpc | lompoc airport |  | los angeles
+lpf | liupanshui yuezhao airport | liupanshui | shanghai
+lpi | linkoping city airport | linkoping | stockholm
+lpk | lipetsk airport | lipetsk | moscow
+lpl | liverpool john lennon airport | hale | london
+lpq | luang prabang international airport | louangphabang | vientiane
+lpt | lampang airport | lampang | bangkok
+lpx | liepaya airport | grobina | riga
+lpy | loudes airport | saint-paulien | paris
+lrd | laredo international airport | laredo | chicago
+lre | longreach airport |  | brisbane
+lrh | laleu airport | nieul-sur-mer | paris
+lrm | la romana airport | la romana | santo domingo
+lrr | lar airport | lar | tehran
+lrs | leros airport | megalo chorio | athens
+lrt | lann bihoue airport | ploemeur | paris
+lsc | la florida airport | la serena | santiago
+lse | la crosse regional airport | french island | chicago
+lsi | sumburgh airport |  | london
+lsp | josefa camejo airport | punto fijo | caracas
+lst | launceston airport | perth | hobart
+lsw | malikus saleh airport | lhokseumawe | jakarta
+lsy | lismore airport | lismore | sydney
+lsz | losinj airport | mali losinj | zagreb
+ltn | london luton airport | luton | london
+lto | loreto airport | loreto | mazatlan
+ltx | cotapaxi international airport | latacunga | guayaquil
+lud | luderitz airport | luderitz | windhoek
+lug | lugano airport | viganello | zurich
+luh | ludhiana sahnewal airport | ludhiana | kolkata
+luk | cincinnati municipal lunken airport | oakbrook | new york
+lum | dehong mangshi airport |  | shanghai
+lun | kenneth kaunda international airport | lusaka | lusaka
+luq | san luis airport | san luis | argentina
+luv | langgur airport |  | jayapura
+luw | bubung airport | luwuk | makassar
+lux | luxembourg airport | sandweiler | luxembourg
+luz | lublin airport |  | warsaw
+lvi | livingstone airport | livingstone | lusaka
+lwb | greenbrier valley airport | lewisburg | new york
+lwn | leninakan airport | azatan | yerevan
+lwo | lviv international airport | rudne | kiev
+lws | lewiston-nez perce county regional airport | lewiston orchards | los angeles
+lwy | lawas airport | victoria | kuching
+lxa | lhasa gonggar airport | konggar | shanghai
+lxg | luang namtha airport | louang namtha | vientiane
+lxr | luxor international airport | luxor | cairo
+lxs | limnos airport | myrina | athens
+lya | luoyang beijiao airport |  | shanghai
+lyb | little cayman airport | east end | cayman
+lyc | lycksele airport | lycksele | stockholm
+lyg | lianyungang airport | niushan | shanghai
+lyi | linyi airport | linyi | shanghai
+lyp | faisalabad airport | faisalabad | karachi
+lyr | svalbard airport | longyearbyen | longyearbyen
+lys | lyon saint-exupery international airport | pusignan | paris
+lzc | lazaro cardenas airport | la orilla | mexico city
+lzg | langzhong airport | shilong | shanghai
+lzh | liuzhou airport | labu | shanghai
+lzn | matsu nangan airport |  | taipei
+lzo | luzhou lantian airport | luzhou | shanghai
+lzu | gwinnett county airport | suwanee | new york
+lzy | nyingchi mainling airport | mainling | shanghai
+maa | chennai airport | pallavaram | kolkata
+mab | maraba airport |  | belem
+mad | adolfo suarez madrid-barajas airport | barajas de madrid | madrid
+maf | midland international airport |  | chicago
+mag | madang airport |  | port moresby
+mah | menorca airport | sant lluis | madrid
+maj | amata kabua international airport | majuro | majuro
+mam | matamoros airport | heroica matamoros | matamoros
+man | manchester airport | ringway | london
+mao | eduardo gomes international airport |  | manaus
+maq | mae sot airport | mae sot | bangkok
+mar | la chinita airport | san francisco | caracas
+mas | momote airport | lorengau | port moresby
+maz | eugenio m. de hostos airport | anasco | puerto rico
+mba | moi international airport | mombasa | nairobi
+mbd | mmabatho international airport | mmabatho | johannesburg
+mbe | monbetsu airport | mombetsu | tokyo
+mbi | mbeya airport | mbeya | dar es salaam
+mbj | sangster international airport | montego bay | jamaica
+mbl | blacker airport | manistee | detroit
+mbs | mbs international airport | freeland | detroit
+mbt | masbate airport | tumalaytay | manila
+mbx | maribor international airport | maribor | ljubljana
+mce | merced municipal airport |  | los angeles
+mcg | mcgrath airport |  | anchorage
+mci | kansas city international airport | weatherby lake | chicago
+mck | mc cook airport | mccook | chicago
+mco | orlando international airport | taft | new york
+mcp | macapa international airport | macapa | belem
+mct | muscat international airport | bawshar | muscat
+mcv | mcarthur river airport |  | darwin
+mcw | mason city airport | clear lake | chicago
+mcx | makhachkala airport | kaspiysk | moscow
+mcy | sunshine coast airport | coolum beach | brisbane
+mcz | maceio-zumbi dos palmares international airport | satuba | maceio
+mdc | sam ratulangi international airport | tatelu | makassar
+mde | jose maria cordova international airport | rionegro | bogota
+mdg | mudanjiang airport | xinglong | shanghai
+mdl | mandalay international airport |  | rangoon
+mdq | mar del plata airport |  | argentina
+mdt | harrisburg international airport | middletown | new york
+mdu | mendi airport |  | port moresby
+mdw | chicago midway international airport | stickney | chicago
+mdz | el plumerillo international airport | las heras | argentina
+meb | essendon airport | niddrie | melbourne
+mec | manta airport | manta | guayaquil
+med | prince mohammad bin abdulaziz international airport | medina | riyadh
+mee | mare airport |  | noumea
+meh | mehamn airport | mehamn | oslo
+mel | tullamarine airport | attwood | melbourne
+mem | memphis international airport | southaven | chicago
+mex | benito juarez international airport | venustiano carranza | mexico city
+mfe | mcallen international airport | mcallen | chicago
+mfk | matsu beigan airport | nangan | taipei
+mfm | macau international airport |  | macau
+mfr | rogue valley international-medford airport | medford | los angeles
+mga | augusto c sandino international airport | managua | managua
+mgb | mount gambier airport | mount gambier | adelaide
+mgc | michigan city airport | trail creek | chicago
+mgh | margate airport | margate | johannesburg
+mgm | montgomery regional airport |  | chicago
+mgq | mogadishu international airport | mogadishu | mogadishu
+mgw | morgantown airport | brookhaven | new york
+mgy | dayton-wright brothers airport | union | new york
+mgz | myeik airport | myeik | rangoon
+mhc | mocopulli airport |  | santiago
+mhd | mashhad international airport | mashhad | tehran
+mhg | mannheim airport | mannheim | berlin
+mhh | marsh harbour international airport | marsh harbour | nassau
+mhk | manhattan municipal airport | ogden | chicago
+mhq | mariehamn airport | mariehamn | mariehamn
+mhr | sacramento mather airport |  | los angeles
+mht | manchester boston regional airport | manchester | new york
+mhz | mildenhall airport | lakenheath | london
+mia | miami international airport | virginia gardens | new york
+mid | manuel crescencio rejon international airport | itzincab palomeque | merida
+mig | mianyang nanjiao airport | mianyang | shanghai
+mii | dr gastao vidigal airport | marilia | sao paulo
+mim | merimbula airport | merimbula | sydney
+mir | habib bourguiba international airport | sahline | tunis
+mjf | kjaerstad airport | mosjoen | oslo
+mji | mitiga tripoli airport | tagiura | tripoli
+mjt | mytilene international airport | vareia | athens
+mju | tampa padang airport | mamuju | makassar
+mjv | murcia-san javier airport | san javier | madrid
+mjz | mirnyj airport | mirny | yakutsk
+mkc | charles b. wheeler downtown airport | kansas city | chicago
+mke | general mitchell international airport | saint francis | chicago
+mkg | muskegon airport | norton shores | detroit
+mkk | molokai airport | kualapu'u | honolulu
+mkl | mckellar airport | jackson | chicago
+mkm | mukah airport |  | kuching
+mkq | mopah airport |  | jayapura
+mkw | rendani airport | manokwari | jayapura
+mky | mackay airport | mackay | brisbane
+mkz | malacca international airport | batu berendam | kuala lumpur
+mla | malta international airport | luqa | malta
+mlb | orlando melbourne international airport | melbourne | new york
+mle | male international airport | male | maldives
+mlg | abdul rachman saleh airport | singosari | jakarta
+mlh | euroairport basel-mulhouse-freiburg | hesingue | zurich
+mli | quad city international airport | coal valley | chicago
+mll | marshall don hunter sr. airport |  | anchorage
+mlm | morelia airport | alvaro obregon | mexico city
+mln | melilla airport | melilla | ceuta
+mlo | milos airport | adamas | athens
+mlu | monroe regional airport | lakeshore | chicago
+mlx | malatya airport | yesilyurt | istanbul
+mma | malmö bulltofta airport | arloev | stockholm
+mmb | memanbetsu airport | bihoro | tokyo
+mme | durham tees valley airport | bishopton | london
+mmh | mammoth lakes airport | mammoth lakes | los angeles
+mmj | matsumoto airport | matsumoto | tokyo
+mmk | murmansk airport | murmashi | moscow
+mmu | morristown municipal airport | florham park | new york
+mmx | malmo airport | genarp | stockholm
+mmy | miyako airport |  | tokyo
+mng | maningrida airport |  | darwin
+mni | bramble airport | saint peters | montserrat
+mnl | ninoy aquino international airport | makati city | manila
+mnz | manassas regional airport/harry p. davis field | manassas | new york
+mob | mobile regional airport | tillmans corner | chicago
+moc | montes claros airport | montes claros | sao paulo
+mod | modesto municipal airport | bystrom | los angeles
+mof | wai oti airport | waioti | makassar
+moh | maleo airport | malili | makassar
+mok | muynak airport | muynak | samarkand
+mol | molde airport aro | molde | oslo
+mon | mount cook airport |  | auckland
+moq | morondava airport | morondava | antananarivo
+mot | minot international airport | minot | chicago
+mou | mountain village airport |  | anchorage
+mov | moranbah airport | moranbah | brisbane
+moz | temae airport | teavaro | tahiti
+mph | boracay airport | caticlan | manila
+mpl | montpellier mediterranee airport | perols | paris
+mpm | maputo international airport |  | maputo
+mqc | miquelon airport | miquelon | miquelon
+mqf | magnitogorsk airport | magnitogorsk | yekaterinburg
+mql | mildura airport | mildura | melbourne
+mqm | mardin airport | kiziltepe | istanbul
+mqn | mo i rana airport | mo i rana | oslo
+mqp | kruger mpumalanga international airport | white river | johannesburg
+mqt | sawyer international airport | k. i. sawyer air force base | detroit
+mqx | makale airport | mekele | addis ababa
+mra | misurata airport | misratah | tripoli
+mrb | eastern wv regional airport/shepherd field | martinsburg | new york
+mre | mara lodges airport |  | nairobi
+mrs | marseille provence airport | saint-victoret | paris
+mru | sir seewoosagur ramgoolam international airport | plaine magnien | mauritius
+mrv | mineralnye vody airport | andzhiyevskiy | moscow
+mrx | mahshahr airport | bandar-e mahshahr | tehran
+mry | monterey regional airport | del rey oaks | los angeles
+mrz | moree airport | moree | sydney
+msl | northwest alabama regional airport | muscle shoals | chicago
+msn | dane county regional airport | maple bluff | chicago
+mso | missoula international airport | orchard homes | denver
+msp | minneapolis-st. paul international airport | richfield | chicago
+msq | minsk national airport | smilavichy | minsk
+msr | mus airport | haskoy | istanbul
+mst | maastricht aachen airport | elsloo | amsterdam
+msu | moshoeshoe international airport | maseru | maseru
+msy | louis armstrong new orleans international airport | kenner | chicago
+msz | yuri gagarin airport | namibe | luanda
+mth | florida keys marathon airport | marathon | new york
+mtj | montrose regional airport | montrose | denver
+mtp | montauk airport | montauk | new york
+mtr | los garzones airport | cerete | bogota
+mtt | minatitlan airport | minatitlan | mexico city
+mty | gen mariano escobedo airport | ladrillera (entronque pesqueria) | monterrey
+mua | munda airport |  | guadalcanal
+mub | maun airport |  | gaborone
+muc | franz josef strauss airport | hallbergmoos | berlin
+mun | jose tadeo monagas international airport | maturin | caracas
+mur | marudi airport |  | kuching
+mux | multan airport | multan | karachi
+muz | musoma airport | musoma | dar es salaam
+mvd | carrasco international airport | paso de carrasco | montevideo
+mvy | martha's vineyard airport |  | new york
+mwa | williamson county airport | energy | chicago
+mwl | mineral wells airport | mineral wells | chicago
+mwx | muan international airport | muan | seoul
+mwz | mwanza airport | mwanza | dar es salaam
+mxh | moro airport |  | port moresby
+mxl | mexicali airport | islas agrarias grupo a | tijuana
+mxp | milano malpensa airport | vizzola ticino | rome
+mxq | lorenzo airport | cairu | sao paulo
+mxx | mora airport | mora | stockholm
+mxz | mei xian airport | sanjiao | shanghai
+mya | moruya airport | broulee | sydney
+myd | malindi airport | malindi | nairobi
+myg | mayaguana airport |  | nassau
+myj | matsuyama airport | masaki-cho | tokyo
+myp | mary airport | mary | ashgabat
+myr | myrtle beach international airport | myrtle beach | new york
+myt | myitkyina airport | myitkyina | rangoon
+myw | mtwara airport | mtwara | dar es salaam
+myy | miri airport | miri | kuching
+mza | mayor pnp nancy flore airport | mazamari | lima
+mzg | magong airport |  | taipei
+mzh | merzifon airport | merzifon | istanbul
+mzl | la nubia airport | villamaria | bogota
+mzo | sierra maestra airport | manzanillo | havana
+mzr | mazar-i-sharif airport | mazar-e sharif | kabul
+mzt | mazatlan international airport | villa union | mazatlan
+mzv | mulu airport |  | kuching
+nag | dr. babasaheb ambedkar international airport | nagpur | kolkata
+naj | nakhichevan airport | tazakend | baku
+nal | nalchik airport | nartan | moscow
+nan | nadi international airport |  | fiji
+nao | nanchong airport | nanchong | shanghai
+nap | naples international airport | casavatore | rome
+naq | qaanaaq airport |  | godthab
+nas | lynden pindling international airport |  | nassau
+nat | sao goncalo do amarante-governador aluizio alves intl airport | parnamirim | fortaleza
+naw | narathiwat airport | bacho | bangkok
+nay | beijing nanyuan airport | nanyuan | shanghai
+nbc | begishevo airport | yelabuga | moscow
+nbe | enfidha - hammamet international airport | harqalah | tunis
+nbj | dr. antonio agostinho neto international airport |  | luanda
+nbo | jomo kenyatta international airport | pumwani | nairobi
+nbs | changbaishan airport | manjiang | shanghai
+nce | cote d'azur airport | saint-laurent-du-var | paris
+ncl | newcastle international airport | ponteland | london
+ncu | nukus airport | nukus | samarkand
+ndb | nouadhibou airport |  | nouakchott
+ndg | qiqihar airport | nanhang | shanghai
+ndj | ndjamena airport | n'djamena | ndjamena
+ndr | nador international airport | selouane | casablanca
+nei | terney airport | terney | vladivostok
+ner | neryungri airport | neryungri | yakutsk
+nev | newcastle airport | newcastle | st kitts
+new | lakefront airport | arabi | chicago
+ngb | ningbo airport | gulin | shanghai
+ngk | nogliki airport | nogliki | sakhalin
+ngo | chubu centrair international airport | tokoname | tokyo
+ngs | nagasaki airport |  | tokyo
+nhv | nuku hiva airport |  | marquesas
+nif | nifty airport |  | perth
+nim | niamey airport | niamey | niamey
+njc | nizhnevartovsk airport | nizhnevartovsk | yekaterinburg
+njf | al-najaf international airport | an najaf | baghdad
+njj | nenjian melgen airport | changfu | shanghai
+nkc | nouakchott international airport | nouakchott | nouakchott
+nkg | nanjing lukou international airport | lukou | shanghai
+nkm | nagoya airport | komaki | tokyo
+nkp | nakhon phanom airport | nakhon phanom | bangkok
+nla | simon mwansa kapwepwe international airport | ndola | lusaka
+nld | quetzalcoatl international airport | nuevo laredo | matamoros
+nlh | ninglang luguhu airport | daxing | shanghai
+nlk | norfolk island airport | kingston | norfolk
+nlp | nelspruit airport | nelspruit | johannesburg
+nlt | nalati airport | tuergen | shanghai
+nma | namangan airport | namangan shahri | tashkent
+nme | nightmute airport |  | anchorage
+nmf | maafaru international airport | manadhoo | maldives
+nnb | santa ana airport |  | guadalcanal
+nng | nanning airport |  | shanghai
+nnm | naryan-mar airport | iskateley | moscow
+nnt | nan airport | nan | bangkok
+nnx | nunukan airport | binalawan | makassar
+nny | nanyang airport |  | shanghai
+noc | ireland west airport knock | swinford | dublin
+nod | norden norddeich airport | norden | berlin
+noj | nojabrxsk airport | noyabrsk | yekaterinburg
+nop | sinop airport - turkey |  | istanbul
+nos | fascene airport | hell-ville | antananarivo
+nou | tontouta airport | paita | noumea
+noz | novokuznetsk airport | novokuznetsk | novokuznetsk
+npe | hawkes bay airport | napier | auckland
+npl | new plymouth airport | waitara | auckland
+npy | mpanda airport | mpanda | dar es salaam
+nqn | presidente peron international airport | plottier | argentina
+nqt | nottingham airport |  | london
+nqy | newquay cornwall airport | saint columb major | london
+nqz | nursultan nazarbayev international airport | nur-sultan | almaty
+nrk | kungsangen airport | lindo | stockholm
+nrl | north ronaldsay airport |  | london
+nrn | weeze airport | weeze | berlin
+nrt | narita international airport | narita | tokyo
+nsh | now shahr airport | nowshahr | tehran
+nsi | nsimalen airport |  | douala
+nsk | noril'sk airport | kayyerkan | krasnoyarsk
+nsn | nelson airport | richmond | auckland
+nsr | são raimundo nonato airport | são raimundo nonato | fortaleza
+nst | nakhon si thammarat airport | nakhon si thammarat | bangkok
+ntb | notodden airport | notodden | oslo
+nte | nantes atlantique airport | bouguenais | paris
+ntg | nantong xingdong airport | xingdong | shanghai
+ntl | newcastle airport | medowie | sydney
+ntn | normanton airport |  | brisbane
+ntq | noto airport | nanao | tokyo
+ntr | aeropuerto del norte international airport | monterrey | monterrey
+nty | pilanesberg international airport | muldersdriseloop | johannesburg
+nue | nuremberg airport | nuernberg | berlin
+nui | nuiqsut airport |  | anchorage
+nul | nulato airport |  | anchorage
+num | neom airport | duba | riyadh
+nus | norsup airport | norsup | efate
+nux | novy urengoy airport | novyy urengoy | yekaterinburg
+nva | benito salas airport | neiva | bogota
+nvi | navoi airport | konimex | samarkand
+nvm | brigadeiro eduardo gomes airport | nova mutum | cuiaba
+nvt | navegantes airport | navegantes | sao paulo
+nwi | norwich international airport | spixworth | london
+nya | nyagan airport | nyagan | yekaterinburg
+nym | nadym airport | staryy nadym | yekaterinburg
+nyo | stockholm skavsta airport | svalsta | stockholm
+nyr | nyurba airport | nyurba | yakutsk
+nyt | nay pyi taw airport | pyinmana | rangoon
+nyu | nyaung u airport |  | rangoon
+nyw | monywar airport | monywa | yangon
+nzc | maria reiche neuman airport | nazca | lima
+nzg | nizhneangarsk airport |  | irkutsk
+nzh | manzhouli airport | zabaykal'sk | shanghai
+nzl | zhalantun chengjisihan airport | qinggis han | shanghai
+oag | orange airport | millthorpe | sydney
+oaj | albert j ellis airport | richlands | new york
+oak | san francisco bay oakland international airport | san leandro | los angeles
+oal | cacoal airport | cacoal | porto velho
+oax | xoxocotlan airport | animas trujano | mexico city
+obn | oban airport | oban | london
+obo | tokachi-obihiro airport | obihiro | tokyo
+obu | kobuk/wien airport |  | anchorage
+occ | coca airport | puerto francisco de orellana | guayaquil
+ocs | corisco international airport | cocobeach | malabo
+odm | garrett county airport | oakland | new york
+odn | long seridan airport | bangar | kuching
+odo | bodaybo airport | bodaybo | irkutsk
+ods | odessa international airport | odessa | kiev
+ody | oudomxay airport | viangxai | vientiane
+oer | ornskoldsvik airport | husum | stockholm
+ogg | kahului airport | kahului | honolulu
+ogl | ogle airport | georgetown | guyana
+ogs | ogdensburg airport | ogdensburg | new york
+ogu | ordu giresun airport | gulyali | istanbul
+ogx | ain beida airport | rouissat | algiers
+ogz | vladikavkaz airport | dalakovo | moscow
+ohd | ohrid airport | misleshevo | skopje
+ohe | mohe airport | xilinji | shanghai
+ohh | novostroyka airport | okha | srednekolymsk
+ohs | sohar airport | al sohar | muscat
+oir | okushiri airport | kamiiso | tokyo
+oit | oita airport | kitsuki | tokyo
+oju | tanjung api airport |  | jakarta
+oka | naha airport | tomigusuku | tokyo
+okc | will rogers world airport |  | chicago
+okd | okadama airport | sapporo | tokyo
+okj | okayama airport | okayama-shi | tokyo
+olb | olbia costa smeralda airport | olbia | rome
+olf | wolf point international airport | wolf point | denver
+olg | olare airport | bomet | nairobi
+olp | olympic dam airport |  | adelaide
+olv | olive branch airport | olive branch | chicago
+olx | olkiombo airport | kihancha | nairobi
+olz | olokminsk airport | olyokminsk | yakutsk
+omd | oranjemund airport |  | windhoek
+ome | nome airport |  | nome
+omh | urmia airport | orumiyeh | tehran
+omo | mostar airport | blagaj | sarajevo
+omr | oradea airport | nojorid | bucharest
+oms | omsk airport | omsk | omsk
+ond | ondangwa airport | ondangwa | windhoek
+ong | mornington airport |  | brisbane
+onj | odate noshiro airport | takanosu | tokyo
+onk | olenyok airport | olenyok | yakutsk
+ono | ontario municipal airport | ontario | boise
+ons | onslow airport | dampier | perth
+ont | ontario international airport | rancho cucamonga | los angeles
+ook | toksook bay airport |  | anchorage
+ool | gold coast airport | tugun | brisbane
+oom | snowy mountains airport | berridale | sydney
+opf | opa-locka executive airport | miami lakes | new york
+opo | porto airport | santa cruz do bispo | lisbon
+opp | salinópolis airport | salinópolis | belem
+ops | sinop airport |  | cuiaba
+orb | orebro-bofors airport | vintrosa | stockholm
+ord | o'hare international airport | rosemont | chicago
+orf | norfolk international airport | norfolk | new york
+orh | worcester regional airport | leicester | new york
+ork | cork airport | cork | dublin
+orn | es senia airport |  | algiers
+orv | robert (bob) curtis memorial airport |  | anchorage
+ory | paris orly airport | paray-vieille-poste | paris
+osd | are ostersund airport | krokom | stockholm
+osf | ostafyevo international business airport | shcherbinka | moscow
+osi | osijek airport | osijek | zagreb
+osj | ol seki airport | narok | nairobi
+osl | oslo airport gardermoen | teigebyen | oslo
+osr | mosnov airport | petrvald | prague
+oss | osh airport | osh | bishkek
+ost | ostend-bruges international airport | middelkerke | brussels
+osw | orsk airport | orsk | yekaterinburg
+osy | namsos airport | namsos | oslo
+oth | southwest oregon regional airport | north bend | los angeles
+otp | bucharest henri coanda international airport | otopeni | bucharest
+otq | otog front banner oljoq airport | ordos city | shanghai
+otz | ralph wien memorial airport |  | nome
+oua | ouagadougou international airport | ouagadougou | ouagadougou
+oud | les angades airport | oujda | casablanca
+oul | oulu airport | oulunsalo | helsinki
+ovb | novosibirsk tolmachevo airport | ob' | phnom penh
+ovd | asturias airport | castrillon | madrid
+ovs | sovetsky airport | sovetskiy | yekaterinburg
+owb | daviess county airport | owensboro | chicago
+owk | central maine airport of norridgewock | norridgewock | new york
+oxb | osvaldo vieira airport | bissau | bissau
+oyc | camopi airport | camopi | cayenne
+ozc | labo airport | lapase | manila
+ozg | zagora airport | zagora | casablanca
+ozh | zaporozhye airport | zaporizhzhya | zaporozhye
+ozz | ouarzazate airport | ouarzazat | casablanca
+pac | marcos a. gelabert international airport | chepillo | panama
+pad | paderborn lippstadt airport | salzkotten | berlin
+pag | pagadian airport | pagadian | manila
+pah | barkley regional airport | massac | chicago
+pap | toussaint louverture international airport | delmas 73 | port-au-prince
+pas | paros airport | antiparos | athens
+pat | jay prakash narayan international airport | patna | kolkata
+pav | paulo afonso airport | paulo afonso | bahia
+paz | el tajin national airport | poza rica de hidalgo | mexico city
+pbc | huejotsingo airport | santa maria zacatepec | mexico city
+pbg | plattsburgh international airport | plattsburgh west | new york
+pbh | paro airport | paro | thimphu
+pbi | palm beach international airport | haverhill | new york
+pbm | zanderij international airport | onverwacht | paramaribo
+pbo | paraburdoo airport |  | perth
+pbz | plettenberg bay airport | plettenberg bay | johannesburg
+pcd | prairie du chien municipal airport | prairie du chien | chicago
+pcl | capitan rolden airport | puerto callao | lima
+pcr | puerto carreno airport |  | bogota
+pdg | minangkabau international airport | lubukalung | jakarta
+pdk | dekalb peachtree airport | doraville | new york
+pdl | joao paulo ii airport | arrifes | azores
+pdm | pedasí airport | pedasi | panama
+pdp | capitan de corbeta carlos a. curbelo international airport | maldonado | montevideo
+pds | piedras negras international airport | piedras negras | matamoros
+pdt | eastern oregon regional airport | pendleton | los angeles
+pdv | plovdiv airport | kaloyanovo | sofia
+pdx | portland international airport | walnut grove | los angeles
+ped | pardubice airport |  | prague
+pee | perm international airport | kultayevo | yekaterinburg
+peg | sant egidio airport | perugia | rome
+pei | matecana international airport | pereira | bogota
+pek | beijing capital international airport |  | shanghai
+pem | puerto maldonado airport | puerto maldonado | lima
+pen | penang international airport | kampung sungai ara | kuala lumpur
+per | perth airport | redcliffe | perth
+pes | petrozavodsk airport | petrozavodsk | moscow
+pet | federal airport | pelotas | sao paulo
+pew | bacha khan international airport | peshawar | karachi
+pex | pechora airport | puteyets | moscow
+pez | penza airport | zasechnoye | moscow
+pfb | passo fundo airport | passo fundo | sao paulo
+pfo | paphos international airport | paphos | nicosia
+pga | page airport | page | phoenix
+pgd | charlotte county airport | cleveland | new york
+pgf | llabanere airport | peyrestortes | paris
+pgh | pantnagar airport | kichha | kolkata
+pgk | depati amir airport | pangkalpinang | jakarta
+pgq | buli airport | buli | jayapura
+pgu | ala'marvdasht airport | bandar-e `asaluyeh | tehran
+pgv | pitt-greenville airport | greenville | new york
+pgx | perigueux airport | perigueux | paris
+pgz | comte antonio amilton beraldo airport | ponta grossa | sao paulo
+phc | port harcourt international airport | emuoha | lagos
+phe | port hedland international airport |  | perth
+phf | newport news/williamsburg international airport | yorktown | new york
+phl | philadelphia international airport | colwyn | new york
+pho | point hope airport |  | anchorage
+phq | the monument airport |  | brisbane
+phs | phitsanulok airport | phitsanulok | bangkok
+phw | phalaborwa airport | phalaborwa | johannesburg
+phx | phoenix sky harbor international airport | tempe junction | phoenix
+pia | peoria international airport | bellevue | chicago
+pib | hattiesburg-laurel regional airport | rawls springs | chicago
+pie | st. petersburg-clearwater international airport | south highpoint | new york
+pih | pocatello regional airport | chubbuck | boise
+pik | glasgow prestwick airport | prestwick | london
+pio | capitan fap renan elias olivera airport | pisco | lima
+pir | pierre regional airport | pierre | chicago
+pis | poitiers-biard airport | biard | paris
+pit | pittsburgh international airport | carnot-moon | new york
+piu | cap. fap guillermo concha iberico international airport | piura | lima
+pix | pico island airport |  | azores
+piz | dew station airport |  | anchorage
+pja | pajala airport | pajala | stockholm
+pkb | wood county airport | reno | new york
+pkc | petropavlovsk-kamchatsky airport | petropavlovsk-kamchatsky | kamchatka
+pke | parkes airport | parkes | sydney
+pkg | pangkor airport |  | kuala lumpur
+pkn | iskandar airport | pangkalanbuun | pontianak
+pkr | pokhara airport | pokhara | kathmandu
+pku | sultan syarif kasim ii international airport |  | jakarta
+pkv | pskov airport | pskov | moscow
+pkx | beijing daxing international airport | lixian | shanghai
+pky | tjilik riwut airport | palangkaraya | pontianak
+pkz | pakse airport | pakxe | vientiane
+plm | sultan mahmud badaruddin ii airport | talangbetutu | jakarta
+pln | emmet county airport | indian river | detroit
+plo | port lincoln airport | port lincoln | adelaide
+plq | palanga international airport | palanga | vilnius
+pls | providenciales international airport | abraham's bay | grand turk
+plu | belo horizonte airport | santa luzia | sao paulo
+plw | mutiara airport | palu | makassar
+plx | semipalatinsk airport | semey | almaty
+plz | port elizabeth international airport | port elizabeth | johannesburg
+pma | wawi airport | chake chake | dar es salaam
+pmc | el tepual airport | puerto montt | santiago
+pmd | la palmdale regional airport | palmdale | los angeles
+pmf | parma airport | parma | rome
+pmi | palma de mallorca airport | s'arenal | madrid
+pmk | palm island airport | ingham | brisbane
+pmo | falcone-borsellino airport | cinisi | rome
+pmr | palmerston north airport | palmerston north | auckland
+pmv | santiago marino international airport | san juan bautista | caracas
+pmw | palmas airport |  | araguaina
+pna | pamplona airport | beriain | madrid
+pnh | phnom penh international airport | phnom penh | phnom penh
+pni | pohnpei airport | kolonia town | pohnpei
+pnk | supadio international airport | pontianak | pontianak
+pnl | pantelleria airport | pantelleria | rome
+pnp | girua airport |  | port moresby
+pnq | pune airport | lohogaon | kolkata
+pnr | pointe noire airport | pointe-noire | brazzaville
+pns | pensacola international airport | ferry pass | chicago
+pnz | petrolina international airport | petrolina | recife
+poa | salgado filho international airport | porto alegre | sao paulo
+pol | pemba airport | pemba | maputo
+pom | jacksons international airport |  | port moresby
+pop | la union airport | puerto plata | santo domingo
+por | pori airport | pori | helsinki
+pos | piarco international airport | arouca | port of spain
+poz | poznan airport | baranowo | warsaw
+ppb | a. de barros airport | alvares machado | sao paulo
+ppg | pago pago international airport | tafuna | pago pago
+ppk | petropavlovsk airport | bishkul | almaty
+ppn | guillermo leon valencia airport | popayan | bogota
+ppp | whitsunday coast airport |  | brisbane
+ppq | paraparaumu airport | paraparaumu | auckland
+pps | puerto princesa international airport | puerto princesa | manila
+ppt | tahiti faa'a airport | faaa | tahiti
+ppw | papa westray airport |  | london
+pqc | phu quoc airport | duong gjong | ho chi minh
+pqi | presque isle municipal airport | presque isle | new york
+pqq | port macquarie airport |  | sydney
+pqs | pilot station airport |  | anchorage
+pra | general justo jose de urquiza airport | san benito | argentina
+prc | prescott airport | chino valley | phoenix
+prg | vaclav havel airport prague | hostivice | prague
+prh | phrae airport | phrae | bangkok
+pri | praslin island airport | victoria | mahe
+prm | portimao airport | portimao | lisbon
+prn | pristina international airport | glanica | belgrade
+pry | wonderboom airport | pretoria | johannesburg
+psa | pisa international airport | pisa | rome
+psc | tri-cities airport | pasco | los angeles
+pse | mercedita airport | aguilita | puerto rico
+psg | petersburg municipal airport |  | anchorage
+psn | palestine municipalcipal airport | palestine | chicago
+pso | cano airport | san lorenzo | bogota
+psp | palm springs international airport | palm springs | los angeles
+psr | abruzzo airport | sambuceto | rome
+pss | posadas airport | posadas | argentina
+psu | putussibau airport | kapit | makassar
+ptb | dinwiddie county airport | petersburg | new york
+ptg | polokwane airport | mankoeng | johannesburg
+ptp | pointe-a-pitre international airport | les abymes | guadeloupe
+pts | atkinson municipal airport | frontenac | chicago
+ptu | platinum airport |  | anchorage
+pty | tocumen international airport | tocumen | panama
+pub | pueblo memorial airport | pueblo | denver
+puf | the pau-pyrenees international airport | uzein | paris
+puj | punta cana international airport | punta cana | santo domingo
+puq | pres ibanez airport |  | santiago
+pus | gimhae international airport | kimhae | seoul
+puu | puerto asis airport |  | bogota
+puw | moscow regional airport | pullman | los angeles
+puy | pula airport | galizana | zagreb
+pvc | provincetown airport | provincetown | new york
+pvd | theodore francis green memorial state airport | warwick | new york
+pvg | shanghai pudong international airport | laogang | shanghai
+pvh | porto velho international airport | porto velho | porto velho
+pvk | aktion airport | preveza | athens
+pvl | pike county airport | coal run village | new york
+pvr | gustavo diaz ordaz international airport | las jarretaderas | mexico city
+pvu | provo airport | provo | denver
+pwe | pevek airport | pevek | anadyr
+pwk | chicago executive airport | wheeling | chicago
+pwq | pavlodar airport | pavlodar | almaty
+pxa | atung bungsu airport | kotaagung | jakarta
+pxm | puerto escondido airport | puerto escondido | mexico city
+pxo | porto santo airport | vila de porto santo | madeira
+pxu | pleiku airport | pleiku | ho chi minh
+pyg | gangtok-pakyong airport | rangpo | kolkata
+pyj | polyarnyj airport | udachny | yakutsk
+pyt | pedro rabelo de souza airport | paracatu | sao paulo
+pyy | pai airport | pai | bangkok
+pzb | pietermaritzburg airport | pietermaritzburg | johannesburg
+pzo | manuel carlos piar guayana airport | ciudad guayana | caracas
+pzs | temuco maquehue airport |  | santiago
+pzu | port sudan airport | port sudan | khartoum
+qaq | l'aquila–preturo airport | preturo | rome
+qbc | bella coola airport |  | vancouver
+qdv | comte. rolim adolfo amaro state airport | jundiaí | sao paulo
+qgp | garanhuns airport | garanhuns | recife
+qig | dr. francisco tomé da frota airport | iguatu | fortaleza
+qks | keystone airport | elk lick township | denver
+qlr | leiria gandara airport | leiria | lisbon
+qlu | lublin radawiec airport | swidnik | warsaw
+qow | sam mbakwe international airport | ihuo | lagos
+qro | queretaro intercontinental airport | santiago de queretaro | mexico city
+qsf | setif airport | ain arnat | algiers
+qsz | shache airport | zepu | shanghai
+quo | akwa ibom airport | esuk oron | lagos
+qxd | quixadá regional airport | quixadá | fortaleza
+rab | tokua airport |  | port moresby
+rae | arar airport | 'ar'ar | riyadh
+rah | rafha airport | as salman | riyadh
+rai | nelson mandela international airport | praia | cape verde
+raj | civil airport | rajkot | kolkata
+rak | menara airport | marrakesh | casablanca
+rao | dr. leite lopes state airport | ribeirao preto | sao paulo
+rap | rapid city regional airport | box elder | denver
+rar | rarotonga airport | avarua | rarotonga
+ras | rasht airport | rasht | tehran
+rba | sale airport | sale | casablanca
+rbf | big bear city airport | big bear city | los angeles
+rbg | roseburg municipal airport | roseburg | los angeles
+rbr | pres. medici airport | rio branco | rio branco
+rby | ruby airport |  | anchorage
+rcb | richards bay airport | richards bay | johannesburg
+rch | riohacha airport | riohacha | bogota
+rdd | redding municipal airport | anderson | los angeles
+rdl | al bardawil international airport | el hassana | cairo
+rdm | roberts field redmond municipal airport | redmond | los angeles
+rdo | radom airport | radom | warsaw
+rdp | kazi nazrul islam airport | bahula | kolkata
+rdu | raleigh-durham international airport | morrisville | new york
+rdz | marcillac airport | salles-la-source | paris
+rec | guararapes-gilberto freyre international airport | recife | recife
+reg | tito menniti airport | reggio calabria | rome
+rel | trelew airport | trelew | argentina
+ren | orenburg airport | nezhinka | yekaterinburg
+rep | siem reap international airport | siem reap | phnom penh
+res | resistencia airport | fontana | argentina
+ret | stolport airport | rost | oslo
+reu | reus airport | vila-seca | madrid
+rex | gen lucio blanco international airport | vamos tamaulipas | matamoros
+rfd | chicago rockford international airport | winnebago | chicago
+rfp | raiatea airport | uturoa | tahiti
+rga | rio grande airport | rio grande | argentina
+rgi | rangiroa airport |  | tahiti
+rgk | gorno-altaysk airport | aya | novokuznetsk
+rgl | rio gallegos internacional airport |  | argentina
+rgn | yangon international airport | yangon | rangoon
+rhd | rio hondo airport | termas de rio hondo | argentina
+rhi | oneida county airport | rhinelander | chicago
+rho | rhodes airport | kremasti | athens
+ria | santa maria airport | santa maria | sao paulo
+rib | gen buech airport | riberalta | la paz
+ric | richmond international airport (byrd field) | fort lee | new york
+rid | richmond municipalcipal airport | richmond | indiana
+rih | scarlett martínez international airport | rio hato | panama
+ris | rishiri airport | rishiri town | tokyo
+riw | riverton airport | riverton | denver
+rix | riga international airport | pinki | riga
+rja | rajahmundry airport | rajahmundry | kolkata
+rjh | rajshahi airport | rajshahi | dhaka
+rjk | rijeka airport | omisalj | zagreb
+rjl | agoncillo airport | agoncillo | madrid
+rjm | marinda airport | saonek | jayapura
+rkd | knox county regional airport | south thomaston | new york
+rke | roskilde airport | havdrup | copenhagen
+rks | rock springs-sweetwater county airport | rock springs | denver
+rkt | ras al khaimah international airport | ras al-khaimah | dubai
+rkv | reykjavik international airport | kopavogur | reykjavik
+rkw | rockwood municipal airport | rockwood | new york
+rlg | laage airport | laage | berlin
+rlk | bayannur tianjitai airport | xamba | shanghai
+rma | roma airport |  | brisbane
+rmf | marsa alam international airport | marsa alam | cairo
+rmi | miramare airport | rivazzurra | rome
+rmo | chișinău international airport | chișinău | chisinau
+rmq | taichung international airport | fengyuan | taipei
+rmz | tobolsk remezov airport | tobolsk | yekaterinburg
+rna | ulawa airport |  | guadalcanal
+rnb | kallinge airport |  | stockholm
+rnh | new richmond municipal airport | new richmond | chicago
+rnj | yoron airport | nago | tokyo
+rnn | bornholm airport | ronne | copenhagen
+rno | reno/tahoe international airport | sparks | los angeles
+rns | rennes airport | saint-jacques-de-la-lande | paris
+roa | roanoke-blacksburg regional airport | hollins | new york
+rob | roberts international airport | kakata | monrovia
+roc | greater rochester international airport |  | new york
+roi | roi et airport | chiang khwan | bangkok
+rok | rockhampton airport | west rockhampton | brisbane
+roo | rondonopolis airport | rondonopolis | cuiaba
+rop | rota airport | yigo village | saipan
+ror | airai airport | ngetkib | palau
+ros | fisherton airport | funes | argentina
+rot | rotorua international airport | rotorua | auckland
+rov | platov international airport | grushevskaya | moscow
+rox | roseau municipal airport | roseau | chicago
+rpr | swami vivekananda airport | bhatgaon | kolkata
+rpu | san fernando airport |  | manila
+rqa | ruoqiang loulan airport | ruoqiang | shanghai
+rqy | shivamogga airport | sogane | kolkata
+rrg | rodrigues island airport | baie aux huitres | mauritius
+rrj | jacarepaguá airport | rio de janeiro | sao paulo
+rrl | merrill municipal airport | merrill | chicago
+rrs | roros airport |  | oslo
+rsa | santa rosa airport | santa rosa | argentina
+rsd | south eleuthera airport | governor's harbour | nassau
+rst | rochester international airport | stewartville | chicago
+rsu | yeosu airport |  | seoul
+rsw | southwest florida international airport | gateway | new york
+rtb | roatan airport | coxen hole | tegucigalpa
+rtm | rotterdam the hague airport | delfshaven | amsterdam
+rtw | saratov tsentralny airport | saratov | samara
+ruh | king khaled international airport | riyadh | riyadh
+rui | ruidoso sierra blanca regional airport |  | denver
+rul | maavaarulaa airport | viligili | maldives
+run | reunion roland garros airport | sainte-marie | reunion
+rut | rutland airport | rutland | new york
+rvd | rio verde airport | santa helena de goias | sao paulo
+rvi | rostov airport | imeni chkalova | moscow
+rvk | ryumsjoen airport | rorvik | oslo
+rvn | rovaniemi airport | rovaniemi | helsinki
+rxs | roxas city airport | roxas city | manila
+ryg | moss airport | rygge | oslo
+ryk | rahim yar khan airport | sadiqabad | karachi
+ryl | royal airport | chirundu | lusaka
+rze | rzeszow international airport | trzebownisko | warsaw
+rzp | clr airport | taytay | manila
+rzv | rize–artvin airport |  | istanbul
+sab | j. yrausquin airport | upper hell's gate | kralendijk
+sac | sacramento executive airport |  | los angeles
+sah | sana'a international airport | ar rawdah | aden
+sai | siem reap–angkor international airport | sotr nikum | phnom penh
+sal | el salvador international airport | el rosario | el salvador
+san | san diego international airport | san diego | los angeles
+sap | ramon villeda morales international airport | la lima | tegucigalpa
+sat | san antonio international airport | alamo heights | chicago
+sav | savannah/hilton head airport | pooler | new york
+saw | sabiha gokcen international airport | pendik | istanbul
+sba | santa barbara municipal airport | goleta | los angeles
+sbh | st. barthelemy airport | gustavia | st barthelemy
+sbp | san luis county regional airport | san luis obispo | los angeles
+sbw | sibu airport | sibu | kuching
+sby | wicomico regional airport | salisbury | new york
+sbz | sibiu airport | sura mica | bucharest
+scc | prudhoe bay/deadhorse airport |  | anchorage
+sce | university park airport | houserville | new york
+scf | scottsdale airport | paradise valley | phoenix
+sck | stockton airport | french camp | los angeles
+scl | arturo merino benitez airport |  | santiago
+scn | ensheim airport | sankt ingbert | berlin
+sco | aktau international airport | aktau | aqtau
+scq | santiago de compostela airport | oroso | madrid
+scr | scandinavian mountains airport | innbygda | stockholm
+scu | antonio maceo airport | santiago de cuba | havana
+scv | suceava airport | plopeni | bucharest
+scw | syktyvkar airport | syktyvkar | moscow
+scy | san cristobal airport | puerto baquerizo moreno | galapagos
+sdd | lubango airport | lubango | luanda
+sde | santiago del estero airport | santiago del estero | argentina
+sdf | louisville international airport | audubon park | kentucky
+sdg | sanandaj airport | sanandaj | tehran
+sdj | sendai airport | iwanuma | tokyo
+sdk | sandakan airport | taman rajawali | kuching
+sdl | sundsvall-timra airport | bergeforsen | stockholm
+sdn | sandane airport | sandane | oslo
+sdp | sand point municipal airport | sand point | anchorage
+sdq | las americas international airport | boca chica | santo domingo
+sdr | santander airport | el astillero | madrid
+sdu | santos dumont airport | rio de janeiro | sao paulo
+sdv | dov hoz airport | tel aviv | jerusalem
+sdw | sindhudurg airport | sindhudurg | kolkata
+sdy | richland municipal airport | sidney | denver
+sea | seattle-tacoma international airport | seatac | los angeles
+sef | sebring regional airport | sebring | new york
+sek | srednekolymsk airport | srednekolymsk | srednekolymsk
+sen | london southend airport | rochford | london
+sez | seychelles international airport | cascade | mahe
+sfa | sfax el maou airport | sfax | tunis
+sfb | orlando sanford international airport | midway | new york
+sfg | esperance airport |  | marigot
+sfj | kangerlussuaq airport | qasigiannguit | godthab
+sfn | santa fe airport | santo tome | argentina
+sfo | san francisco international airport | millbrae | los angeles
+sft | skelleftea airport | soedra bergsbyn | stockholm
+sfy | tri-township airport | savanna | chicago
+sgc | surgut airport | surgut | yekaterinburg
+sgd | sonderborg airport | sonderborg | copenhagen
+sge | siegerland airport | siegen | berlin
+sgf | springfield-branson national airport | willard | chicago
+sgn | tan son nhat international airport | quan phu nhuan | ho chi minh
+sgu | saint george municipal airport | washington | denver
+sha | shanghai hongqiao international airport | jiangqiao | shanghai
+shb | nakashibetsu airport | shibetsu | tokyo
+shd | shenandoah valley airport | weyers cave | new york
+she | shenyang taoxian international airport | shenyang | shanghai
+shf | shihezi huayuan airport | ulan us | shanghai
+shg | shungnak airport | barrow | anchorage
+shh | shishmaref airport |  | anchorage
+shj | sharjah international airport |  | dubai
+shl | shillong airport | shillong | kolkata
+shm | shirahama airport | tanabe | tokyo
+sho | king mswati iii international airport |  | mbabane
+shv | shreveport regional airport | shreveport | chicago
+shw | sharurah airport | manwakh | riyadh
+shx | shageluk airport |  | anchorage
+sia | xi'an xiguan airport |  | shanghai
+sic | san jose island airport |  | panama
+sid | amilcar cabral international airport | espargos | cape verde
+sin | changi international airport | singapore | singapore
+sip | simferopol international airport | rodnykove | simferopol
+sis | sishen airport | kathu | johannesburg
+sit | sitka airport |  | sitka
+sjc | norman y. mineta san jose international airport | santa clara | los angeles
+sjd | los cabos international airport | las veredas | mazatlan
+sjj | sarajevo international airport | sarajevo | sarajevo
+sjo | juan santamaria international airport | alajuela | costa rica
+sjp | sao jose do rio preto airport | sao jose do rio preto | sao paulo
+sjt | san angelo regional airport | san angelo | chicago
+sju | luis munoz marin international airport | carolina | puerto rico
+sjw | shijiazhuang daguocun airport |  | shanghai
+sjz | sao jorge island airport | sao roque do pico | azores
+skb | robert l. bradshaw international airport | monkey hill | st kitts
+skd | samarkand airport | samarqand | samarkand
+skg | thessaloniki international airport | neo rysi | athens
+skk | shaktoolik airport |  | anchorage
+skn | stokmarknes skagen airport | stokmarknes | oslo
+skp | skopje alexander the great airport | petrovec | skopje
+skt | sialkot airport | sialkot | karachi
+sku | skiros airport | skyros | athens
+skx | saransk airport | saransk | moscow
+skz | sukkur airport | bagarji | karachi
+sla | martin miguel de guemes international airport | cerrillos | argentina
+slb | storm lake municipal airport | storm lake | chicago
+slc | salt lake city international airport | salt lake city | denver
+slk | adirondack airport | saranac lake | new york
+sll | salalah international airport |  | muscat
+slm | matacan airport | salamanca | madrid
+sln | salina regional airport | salina | chicago
+slp | san luis potosi airport | fraccion milpillas | mexico city
+slu | george f. l. charles airport | bisee | st lucia
+slw | plan de guadalupe international airport | ramos arizpe | monterrey
+sly | salekhard airport | salekhard | yekaterinburg
+slz | marechal cunha machado international airport | sao luis | fortaleza
+sma | vila do porto airport | vila franca do campo | azores
+smf | sacramento international airport | west sacramento | los angeles
+smi | samos airport | chora | athens
+smk | st. michael airport |  | anchorage
+smq | h. asan airport | semuda | pontianak
+smr | simon bolivar international airport | cienaga | bogota
+smx | santa maria public airport | orcutt | los angeles
+sna | john wayne airport | irvine | los angeles
+snc | general ulpiano paez airport | salinas | guayaquil
+snn | shannon airport | shannon | dublin
+sno | sakon nakhon airport | sakon nakhon | bangkok
+snp | saint paul island airport |  | anchorage
+snr | montoir airport | saint-nazaire | paris
+snu | santa clara airport | santa clara | havana
+snw | thandwe airport | pyay | rangoon
+soc | adi sumarmo international airport | colomadu | jakarta
+sof | sofia airport | sofia | sofia
+sog | sogndal airport | sogndalsfjora | oslo
+soj | sorkjosen airport | storslett | oslo
+son | santo pekoa international airport | luganville | efate
+soo | helsinge airport | soderhamn | stockholm
+soq | sorong airport | sorong | jayapura
+sou | southampton airport | eastleigh | london
+sow | show low airport | show low | phoenix
+soy | stronsay airport |  | london
+spc | la palma airport | mazo | canary
+spd | saidpur airport | saidpur | dhaka
+spi | capital airport | springfield | chicago
+spn | saipan international airport | saipan | saipan
+spu | split airport | trogir | zagreb
+spx | houston gulf airport | west university place | chicago
+sqd | shangrao sanqingshan airport | xuri | shanghai
+sqg | sorong airport | simanggang | makassar
+sqj | sanming shaxian airport | langkou | shanghai
+sqq | siauliai international airport | siauliai | vilnius
+sqv | sequim valley airport | sequim | los angeles
+sqw | skive airport |  | copenhagen
+sre | juana azurduy de padilla international airport | sucre | la paz
+srg | achmad yani international airport | semarang | jakarta
+sri | temindung airport | samarinda | makassar
+srp | stord airport | sagvag | oslo
+srq | sarasota bradenton international airport | whitfield | new york
+sry | dashte naz airport | surak | tehran
+ssa | deputado luis eduardo magalhaes international airport | lauro de freitas | bahia
+ssf | stinson municipal airport | san antonio | chicago
+ssg | malabo airport | malabo | malabo
+ssh | sharm el sheikh airport | sharm el-sheikh | cairo
+ssj | stokka airport | solfjellsjoen | oslo
+ssm | sault ste marie municipal airport | sault ste marie | detroit
+ssx | samsun samair airport | samsun | istanbul
+sta | stauning vestjyllands airport | ringkobing | copenhagen
+stg | st. george island airport | dutch harbor | anchorage
+sti | cibao international airport | licey al medio | santo domingo
+stl | lambert-st. louis international airport | woodson terrace | chicago
+stm | santarem-maestro wilson fonseca airport | santarem | santarem
+stn | stansted airport | takeley | london
+stp | st. paul downtown airport | saint paul | chicago
+str | stuttgart airport | leinfelden-echterdingen | berlin
+sts | sonoma county airport | windsor | los angeles
+stt | cyril e. king airport | charlotte amalie | st thomas
+stv | surat gujarat airport | surat | kolkata
+stw | stavropol airport | moskovskoye | moscow
+stx | henry e. rohlsen airport | saint croix | st thomas
+sub | juanda international airport | semampirbarat | jakarta
+suf | lamezia terme international airport | santa eufemia lamezia | rome
+sug | surigao airport | mati | manila
+suj | satu mare international airport | madaras | bucharest
+suk | sakkyryr airport | tonghae | seoul
+sum | sumter municipal airport | east sumter | new york
+sun | friedman memorial airport | hailey | boise
+sus | spirit of st. louis airport | hazelwood | chicago
+suv | nausori airport | suva | fiji
+suw | richard i bong airport | superior | chicago
+sux | sioux gateway airport | sergeant bluff | chicago
+sva | savoonga airport | lavrentiya | anchorage
+svc | grant county airport | hurley | denver
+svd | argyle international airport | kingstown | st vincent
+svg | stavanger airport sola | sola | oslo
+svj | helle airport | svolvaer | oslo
+svl | savonlinna airport | savonlinna | helsinki
+svo | sheremetyevo international airport | khimki | moscow
+svq | seville airport |  | madrid
+svu | savusavu airport |  | fiji
+svx | koltsovo international airport | istok | yekaterinburg
+swa | jieyang chaoshan airport |  | shanghai
+swf | stewart international airport | orange lake | new york
+swq | sultan muhammad kaharuddin iii airport | karangbugis | makassar
+sws | swansea airport | fairwood common | london
+swt | strezhevoy airport | izluchinsk | novosibirsk
+swv | severo-evensk airport | evensk | karachi
+sxb | strasbourg airport |  | paris
+sxf | schonefeld airport | schonefeld | berlin
+sxk | saumlaki olilit airport | tual | jayapura
+sxm | princess juliana international airport | marigot | lower princes
+sxr | srinagar international airport | soyibug | kolkata
+sxz | siirt airport | civankan | istanbul
+syd | sydney (kingsford smith) airport |  | sydney
+sym | pu'er simao airport | simao | shanghai
+syo | shonai airport | tsuruoka | tokyo
+syr | hancock international airport | north syracuse | new york
+sys | saskylakh airport |  | yakutsk
+syx | sanya phoenix international airport |  | shanghai
+syy | stornoway airport | stornoway | london
+syz | shiraz international airport | shiraz | tehran
+sza | soyo airport | soio | luanda
+szb | sultan abdul aziz shah airport | kampung baru subang | kuala lumpur
+sze | semera airport | dubti | addis ababa
+szf | samsun-carsamba airport | dikbiyik | istanbul
+szg | w. a. mozart salzburg airport |  | vienna
+szk | skukuza airport |  | johannesburg
+szt | san cristobal airport | mitziton | mexico city
+szw | parchim airport | domsuhl | berlin
+szx | shenzhen bao'an international airport | fuyong | shanghai
+szy | olsztyn-mazury airport | michalow-reginow | warsaw
+szz | goleniow airport | goleniow | warsaw
+tab | a.n.r. robinson international airport | scarborough | port of spain
+tac | d. z. romualdez airport | panalanoy | manila
+tae | daegu international airport | daegu | seoul
+tah | tanna airport | isangel | efate
+tak | takamatsu airport | takamatsu-shi | tokyo
+tam | tampico international airport | tampico | monterrey
+tao | qingdao liuting international airport |  | shanghai
+tap | tapachula international airport | tapachula | mexico city
+tas | yuzhny airport | tashkent | tashkent
+tat | poprad/tatry airport | svit | bratislava
+tav | tau island airport | ta`u | pago pago
+tay | tartu airport | ulenurme | tallinn
+tbb | tuy hoa airport | tuy hoa | ho chi minh
+tbg | tabubil airport |  | port moresby
+tbo | tabora airport | tabora | dar es salaam
+tbp | capitan fap pedro canga rodriguez airport | tumbes | lima
+tbr | statesboro-bulloch county airport | statesboro | new york
+tbs | tbilisi international airport | didi lilo | tbilisi
+tbt | tabatinga international airport | tabatinga | manaus
+tbu | fua'amotu international airport | vaini | tongatapu
+tbw | tambov donskoye airport | tambov | moscow
+tbx | tambelan airport | pulo batal | jakarta
+tbz | tabriz airport | tabriz | tehran
+tcb | treasure cay airport | cooper's town | nassau
+tci | terney airport | terney | vladivostok
+tcj | torembi airport |  | port moresby
+tck | tinboli airport | ambunti | port moresby
+tco | la florida airport | tumaco | bogota
+tcq | tacna airport | tacna | lima
+tcr | tuticorin airport | korampallam | kolkata
+tcz | tengchong tuofeng airport | tengyue | shanghai
+tdd | teniente jorge henrich arauz airport | trinidad | la paz
+tdx | trat airport | laem ngop | bangkok
+teb | teterboro airport | moonachie | new york
+tee | cheikh larbi tebessi airport | tebessa | algiers
+tef | telfer airport |  | perth
+ten | tongren airport | chatian | shanghai
+tet | matundo airport | tete | maputo
+tev | teruel airport | cella | madrid
+tez | tezpur airport | tezpur | kolkata
+tff | tefe airport | tefe | manaus
+tfn | tenerife north airport | la laguna | canary
+tfs | tenerife south airport | san isidro | canary
+tfu | chengdu tianfu international airport | jiancheng | chongqing
+tfy | muhammad taufiq kiemas airport | krui | jakarta
+tgc | tanjung manis airport | sarikei | kuching
+tgd | podgorica airport | mojanovici | podgorica
+tgg | sultan mahmud airport | kuala terengganu | kuala lumpur
+tgo | tongliao airport | tongliao | shanghai
+tgp | podkamennaya tunguska airport | podkamennaya tunguska | krasnoyarsk
+tgr | touggourt airport | touggourt | algiers
+tgt | tanga airport | tanga | dar es salaam
+tgu | toncontin airport | tegucigalpa | tegucigalpa
+tgz | angel albino corzo international airport | ignacio allende | mexico city
+thd | bai thuong airport | thi tran tho xuan | ho chi minh
+the | teresina airport | teresina | fortaleza
+thl | tachilek airport | mae sai | rangoon
+thn | trollhattan airport | trollhattan | stockholm
+thr | mehrabad international airport | tehran | tehran
+ths | sukhothai airport | si samrong | bangkok
+thu | pituffik airport |  | thule
+thv | york airport | valley view | new york
+thx | turukhansk airport | turukhansk | krasnoyarsk
+tia | tirana international airport | preze | tirane
+tif | taif airport | ta'if | riyadh
+tih | tikehau atoll airport |  | tahiti
+tij | tijuana airport | tijuana | tijuana
+tim | timika airport | mapurujaya | jayapura
+tin | tindouf airport | tindouf | algiers
+tip | tripoli international airport | al 'aziziyah | tripoli
+tir | tirupati airport | renigunta | kolkata
+tiu | timaru airport | timaru | auckland
+tiv | tivat airport | tivat | podgorica
+tiz | tari airport | tari | port moresby
+tja | capitan oriel lea plaza airport | tarija | la paz
+tjl | três lagoas airport | tres lagoas | campo grande
+tjm | roshchino international airport | moskovskiy | yekaterinburg
+tjq | bulutumbang airport | tanjung pandan | jakarta
+tju | kulyab airport | kulob | dushanbe
+tkd | takoradi airport |  | accra
+tkg | radin inten ii airport | natar | jakarta
+tkk | chuuk international airport | weno town | chuuk
+tkq | kigoma airport | kigoma | dar es salaam
+tks | tokushima awaodori airport | narutocho-mitsuishi | tokyo
+tku | turku airport | turku | helsinki
+tla | teller airport |  | anchorage
+tlc | toluca international airport | toluca | mexico city
+tlh | tallahassee international airport | tallahassee | new york
+tll | tallinn airport | tallinn | tallinn
+tlm | zenata airport | remchi | algiers
+tln | hyeres airport |  | paris
+tlq | turpan jiaohe airport | laochenglu | shanghai
+tls | toulouse-blagnac airport | blagnac | paris
+tlt | tuluksak airport |  | anchorage
+tlv | ben gurion international airport | kefar habad | jerusalem
+tly | plastun airport | plastun | vladivostok
+tmc | tambolaka airport | maredakamau | makassar
+tme | gabriel vargas santos airport | tame | bogota
+tmf | thimarafushi airport | veymandoo | maldives
+tmi | tumling tar airport |  | kathmandu
+tmj | termez airport | tirmiz | samarkand
+tml | tamale airport | tamale | accra
+tmp | tampere-pirkkala airport | pirkkala | helsinki
+tmr | aguenar - hadj bey akhamok airport | tamanrasset | algiers
+tms | sao tome island airport | sao tome | sao tome
+tmu | tambor airport | paquera | costa rica
+tmw | tamworth airport | phillip | sydney
+tmx | timimoun airport | timimoun | algiers
+tna | jinan yaoqiang international airport | jinan | shanghai
+tng | tangier ibn battouta airport | boukhalef | casablanca
+tnh | tonghua sanyuanpu airport | hulutao | shanghai
+tnj | kidjang airport | tanjungpinang | jakarta
+tnn | tainan airport | tainan | taipei
+tnr | antananarivo airport | antananarivo | antananarivo
+tnu | newton municipal airport | newton | chicago
+toa | torrance airport | torrance | los angeles
+toe | tozeur airport | tozeur | tunis
+tof | tomsk airport | tomsk | novokuznetsk
+toi | troy municipal airport | troy | chicago
+tol | toledo express airport | whitehouse | new york
+tor | torrington municipal airport | torrington | denver
+tos | tromso/langnes airport | tromso | oslo
+toy | toyama airport | toyama-shi | tokyo
+tpa | tampa international airport | egypt lake-leto | new york
+tpe | taiwan taoyuan international airport | taoyuan city | taipei
+tph | tonopah airport |  | los angeles
+tpp | cad. fap guillermo del castillo paredes airport | tarapoto | lima
+tpq | tepic airport | tepic | mazatlan
+tps | trapani-birgi airport | marsala | rome
+tqp | trepell airport |  | brisbane
+tqq | maranggo airport | lasehao | makassar
+trc | francisco sarabia international airport | torreon | monterrey
+trd | trondheim airport vaernes | stjordal | oslo
+tre | tiree airport | barra | london
+trf | torp sandefjord airport | sandefjord | oslo
+trg | tauranga city airport | tauranga | auckland
+tri | tri-cities regional airport | spurgeon | new york
+trk | juwata international airport | tarakan | makassar
+trn | turin airport | caselle torinese | rome
+tro | taree airport | cundletown | sydney
+trs | trieste - friuli venezia giulia airport | ronchi dei legionari | rome
+tru | trujillo airport | huanchaco | lima
+trv | trivandrum international airport | thiruvananthapuram | kolkata
+trw | bonriki airport | betio village | tarawa
+trz | tiruchirapalli international airport | tiruchirappalli | kolkata
+tsa | taipei songshan airport | taipei | taipei
+tsf | treviso airport | treviso | rome
+tsj | tsushima airport | busan | tokyo
+tsn | tianjin binhai international airport |  | shanghai
+tsr | timisoara traian vuia international airport | giarmata-vii | bucharest
+tst | trang airport | trang | bangkok
+tsv | townsville airport | townsville | brisbane
+tta | tan tan airport | tan-tan | casablanca
+tte | babullah airport | ternate | jayapura
+ttj | tottori airport | tottori | tokyo
+ttn | trenton-mercer airport | ewing | new york
+tto | britton municipal airport | britton | chicago
+ttt | taitung airport | taitung city | taipei
+tuf | val de loire airport | parcay-meslay | paris
+tug | tuguegarao airport | carig | manila
+tui | turaif airport | turayf | riyadh
+tuk | turbat airport | turbat | karachi
+tul | tulsa international airport | owasso | chicago
+tun | tunis-carthage international airport | ariana | tunis
+tuo | taupo airport | taupo | auckland
+tup | tupelo regional airport | tupelo | chicago
+tus | tucson international airport | summit | phoenix
+tuu | tabuk regional airport | tabuk | riyadh
+tvc | cherry capital airport | traverse city | detroit
+tvf | thief river falls regional airport | thief river falls | chicago
+tvi | thomasville municipal airport | thomasville | new york
+tvs | tangshan sannuhe airport | fengrun | shanghai
+tvu | matei airport | lambasa | fiji
+tvy | dawe airport | dawei | rangoon
+twc | tumxuk tangwangcheng airport | aqal | shanghai
+twf | magic valley regional airport | twin falls | boise
+twu | tawau airport | tawau | kuching
+txe | rembele airport | simpang teritit | jakarta
+txf | teixeira de freitas airport | teixeira | bahia
+txk | texarkana municipal airport | texarkana | chicago
+txl | tegel airport | tegel | berlin
+txn | huangshan tunxi international airport | yiqi | shanghai
+tyc | taiyuan yaocheng airport | mengfeng | shanghai
+tyd | tynda airport | tynda | yakutsk
+tyf | torsby airport | torsby | stockholm
+tyl | captain fap victor montes arias airport | talara | lima
+tyn | taiyuan wusu international airport | xiaodian | shanghai
+tyr | tyler pounds regional airport | chandler | chicago
+tys | mcghee tyson airport | alcoa | new york
+tzl | tuzla international airport | svojat | sarajevo
+tzx | trabzon airport | trabzon | istanbul
+uak | narsarsuaq airport | narsaq | godthab
+uaq | san juan airport | san juan | argentina
+uba | uberaba airport | uberaba | sao paulo
+ubj | yamaguchi ube airport | ube | tokyo
+ubn | new ulaanbaatar international airport | zuunmod | ulaanbaatar
+ubp | ubon ratchathani international airport | ubon ratchathani | bangkok
+ucb | ulanqab jining airport | jining | shanghai
+uct | ukhta airport | sosnogorsk | moscow
+udi | uberlandia-ten. cel. av. cesar bombonato airport | uberlandia | sao paulo
+udr | maharana pratap airport | udaipur | kolkata
+uel | quelimane airport | quelimane | maputo
+ueo | kume-jima airport | naha-shi | tokyo
+uet | quetta airport | kot malik | karachi
+ufa | ufa international airport | avdon | yekaterinburg
+ugc | urgench airport | urganch | samarkand
+uhs | aleksandrovsk-sakhalinskiy airport | aleksandrovsk-sakhalinskiy | sakhalin
+uib | el carano airport | quibdo | bogota
+uih | phu cat airport | qui nhon | ho chi minh
+uin | quincy municipal airport | payson | chicago
+uio | mariscal sucre international airport | quito | guayaquil
+uip | pluguffan airport | pluguffan | paris
+uka | ukunda airport | gazi | nairobi
+ukb | kobe airport | kobe | tokyo
+uke | utkela airport | utkela | kolkata
+ukk | ust-kamenogorsk airport | belusovka | almaty
+ukn | waukon municipal airport | waukon | chicago
+ukx | ust-kut airport | ust'-kut | irkutsk
+ulh | prince abdul majeed bin abdulaziz airport | al 'ula | riyadh
+ulk | lensk airport | lensk | yakutsk
+uln | chinggis khaan international airport |  | ulaanbaatar
+uly | ulyanovsk vostochny airport | isheyevka | samara
+ume | umea airport | umea | stockholm
+umz | mena intermountain municipal airport | mena | chicago
+unk | unalakleet airport |  | anchorage
+unn | ranong airport | ranong | bangkok
+upg | sultan hasanuddin international airport | makassar | makassar
+upn | licenciado y general ignacio lopez rayon airport | uruapan | mexico city
+ura | uralsk airport | oral | oral
+urc | urumqi diwopu international airport |  | shanghai
+ure | kuressaare airport | kuressaare | tallinn
+urg | ruben berta airport | uruguaiana | sao paulo
+urj | uraj airport | uray | yekaterinburg
+urs | kursk vostochny airport | kursk | moscow
+urt | surat thani airport | phunphin | bangkok
+ury | gurayat airport | al qurayyat | riyadh
+usa | concord-padgett regional airport | harrisburg | new york
+usc | union county airport | union | new york
+ush | malvinas argentinas international airport | ushuaia | argentina
+usk | usinsk airport | usinsk | moscow
+usm | koh samui airport | ko samui | bangkok
+usn | ulsan airport | ulsan | seoul
+usr | ust-nera airport | ust-nera | ust-nera
+ust | st. augustine airport | villano beach | new york
+usu | busuanga airport |  | manila
+uth | udon thani international airport | udon thani | bangkok
+utm | tunica municipalcipal airport | tunica | chicago
+utn | upington airport | upington | johannesburg
+utp | utapao airport | ban chang | bangkok
+utt | umtata airport | mthatha | johannesburg
+uua | bugulma airport | bugul'ma | moscow
+uud | ulan-ude airport | zarechnyy | irkutsk
+uus | yuzhno-sakhalinsk airport | yuzhno-sakhalinsk | srednekolymsk
+uve | ouvea airport | fayaoue | noumea
+uvf | hewanorra airport | vieux fort | st lucia
+uvi | união da vitória airport | porto uniao | sao paulo
+uyn | yulin yuyang airport | yulin | shanghai
+uzr | urzhar airport | urzhar | almaty
+vaa | vaasa airport | ristinummi | helsinki
+vag | major-brigadeiro trompowsky airport | varginha | sao paulo
+vai | vanimo airport | vanimo | port moresby
+vak | chevak airport |  | nome
+vam | villa international airport maamigili | mahibadhoo | maldives
+van | van ferit melen airport | van | istanbul
+vaq | vanavara airport | vanavara | krasnoyarsk
+var | varna airport | aksakovo | sofia
+vas | sivas airport | sivas | istanbul
+vav | lupepau'u airport | neiafu | tongatapu
+vaw | vardoe airport | vuorea | oslo
+vbc | mandalay chanmyathazi airport | mandalay | yangon
+vbp | bokpyin airport | tha sae | rangoon
+vbs | montichiari airport | vighizzolo | rome
+vby | visby airport | visby | stockholm
+vca | can tho airport | can tho | ho chi minh
+vcc | new vacaria airport | vacaria | sao paulo
+vce | venice marco polo airport | tessera | rome
+vcf | valcheta airport | valcheta | argentina
+vcl | chu lai international airport | nui thanh | ho chi minh
+vcp | viracopos airport | indaiatuba | sao paulo
+vda | ovda airport | eilat | jerusalem
+vdc | vitoria da conquista airport | vitoria da conquista | bahia
+vde | hierro airport | valverde | canary
+vdh | dong hoi airport | kwang binh | ho chi minh
+vdi | vidalia municipal airport | vidalia | new york
+vdm | gobernador edgardo castello airport | viedma | argentina
+vds | vadso airport | vadso | oslo
+vdz | valdez municipal airport | valdez | anchorage
+vel | vernal regional airport | naples | denver
+veo | severo-yeniseyskiy airport |  | krasnoyarsk
+ver | veracruz international airport | hacienda sotavento | mexico city
+vex | tioga municipal airport | mansfield | chicago
+vfa | victoria falls airport | victoria falls | harare
+vga | vijayawada airport | gannavaram | kolkata
+vgd | vologda airport | vologda | moscow
+vgo | vigo airport | redondela | madrid
+vhm | vilhelmina airport | vilhelmina | stockholm
+vie | vienna international airport | fischamend dorf | vienna
+vii | vinh airport | hung nguyen | ho chi minh
+vij | virgin gorda airport | tortola | tortola
+vil | dakhla airport | dakhla | casablanca
+vin | havryshivka vinnytsia international airport | vinnytsya | kiev
+vit | vitoria airport | salvatierra | madrid
+vix | eurico de aguiar salles airport | vila velha | sao paulo
+vkg | rach gia airport | rach gia | ho chi minh
+vko | vnukovo airport | vnukovo | moscow
+vkt | vorkuta airport | vorkuta | moscow
+vkv | vaskovo airport | arkhangelsk | moscow
+vlc | valencia airport |  | madrid
+vld | valdosta regional airport | valdosta | new york
+vli | bauerfield airport |  | efate
+vll | valladolid airport | villanubla | madrid
+vln | arturo michelena international airport | los guayos | caracas
+vly | anglesey airport | valley | london
+vno | vilnius international airport | naujamiestis | vilnius
+vns | lal bahadur shastri international airport | baragaon | kolkata
+vnt | ventspils international airport |  | riga
+vnx | vilanculos airport | maxixe | maputo
+vny | van nuys airport | northridge | los angeles
+vog | volgograd international airport | gumrak | volgograd
+voz | voronezh airport | podgornoye | moscow
+vps | destin fort walton beach airport | eglin village | chicago
+vpy | chimoio airport | chimoio | maputo
+vqs | antonio rivera rodriguez airport | esperanza | puerto rico
+vra | juan gualberto gomez airport | matanzas | havana
+vrb | vero beach municipal airport | vero beach | new york
+vrc | virac airport | calatagan | manila
+vrl | vila real airport | vila real | lisbon
+vrn | verona villafranca airport | dossobuono | rome
+vrz | lavras airport | lavras | sao paulo
+vsa | carlos rovirosa perez international airport | el bajio | mexico city
+vse | viseu airport | viseu | lisbon
+vst | vasteras/hasslo airport | vasteras | stockholm
+vsv | shravasti airport | shravasti | kolkata
+vte | wattay international airport | si chiang mai | vientiane
+vtz | vishakhapatnam airport | gajuwaka | kolkata
+vup | valledupar airport | valledupar | bogota
+vus | velikij ustyug airport | velikiy ustyug | moscow
+vvc | la vanguardia airport | villavicencio | bogota
+vvi | viru viru international airport | la belgica | la paz
+vvo | vladivostok international airport | artem | vladivostok
+vvz | illizi airport | illizi | algiers
+vxc | lichinga airport | lichinga | maputo
+vxe | cesaria evora international airport | mindelo | cape verde
+vxo | vaxjo airport | vaexjoe | stockholm
+waa | wales airport |  | anchorage
+wae | wadi ad dawasir airport | as sulayyil | riyadh
+wag | wanganui airport | wanganui | auckland
+waw | frederic chopin airport | wlochy | warsaw
+wbb | stebbins airport |  | anchorage
+wbm | wapenamanda airport |  | port moresby
+wcd | carosue dam airport | stoneville | perth
+wdh | hosea kutako international airport |  | windhoek
+wds | shiyan wudangshan airport | luancheng | shanghai
+wef | weifang airport | weifang | shanghai
+weh | weihai international airport | dashuipo | shanghai
+wei | weipa airport | weipa | brisbane
+wes | weasua airport | bopolu | monrovia
+wga | wagga wagga airport | forest hill | sydney
+wgp | waingapu airport | mangga dua | makassar
+wha | wuhu xuanzhou airport | xinfeng | shanghai
+whb | eliwana airport | eliwana | perth
+whk | whakatane airport | whakatane | auckland
+wic | wick airport | wick | london
+wil | wilson airport | nairobi | nairobi
+win | winton airport | hughenden | brisbane
+wjr | wajir airport | wajir | nairobi
+wju | wonju airport | wonju | seoul
+wkj | hokkaido airport | makubetsu | tokyo
+wkl | waikoloa airport | kalaoa | honolulu
+wle | miles airport | westcourt | brisbane
+wlg | wellington international airport | wellington | auckland
+wlk | selawik airport |  | anchorage
+wlp | west angelas airport | tom price | perth
+wls | wallis island airport | mata-utu | wallis
+wmi | warsaw-modlin airport | zakroczym | warsaw
+wmo | white mountain airport | nome | anchorage
+wmt | zunyi maotai airport | daba | shanghai
+wmx | wamena airport | wurigelebur | jayapura
+wnh | wenshan puzhehei airport | wenshan city | shanghai
+wni | matahora airport | katabu | makassar
+wnn | wunnummin lake airport |  | winnipeg
+wnp | naga airport | san agustin | manila
+wnz | wenzhou longwan international airport | qidu | shanghai
+wog | woodgreen airport |  | darwin
+wre | whangarei airport | whangarei | auckland
+wrg | wrangell airport |  | anchorage
+wrn | windarling airport | merredin | perth
+wro | wroclaw airport | smolec | warsaw
+wry | westray airport | kirkwall | london
+wsk | chongqing wushan airport | quchi | shanghai
+wsz | westport airport | westport | auckland
+wtb | toowoomba wellcamp airport | westbrook | queensland
+wua | wuhai airport | wuhai | shanghai
+wuh | wuhan tianhe international airport |  | shanghai
+wui | murrin murrin airport | kalgoorlie | perth
+wus | wuyishan airport | xingtian | shanghai
+wut | xinzhou wutaishan airport | jinchang | shanghai
+wux | sunan shuofang international airport | shuofang | shanghai
+wvb | rooikop airport | walvis bay | windhoek
+wwk | boram airport | wewak | port moresby
+wxn | wanxian airport | wuqiao | shanghai
+wya | whyalla airport | whyalla | adelaide
+wys | yellowstone airport | west yellowstone | denver
+wza | wa airport | wa | accra
+xai | xinyang minggang airport | minggang | shanghai
+xap | chapeco airport | chapeco | sao paulo
+xbj | birjand airport | birjand | tehran
+xch | christmas island airport | flying fish cove | christmas
+xcn | coron airport | coron | manila
+xcr | chalons vatry airport | mailly-le-camp | paris
+xes | lake geneva aire estates airport | lake geneva | chicago
+xfn | xiangyang airport | shuanggou | shanghai
+xfw | hamburg finkenwerder airport | isernhagen farster bauerschaft | berlin
+xgr | kangiqsualujjuaq airport |  | montreal
+xic | xichang airport | xichang | shanghai
+xil | xilinhot airport | xilin hot | shanghai
+xiy | xianyang international airport | dizhang | shanghai
+xjm | mangla airport | jhelum | karachi
+xkh | xieng khouang airport | muang phonsavan | vientiane
+xmn | xiamen gaoqi international airport | yingcun | shanghai
+xnh | nasiriyah airport | an nasiriyah | baghdad
+xnn | xining caojiabao airport | gaozhai | shanghai
+xqp | quepos airport | quepos | costa rica
+xrq | xinbarag youqi baogede airport | hulun | shanghai
+xry | jerez airport |  | madrid
+xsb | sir bani yas island airport |  | dubai
+xuz | xuzhou guanyin airport | suicheng | shanghai
+xwa | williston basin international airport | williston | toronto
+yag | fort frances municipal airport | international falls | winnipeg
+yak | yakutat airport |  | yakutat
+yam | sault ste marie airport | sault ste marie | toronto
+yao | yaounde airport | yaounde | douala
+yap | yap international airport | colonia | chuuk
+yax | angling lake airport |  | winnipeg
+yaz | tofino airport |  | vancouver
+ybc | baie-comeau airport | baie-comeau | montreal
+ybg | saguenay-bagotville airport |  | montreal
+ybl | campbell river airport |  | vancouver
+ybp | yibin caiba airport | yibin | shanghai
+ybr | brandon municipal airport | brandon | winnipeg
+ybv | berens river airport |  | winnipeg
+ycb | cambridge bay airport |  | cambridge bay
+ycd | nanaimo airport |  | vancouver
+ycg | castlegar airport | castlegar | vancouver
+ycm | niagara district airport | niagara-on-the-lake | toronto
+yco | kugluktuk airport |  | cambridge bay
+ycu | yuncheng airport | yuncheng | shanghai
+ycw | chilliwack municipalcipal airport | chilliwack | vancouver
+yda | dawson city airport |  | dawson
+ydc | industrial airport | drayton valley | edmonton
+ydf | deer lake regional airport |  | st johns
+ydt | boundary bay airport |  | vancouver
+yeg | edmonton international airport | leduc | edmonton
+yeh | yinchuan helanshan airport | yinchuan | shanghai
+yei | yenisehir airport | hamzabey | istanbul
+yev | inuvik mike zubko airport |  | inuvik
+yfb | iqaluit airport |  | iqaluit
+yfc | fredericton international airport | oromocto | moncton
+yfo | flin flon airport |  | winnipeg
+ygj | miho airport | sakaiminato | tokyo
+ygk | kingston/norman rogers airport |  | toronto
+ygl | la grande airport |  | montreal
+ygo | gods lake narrows airport |  | winnipeg
+ygp | michel-pouliot gaspe airport | gaspe | montreal
+ygt | igloolik airport |  | iqaluit
+ygw | kuujjuarapik airport |  | montreal
+yhd | dryden regional airport |  | winnipeg
+yhk | gjoa haven airport |  | cambridge bay
+yhm | hamilton airport | ancaster | toronto
+yhu | st. hubert airport |  | montreal
+yhz | halifax stanfield international airport | cole harbour | halifax
+yia | yogyakarta international airport | srandakan | jakarta
+yic | yichun mingyueshan airport | hutian | shanghai
+yie | arxan yiershi airport | wenquan | shanghai
+yih | yichang sanxia airport | yunchi | shanghai
+yin | yining airport | dadamtu | shanghai
+yio | pond inlet airport |  | iqaluit
+yip | willow run airport | belleville | detroit
+yiv | island lake airport |  | winnipeg
+yiw | yiwu airport | yiwu | shanghai
+yja | jasper airport | jasper park lodge | edmonton
+yka | kamloops airport | kamloops | vancouver
+ykd | township airport | wingham | toronto
+ykf | region of waterloo international airport | cambridge | toronto
+ykg | kangirsuk airport |  | montreal
+ykh | yingkou lanqi airport | qingshiling | shanghai
+ykl | schefferville airport |  | montreal
+yko | hakkari–yüksekova airport | yuksekova | istanbul
+ykq | waskaganish airport |  | montreal
+yks | yakutsk airport | markha | yakutsk
+ylv | yevlakh airport | yevlakh | baku
+ylw | kelowna international airport | kelowna | vancouver
+ymj | moose jaw / air vice marshal c. m. mcewen airport | moose jaw | regina
+ymm | fort mcmurray international airport | fort mcmurray | edmonton
+ymn | makkovik airport |  | goose bay
+ymt | chibougamau airport | chibougamau | montreal
+ymx | mirabel international airport | mirabel | montreal
+ynb | yanbu airport | yanbu` al bahr | riyadh
+ynd | gatineau airport |  | toronto
+yne | norway house airport |  | winnipeg
+ynj | yanji chaoyangchuan airport |  | shanghai
+ynp | natuashish airport |  | goose bay
+yns | nemiscau airport | lebel-sur-quevillon | montreal
+ynt | yantai laishan international airport | laishan | shanghai
+yny | yangyang airport | sokcho | seoul
+ynz | yancheng nanyang international airport | yulong | shanghai
+yoj | footner lake airport |  | edmonton
+yol | yola airport | jimeta | lagos
+yon | yongphulla airport | trashigang | thimphu
+yow | ottawa/macdonald-cartier international airport |  | toronto
+ypj | aupaluk airport |  | montreal
+ypr | digby island airport |  | vancouver
+ypy | fort chipewyan airport |  | edmonton
+yqb | quebec city jean lesage international airport | l'ancienne-lorette | montreal
+yqf | red deer regional airport | penhold | edmonton
+yqg | windsor international airport | windsor | toronto
+yqk | kenora airport | baudette | winnipeg
+yql | lethbridge airport | lethbridge | edmonton
+yqm | greater moncton international airport | dieppe | moncton
+yqq | comox airport | courtenay | vancouver
+yqr | regina international airport | regina | regina
+yqt | thunder bay international airport |  | thunder bay
+yqu | grande prairie airport | grande prairie | edmonton
+yqx | gander international airport | gambo | st johns
+yqy | sydney airport | glace bay | glace bay
+yqz | quesnel airport | quesnel | vancouver
+yrb | resolute bay airport |  | resolute
+yrl | red lake airport |  | winnipeg
+yrt | rankin inlet airport |  | rankin inlet
+ysb | sudbury airport | greater sudbury | toronto
+ysj | saint john airport | saint john | moncton
+ysk | sanikiluaq airport |  | iqaluit
+ysm | fort smith airport | fort smith | yellowknife
+yso | postville airport |  | goose bay
+yta | pembroke and area airport |  | toronto
+ytc | sturdee valley airport | sturdee | vancouver
+ytq | tasiujuaq airport |  | montreal
+yts | timmins victor m. power airport | timmins | toronto
+ytw | yutian wanfang airport |  | urumqi
+yty | yangzhou taizhou airport | dinggou | shanghai
+ytz | toronto city centre airport | toronto | toronto
+yul | montreal-pierre elliott trudeau international airport | dorval | montreal
+yum | yuma international airport | yuma | phoenix
+yus | yushu batang airport |  | shanghai
+yuy | rouyn-noranda airport | rouyn-noranda | montreal
+yve | vernon regional airport | vernon | vancouver
+yvo | val-d'or airport | val-d'or | montreal
+yvp | kuujjuaq airport |  | montreal
+yvr | vancouver international airport | richmond | vancouver
+yvv | wiarton/keppel airport | owen sound | toronto
+ywb | kangiqsujuaq airport |  | montreal
+ywg | winnipeg james armstrong richardson international airport | winnipeg | winnipeg
+ywh | victoria inner harbour airport | victoria | vancouver
+ywk | wabush airport |  | goose bay
+ywl | williams lake airport |  | vancouver
+yxc | canadian rockies international airport | cranbrook | edmonton
+yxd | edmonton city centre (blatchford field) airport | edmonton | edmonton
+yxe | saskatoon international airport | saskatoon | regina
+yxh | medicine hat regional airport | medicine hat | edmonton
+yxj | north peace regional airport |  | dawson creek
+yxl | sioux lookout airport | dryden | winnipeg
+yxp | pangnirtung airport | pangnirtung | pangnirtung
+yxs | prince george airport | prince george | vancouver
+yxt | northwest regional airport |  | vancouver
+yxu | london international airport | dorchester | toronto
+yxx | abbotsford airport | sumas | vancouver
+yxy | whitehorse airport |  | whitehorse
+yxz | wawa airport | hornepayne | toronto
+yyb | jack garland airport | north bay | toronto
+yyc | calgary international airport | calgary | edmonton
+yyd | smithers airport | smithers | vancouver
+yye | northern rockies regional airport | fort nelson | vancouver
+yyf | penticton airport | penticton | vancouver
+yyg | charlottetown airport | charlottetown | halifax
+yyj | victoria international airport | north saanich | vancouver
+yyq | churchill airport |  | winnipeg
+yyr | goose bay airport | happy valley-goose bay | goose bay
+yyt | st. john's international airport | torbay | st johns
+yyu | kapuskasing airport |  | toronto
+yyy | mont joli airport | mont-joli | montreal
+yyz | pearson international airport | etobicoke | toronto
+yzf | yellowknife airport | yellowknife | yellowknife
+yzp | sandspit airport |  | vancouver
+yzr | sarnia airport | sarnia | toronto
+yzs | coral harbour airport | rankin inlet | coral harbour
+yzt | port hardy airport |  | vancouver
+yzv | sept-iles airport | sept-iles | montreal
+yzy | zhangye ganzhou airport | dongle | shanghai
+yzz | trail regional airport | fruitvale | vancouver
+zad | zadar airport | galovac | zagreb
+zag | zagreb international airport | micevec | zagreb
+zah | zahedan airport | zahedan | tehran
+zal | pichoy airport | valdivia | santiago
+zam | zamboanga international airport | zamboanga | manila
+zat | zhaotong airport | zhaotong | shanghai
+zaz | zaragoza airport | utebo | madrid
+zbf | bathurst airport | bathurst | moncton
+zbr | chah-bahar airport | konarak | tehran
+zcl | la calera airport | zacatecas | mexico city
+zco | la araucanía international airport | temuco | santiago
+zdy | delma island airport |  | dubai
+zel | bella bella airport |  | vancouver
+zfd | fond-du-lac airport | fond du lac | regina
+zgi | gods river airport |  | winnipeg
+zha | zhanjiang airport | haitou | shanghai
+zhy | zhongwei airport |  | shanghai
+zia | zhukovsky international airport | zhukovskiy | moscow
+zih | ixtapa/zihuatanejo internacional airport | colonia aeropuerto | mexico city
+zis | alzintan airport | az zintan | tripoli
+zix | zhigansk airport | zhigansk | yakutsk
+zkp | zyryanka airport | zyryanka | srednekolymsk
+zlo | manzanillo airport | manzanillo | mexico city
+zlx | zalingei airport | zalingei | khartoum
+zmh | south cariboo regional airport | williams lake | vancouver
+zmt | masset airport | metlakatla | vancouver
+zne | newman airport | newman | perth
+znz | zanzibar international airport | zanzibar | dar es salaam
+zos | canal bajo airport | osorno | santiago
+zpb | sachigo lake airport |  | winnipeg
+zqn | queenstown airport | queenstown | auckland
+zqw | zweibruecken airport |  | berlin
+zqz | zhangjiakou ningyuan airport | zhangjiakou | shanghai
+zrh | zurich airport | glattbrugg / rohr/platten-balsberg | zurich
+zrj | round lake airport | ear falls | winnipeg
+zsa | san salvador airport | cockburn town | nassau
+zth | zakinthos airport | ambelokipoi | athens
+ztm | shamattawa airport | red lake | winnipeg
+ztr | zhitomir airport | zhytomyr | kiev
+zuh | zhuhai jinwan airport | sanzao | shanghai
+zyi | zunyi xinzhou airport | zunyi | shanghai
+zyl | civil airport | sylhet | dhaka
+zze | zangilan international airport | karabakh | baku

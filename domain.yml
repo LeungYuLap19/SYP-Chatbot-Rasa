@@ -110,6 +110,9 @@ actions:
   - utter_shopping
 
   - action_utter_places_response
+  - validate_flight_status_form
+  - validate_flights_search_form
+  - validate_hotels_form
 
 responses:
   # flight search

@@ -4,32 +4,38 @@ nlu:
 
 - intent: check_hotels
   examples: |
-    - I need a hotel in [New York]{"entity": "location"} from [2025-03-15]{"entity": "date", "role": "check_in"} to [2025-03-20]{"entity": "date", "role": "check_out"}.
-    - Book a stay in [Paris]{"entity": "location"} between [2025-04-10]{"entity": "date", "role": "check_in"} and [2025-04-15]{"entity": "date", "role": "check_out"}.
-    - Find me hotels in [Tokyo]{"entity": "location"} from [2025-06-01]{"entity": "date", "role": "check_in"} until [2025-06-07]{"entity": "date", "role": "check_out"}.
-    - Show available hotels in [Dubai]{"entity": "location"} from [2025-05-05]{"entity": "date", "role": "check_in"} to [2025-05-12]{"entity": "date", "role": "check_out"}.
-    - Any hotels in [London]{"entity": "location"} for [2025-07-08]{"entity": "date", "role": "check_in"} to [2025-07-14]{"entity": "date", "role": "check_out"}?
-    - I'm looking for accommodation in [Bangkok]{"entity": "location"} from [2025-08-20]{"entity": "date", "role": "check_in"} to [2025-08-25]{"entity": "date", "role": "check_out"}.
-    - Can you find hotels in [Los Angeles]{"entity": "location"} between [2025-09-10]{"entity": "date", "role": "check_in"} and [2025-09-17]{"entity": "date", "role": "check_out"}?
-    - Hotel availability in [Chicago]{"entity": "location"} from [2025-10-03]{"entity": "date", "role": "check_in"} to [2025-10-10]{"entity": "date", "role": "check_out"}.
-    - Where can I stay in [Singapore]{"entity": "location"} from [2025-11-12]{"entity": "date", "role": "check_in"} until [2025-11-18]{"entity": "date", "role": "check_out"}?
-    - Are there any hotels in [San Francisco]{"entity": "location"} from [2025-12-05]{"entity": "date", "role": "check_in"} to [2025-12-10]{"entity": "date", "role": "check_out"}?
-    - Looking for a place to stay in [Miami]{"entity": "location"} from [2025-04-07]{"entity": "date", "role": "check_in"} to [2025-04-14]{"entity": "date", "role": "check_out"}.
-    - Book a hotel in [Hong Kong]{"entity": "location"} from [2025-06-22]{"entity": "date", "role": "check_in"} to [2025-06-27]{"entity": "date", "role": "check_out"}.
-    - I need a room in [Berlin]{"entity": "location"} from [2025-07-01]{"entity": "date", "role": "check_in"} to [2025-07-06]{"entity": "date", "role": "check_out"}.
-    - Find me a hotel in [Madrid]{"entity": "location"} between [2025-09-15]{"entity": "date", "role": "check_in"} and [2025-09-22]{"entity": "date", "role": "check_out"}.
-    - Can you suggest hotels in [Rome]{"entity": "location"} for [2025-10-28]{"entity": "date", "role": "check_in"} to [2025-11-03]{"entity": "date", "role": "check_out"}?
-    - Show me hotels in [Toronto]{"entity": "location"} from [2025-12-10]{"entity": "date", "role": "check_in"} to [2025-12-15]{"entity": "date", "role": "check_out"}.
-    - Need a hotel in [Las Vegas]{"entity": "location"} from [2025-03-18]{"entity": "date", "role": "check_in"} to [2025-03-24]{"entity": "date", "role": "check_out"}.
-    - Any hotel options in [Sydney]{"entity": "location"} between [2025-05-07]{"entity": "date", "role": "check_in"} and [2025-05-13]{"entity": "date", "role": "check_out"}?
-    - Find a stay in [Kuala Lumpur]{"entity": "location"} from [2025-06-10]{"entity": "date", "role": "check_in"} until [2025-06-16]{"entity": "date", "role": "check_out"}.
-    - Recommend hotels in [Seoul]{"entity": "location"} from [2025-08-01]{"entity": "date", "role": "check_in"} to [2025-08-07]{"entity": "date", "role": "check_out"}.
-    - Where can I find a hotel in [Mexico City]{"entity": "location"} for [2025-09-05]{"entity": "date", "role": "check_in"} to [2025-09-12]{"entity": "date", "role": "check_out"}?
-    - Looking for hotels in [Buenos Aires]{"entity": "location"} from [2025-11-08]{"entity": "date", "role": "check_in"} to [2025-11-14]{"entity": "date", "role": "check_out"}.
-    - Any hotel deals in [Cape Town]{"entity": "location"} between [2025-12-20]{"entity": "date", "role": "check_in"} and [2025-12-27]{"entity": "date", "role": "check_out"}?
-    - Find accommodations in [Amsterdam]{"entity": "location"} for [2025-04-02]{"entity": "date", "role": "check_in"} to [2025-04-08]{"entity": "date", "role": "check_out"}.
-    - Show me available stays in [Vienna]{"entity": "location"} from [2025-06-15]{"entity": "date", "role": "check_in"} to [2025-06-21]{"entity": "date", "role": "check_out"}.
-    - Book me a hotel in [Moscow]{"entity": "location"} for [2025-08-22]{"entity": "date", "role": "check_in"} to [2025-08-28]{"entity": "date", "role": "check_out"}.
-    - Can you find hotels in [Osaka]{"entity": "location"} from [2025-10-11]{"entity": "date", "role": "check_in"} to [2025-10-18]{"entity": "date", "role": "check_out"}?
-    - Looking for places to stay in [Stockholm]{"entity": "location"} between [2025-12-01]{"entity": "date", "role": "check_in"} and [2025-12-07]{"entity": "date", "role": "check_out"}.
-    - Suggest hotels in [Jakarta]{"entity": "location"} from [2025-03-27]{"entity": "date", "role": "check_in"} to [2025-04-02]{"entity": "date", "role": "check_out"}.
+    - I need a hotel in [New York]{"entity": "location"} from [15-03-2025]{"entity": "date", "role": "check_in"} to [20-03-2025]{"entity": "date", "role": "check_out"}.
+    - Book a stay in [Paris]{"entity": "location"} between [10-04-2025]{"entity": "date", "role": "check_in"} and [15-04-2025]{"entity": "date", "role": "check_out"}.
+    - Find me hotels in [Tokyo]{"entity": "location"} from [01-06-2025]{"entity": "date", "role": "check_in"} until [07-06-2025]{"entity": "date", "role": "check_out"}.
+    - Show available hotels in [Dubai]{"entity": "location"} from [05-05-2025]{"entity": "date", "role": "check_in"} to [12-05-2025]{"entity": "date", "role": "check_out"}.
+    - Any hotels in [London]{"entity": "location"} for [08-07-2025]{"entity": "date", "role": "check_in"} to [14-07-2025]{"entity": "date", "role": "check_out"}?
+    - Book a hotel in [Hong Kong]{"entity": "location"} from [22-06-2025]{"entity": "date", "role": "check_in"} to [27-06-2025]{"entity": "date", "role": "check_out"}.
+    - Find me a hotel in [Madrid]{"entity": "location"} between [15-09-2025]{"entity": "date", "role": "check_in"} and [22-09-2025]{"entity": "date", "role": "check_out"}.
+    
+    - I'm looking for accommodation in [Bangkok]{"entity": "location"} from [20 August 2025]{"entity": "date", "role": "check_in"} to [25 August 2025]{"entity": "date", "role": "check_out"}.
+    - Hotel availability in [Chicago]{"entity": "location"} from [3 October 2025]{"entity": "date", "role": "check_in"} to [10 October 2025]{"entity": "date", "role": "check_out"}.
+    - Where can I stay in [Singapore]{"entity": "location"} from [12 November 2025]{"entity": "date", "role": "check_in"} until [18 November 2025]{"entity": "date", "role": "check_out"}?
+    - Looking for a place to stay in [Miami]{"entity": "location"} from [7 April 2025]{"entity": "date", "role": "check_in"} to [14 April 2025]{"entity": "date", "role": "check_out"}.
+    - Can you suggest hotels in [Rome]{"entity": "location"} for [28 October 2025]{"entity": "date", "role": "check_in"} to [3 November 2025]{"entity": "date", "role": "check_out"}?
+    - Find accommodations in [Amsterdam]{"entity": "location"} for [2 April 2025]{"entity": "date", "role": "check_in"} to [8 April 2025]{"entity": "date", "role": "check_out"}.
+    
+    - Can you find hotels in [Los Angeles]{"entity": "location"} between [next Monday]{"entity": "date", "role": "check_in"} and [10 days later]{"entity": "date", "role": "check_out"}?
+    - Are there any hotels in [San Francisco]{"entity": "location"} from [tomorrow]{"entity": "date", "role": "check_in"} to [the day after tomorrow]{"entity": "date", "role": "check_out"}?
+    - I need a room in [Berlin]{"entity": "location"} from [next Friday]{"entity": "date", "role": "check_in"} to [7 days after]{"entity": "date", "role": "check_out"}.
+    - Show me hotels in [Toronto]{"entity": "location"} from [3 days later]{"entity": "date", "role": "check_in"} to [10 days later]{"entity": "date", "role": "check_out"}.
+    - Need a hotel in [Las Vegas]{"entity": "location"} from [next Wednesday]{"entity": "date", "role": "check_in"} to [next Sunday]{"entity": "date", "role": "check_out"}.
+    - Show me available stays in [Vienna]{"entity": "location"} from [5 days later]{"entity": "date", "role": "check_in"} to [12 days later]{"entity": "date", "role": "check_out"}.
+    
+    - Any hotel options in [Sydney]{"entity": "location"} between [Christmas]{"entity": "date", "role": "check_in"} and [New Year's Eve]{"entity": "date", "role": "check_out"}?
+    - Find a stay in [Kuala Lumpur]{"entity": "location"} from [Valentine's Day]{"entity": "date", "role": "check_in"} until [7 days later]{"entity": "date", "role": "check_out"}.
+    - Recommend hotels in [Seoul]{"entity": "location"} from [Christmas Day]{"entity": "date", "role": "check_in"} to [New Years Eve]{"entity": "date", "role": "check_out"}.
+    - Where can I find a hotel in [Mexico City]{"entity": "location"} for [Valentines Day]{"entity": "date", "role": "check_in"} to [5 days after]{"entity": "date", "role": "check_out"}?
+    - Looking for hotels in [Buenos Aires]{"entity": "location"} from [New Year's Eve]{"entity": "date", "role": "check_in"} to [3 January 2025]{"entity": "date", "role": "check_out"}.
+    - Any hotel deals in [Cape Town]{"entity": "location"} between [Christmas]{"entity": "date", "role": "check_in"} and [New Year's Eve]{"entity": "date", "role": "check_out"}?
+    - Book me a hotel in [Moscow]{"entity": "location"} for [Valentine's Day]{"entity": "date", "role": "check_in"} to [22 August 2025]{"entity": "date", "role": "check_out"}.
+    
+    - Can you find hotels in [Osaka]{"entity": "location"} from [next Monday]{"entity": "date", "role": "check_in"} to [15 October 2025]{"entity": "date", "role": "check_out"}?
+    - Looking for places to stay in [Stockholm]{"entity": "location"} between [01-12-2025]{"entity": "date", "role": "check_in"} and [Christmas]{"entity": "date", "role": "check_out"}.
+    - Suggest hotels in [Jakarta]{"entity": "location"} from [27 March 2025]{"entity": "date", "role": "check_in"} to [the day after tomorrow]{"entity": "date", "role": "check_out"}.
+    - Where can I stay in [Barcelona]{"entity": "location"} from [New Year's Eve]{"entity": "date", "role": "check_in"} to [10-01-2025]{"entity": "date", "role": "check_out"}?
+    - Need accommodation in [Prague]{"entity": "location"} between [next Friday]{"entity": "date", "role": "check_in"} and [20 May 2025]{"entity": "date", "role": "check_out"}.

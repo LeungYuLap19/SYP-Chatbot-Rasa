@@ -2,89 +2,72 @@ version: "3.1"
 
 nlu:
 
-# - regex: iata
-#   examples: |
-#     - \b[A-Z]{3}\b
-
 - lookup: iata
   examples: |
     - | Lookup/iata_codes.txt
 
 - intent: check_scheduled_flights
   examples: |
-    - I want to check scheduled flights
-    - I am planning a trip
-    - What flights are available from [JFK]{"entity": "iata", "role": "departure"} to [LAX]{"entity": "iata", "role": "arrival"} on [2025-03-15]{"entity": "date"}?
-    - Check flights from [LHR]{"entity": "iata", "role": "departure"} to [CDG]{"entity": "iata", "role": "arrival"} on [2025-05-01]{"entity": "date"}.
-    - I need to know the flights from [SFO]{"entity": "iata", "role": "departure"} to [ORD]{"entity": "iata", "role": "arrival"} next week.
-    - Find scheduled flights from [NRT]{"entity": "iata", "role": "departure"} to [SYD]{"entity": "iata", "role": "arrival"} on [2025-02-25]{"entity": "date"}.
-    - Can you show me flights from [DXB]{"entity": "iata", "role": "departure"} to [BOM]{"entity": "iata", "role": "arrival"} on [2025-04-10]{"entity": "date"}?
-    - Tell me the flights from [ATL]{"entity": "iata", "role": "departure"} to [MIA]{"entity": "iata", "role": "arrival"} tomorrow.
-    - Search for flights from [BOS]{"entity": "iata", "role": "departure"} to [SEA]{"entity": "iata", "role": "arrival"} on [2025-03-20]{"entity": "date"}.
-    - What flights are available from [ORD]{"entity": "iata", "role": "departure"} to [DFW]{"entity": "iata", "role": "arrival"} on [2025-06-15]{"entity": "date"}?
-    - I need flights from [LHR]{"entity": "iata", "role": "departure"} to [JFK]{"entity": "iata", "role": "arrival"} on [2025-04-03]{"entity": "date"}.
-    - Check flights from [CDG]{"entity": "iata", "role": "departure"} to [FCO]{"entity": "iata", "role": "arrival"} on [2025-05-25]{"entity": "date"}.
-    - What flights are scheduled from [MAD]{"entity": "iata", "role": "departure"} to [BER]{"entity": "iata", "role": "arrival"} on [2025-03-10]{"entity": "date"}?
-    - Show me flights from [SFO]{"entity": "iata", "role": "departure"} to [LAX]{"entity": "iata", "role": "arrival"} on [2025-07-01]{"entity": "date"}.
-    - Find flights from [JFK]{"entity": "iata", "role": "departure"} to [LAX]{"entity": "iata", "role": "arrival"} on [2025-03-01]{"entity": "date"}.
-    - Look up flights from [ORD]{"entity": "iata", "role": "departure"} to [SFO]{"entity": "iata", "role": "arrival"} on [2025-08-10]{"entity": "date"}.
-    - Check scheduled flights from [BOS]{"entity": "iata", "role": "departure"} to [MIA]{"entity": "iata", "role": "arrival"} on [2025-02-28]{"entity": "date"}.
-    - Find me flights from [SEA]{"entity": "iata", "role": "departure"} to [ORD]{"entity": "iata", "role": "arrival"} on [2025-04-15]{"entity": "date"}.
-    - Can you show me flights from [LAX]{"entity": "iata", "role": "departure"} to [JFK]{"entity": "iata", "role": "arrival"} on [2025-09-20]{"entity": "date"}?
-    - What are the scheduled flights from [DXB]{"entity": "iata", "role": "departure"} to [BOM]{"entity": "iata", "role": "arrival"} on [2025-05-05]{"entity": "date"}?
-    - I need to find flights from [CDG]{"entity": "iata", "role": "departure"} to [FCO]{"entity": "iata", "role": "arrival"} on [2025-06-12]{"entity": "date"}.
-    - Search for flights from [SYD]{"entity": "iata", "role": "departure"} to [NRT]{"entity": "iata", "role": "arrival"} on [2025-04-20]{"entity": "date"}.
-    - Show me flights from [JFK]{"entity": "iata", "role": "departure"} to [CDG]{"entity": "iata", "role": "arrival"} on [2025-03-22]{"entity": "date"}.
-    - Find flights from [SFO]{"entity": "iata", "role": "departure"} to [ORD]{"entity": "iata", "role": "arrival"} on [2025-04-09]{"entity": "date"}.
-    - What are the scheduled flights from [BOS]{"entity": "iata", "role": "departure"} to [LHR]{"entity": "iata", "role": "arrival"} on [2025-06-30]{"entity": "date"}?
-    - Can you show me the flights from [FCO]{"entity": "iata", "role": "departure"} to [MAD]{"entity": "iata", "role": "arrival"} on [2025-08-25]{"entity": "date"}?
-    - Find scheduled flights from [SEA]{"entity": "iata", "role": "departure"} to [MIA]{"entity": "iata", "role": "arrival"} on [2025-03-12]{"entity": "date"}.
-    - What are the available flights from [LHR]{"entity": "iata", "role": "departure"} to [JFK]{"entity": "iata", "role": "arrival"} on [2025-09-18]{"entity": "date"}?
-    - Can you find flights from [MIA]{"entity": "iata", "role": "departure"} to [ATL]{"entity": "iata", "role": "arrival"} on [2025-04-01]{"entity": "date"}?
-    - What flights are available from [SYD]{"entity": "iata", "role": "departure"} to [BOM]{"entity": "iata", "role": "arrival"} on [2025-06-18]{"entity": "date"}?
-    - Find scheduled flights from [LAX]{"entity": "iata", "role": "departure"} to [SFO]{"entity": "iata", "role": "arrival"} on [2025-05-10]{"entity": "date"}.
-    - What flights are available from [MIA]{"entity": "iata", "role": "departure"} to [SEA]{"entity": "iata", "role": "arrival"} on [2025-07-22]{"entity": "date"}?
-    - Check the flights from [BOM]{"entity": "iata", "role": "departure"} to [DXB]{"entity": "iata", "role": "arrival"} on [2025-06-25]{"entity": "date"}.
-    - Show me the flights from [ATL]{"entity": "iata", "role": "departure"} to [MIA]{"entity": "iata", "role": "arrival"} on [2025-04-12]{"entity": "date"}.
-    - Find flights from [ORD]{"entity": "iata", "role": "departure"} to [SEA]{"entity": "iata", "role": "arrival"} on [2025-07-30]{"entity": "date"}.
-    - What flights are available from [SYD]{"entity": "iata", "role": "departure"} to [LHR]{"entity": "iata", "role": "arrival"} on [2025-09-15]{"entity": "date"}?
-    - Check flights from [LAX]{"entity": "iata", "role": "departure"} to [ORD]{"entity": "iata", "role": "arrival"} on [2025-08-05]{"entity": "date"}.
+    - What flights are available from [JFK]{"entity": "iata", "role": "departure"} to [LAX]{"entity": "iata", "role": "arrival"} on [15-03-2025]{"entity": "date"}?
+    - Check flights from [LHR]{"entity": "iata", "role": "departure"} to [CDG]{"entity": "iata", "role": "arrival"} on [01-05-2025]{"entity": "date"}.
+    - Find scheduled flights from [NRT]{"entity": "iata", "role": "departure"} to [SYD]{"entity": "iata", "role": "arrival"} on [25-02-2025]{"entity": "date"}.
 
-    - Hey, what flights are leaving from [JFK]{"entity": "iata", "role": "departure"} to [LAX]{"entity": "iata", "role": "arrival"} on [2025-03-15]{"entity": "date"}?
-    - Can you find me flights from [LHR]{"entity": "iata", "role": "departure"} to [CDG]{"entity": "iata", "role": "arrival"} on [2025-05-01]{"entity": "date"}?
-    - Looking for flights from [SFO]{"entity": "iata", "role": "departure"} to [ORD]{"entity": "iata", "role": "arrival"} next week.
-    - Need flights from [NRT]{"entity": "iata", "role": "departure"} to [SYD]{"entity": "iata", "role": "arrival"} on [2025-02-25]{"entity": "date"}.
-    - Find flights for me from [DXB]{"entity": "iata", "role": "departure"} to [BOM]{"entity": "iata", "role": "arrival"} on [2025-04-10]{"entity": "date"}.
-    - What flights are going from [ATL]{"entity": "iata", "role": "departure"} to [MIA]{"entity": "iata", "role": "arrival"} tomorrow?
-    - Got any flights from [BOS]{"entity": "iata", "role": "departure"} to [SEA]{"entity": "iata", "role": "arrival"} on [2025-03-20]{"entity": "date"}?
-    - Any flights from [ORD]{"entity": "iata", "role": "departure"} to [DFW]{"entity": "iata", "role": "arrival"} on [2025-06-15]{"entity": "date"}?
-    - How about flights from [LHR]{"entity": "iata", "role": "departure"} to [JFK]{"entity": "iata", "role": "arrival"} on [2025-04-03]{"entity": "date"}?
-    - Look up flights from [CDG]{"entity": "iata", "role": "departure"} to [FCO]{"entity": "iata", "role": "arrival"} on [2025-05-25]{"entity": "date"}.
-    - Any scheduled flights from [MAD]{"entity": "iata", "role": "departure"} to [BER]{"entity": "iata", "role": "arrival"} on [2025-03-10]{"entity": "date"}?
-    - Show me flights from [SFO]{"entity": "iata", "role": "departure"} to [LAX]{"entity": "iata", "role": "arrival"} on [2025-07-01]{"entity": "date"}.
-    - Can you check flights from [JFK]{"entity": "iata", "role": "departure"} to [LAX]{"entity": "iata", "role": "arrival"} on [2025-03-01]{"entity": "date"}?
-    - What flights are there from [ORD]{"entity": "iata", "role": "departure"} to [SFO]{"entity": "iata", "role": "arrival"} on [2025-08-10]{"entity": "date"}?
-    - Any flights from [BOS]{"entity": "iata", "role": "departure"} to [MIA]{"entity": "iata", "role": "arrival"} on [2025-02-28]{"entity": "date"}?
-    - Find me flights from [SEA]{"entity": "iata", "role": "departure"} to [ORD]{"entity": "iata", "role": "arrival"} on [2025-04-15]{"entity": "date"}.
-    - What's up with flights from [LAX]{"entity": "iata", "role": "departure"} to [JFK]{"entity": "iata", "role": "arrival"} on [2025-09-20]{"entity": "date"}?
-    - Any info on flights from [DXB]{"entity": "iata", "role": "departure"} to [BOM]{"entity": "iata", "role": "arrival"} on [2025-05-05]{"entity": "date"}?
-    - I'm looking for flights from [CDG]{"entity": "iata", "role": "departure"} to [FCO]{"entity": "iata", "role": "arrival"} on [2025-06-12]{"entity": "date"}.
-    - Find flights from [SYD]{"entity": "iata", "role": "departure"} to [NRT]{"entity": "iata", "role": "arrival"} on [2025-04-20]{"entity": "date"}.
-    - Could you check flights from [JFK]{"entity": "iata", "role": "departure"} to [CDG]{"entity": "iata", "role": "arrival"} on [2025-03-22]{"entity": "date"}?
-    - Search for flights from [SFO]{"entity": "iata", "role": "departure"} to [ORD]{"entity": "iata", "role": "arrival"} on [2025-04-09]{"entity": "date"}.
-    - What flights can I get from [BOS]{"entity": "iata", "role": "departure"} to [LHR]{"entity": "iata", "role": "arrival"} on [2025-06-30]{"entity": "date"}?
-    - Any flights going from [FCO]{"entity": "iata", "role": "departure"} to [MAD]{"entity": "iata", "role": "arrival"} on [2025-08-25]{"entity": "date"}?
-    - Look for flights from [SEA]{"entity": "iata", "role": "departure"} to [MIA]{"entity": "iata", "role": "arrival"} on [2025-03-12]{"entity": "date"}.
-    - What flights do you have from [LHR]{"entity": "iata", "role": "departure"} to [JFK]{"entity": "iata", "role": "arrival"} on [2025-09-18]{"entity": "date"}?
-    - Check flights from [MIA]{"entity": "iata", "role": "departure"} to [ATL]{"entity": "iata", "role": "arrival"} on [2025-04-01]{"entity": "date"}.
-    - Any flights available from [SYD]{"entity": "iata", "role": "departure"} to [BOM]{"entity": "iata", "role": "arrival"} on [2025-06-18]{"entity": "date"}?
-    - Look up flights from [LAX]{"entity": "iata", "role": "departure"} to [SFO]{"entity": "iata", "role": "arrival"} on [2025-05-10]{"entity": "date"}?
-    - What flights are there from [MIA]{"entity": "iata", "role": "departure"} to [SEA]{"entity": "iata", "role": "arrival"} on [2025-07-22]{"entity": "date"}?
-    - Can you grab the flights from [BOM]{"entity": "iata", "role": "departure"} to [DXB]{"entity": "iata", "role": "arrival"} on [2025-06-25]{"entity": "date"}?
-    - Show me flights from [ATL]{"entity": "iata", "role": "departure"} to [MIA]{"entity": "iata", "role": "arrival"} on [2025-04-12]{"entity": "date"}?
-    - Find flights from [ORD]{"entity": "iata", "role": "departure"} to [SEA]{"entity": "iata", "role": "arrival"} on [2025-07-30]{"entity": "date"}.
-    - What flights are available from [SYD]{"entity": "iata", "role": "departure"} to [LHR]{"entity": "iata", "role": "arrival"} on [2025-09-15]{"entity": "date"}?
-    - Check out flights from [LAX]{"entity": "iata", "role": "departure"} to [ORD]{"entity": "iata", "role": "arrival"} on [2025-08-05]{"entity": "date"}.
+    - Can you show me flights from [Dubai]{"entity": "iata", "role": "departure"} to [Mumbai]{"entity": "iata", "role": "arrival"} on [10-04-2025]{"entity": "date"}?
+    - Search for flights from [Boston]{"entity": "iata", "role": "departure"} to [Seattle]{"entity": "iata", "role": "arrival"} on [20-03-2025]{"entity": "date"}.
+    - What are the available flights from [London]{"entity": "iata", "role": "departure"} to [New York]{"entity": "iata", "role": "arrival"} on [18-09-2025]{"entity": "date"}?
+
+    - Show me flights from [Chicago O'Hare]{"entity": "iata", "role": "departure"} to [Dallas Fort Worth]{"entity": "iata", "role": "arrival"} on [15-06-2025]{"entity": "date"}?
+    - Any flights from [Paris CDG]{"entity": "iata", "role": "departure"} to [Fiumicino Rome]{"entity": "iata", "role": "arrival"} on [25-05-2025]{"entity": "date"}?
+    - Looking for flights between [Seattle SeaTac]{"entity": "iata", "role": "departure"} and [MIA Airport]{"entity": "iata", "role": "arrival"} on [12-03-2025]{"entity": "date"}
+
+    - I need to know the flights from [SFO]{"entity": "iata", "role": "departure"} to [ORD]{"entity": "iata", "role": "arrival"} on [15 March 2025]{"entity": "date"}.
+    - Show me flights from [JFK]{"entity": "iata", "role": "departure"} to [LAX]{"entity": "iata", "role": "arrival"} on [1 March 2025]{"entity": "date"}.
+    - Find flights from [ORD]{"entity": "iata", "role": "departure"} to [SEA]{"entity": "iata", "role": "arrival"} on [30 July 2025]{"entity": "date"}.
+
+    - Tell me the flights from [Atlanta]{"entity": "iata", "role": "departure"} to [Miami]{"entity": "iata", "role": "arrival"} on [1 April 2025]{"entity": "date"}.
+    - Look up flights from [Chicago]{"entity": "iata", "role": "departure"} to [San Francisco]{"entity": "iata", "role": "arrival"} on [10 August 2025]{"entity": "date"}.
+    - What are the scheduled flights from [Boston]{"entity": "iata", "role": "departure"} to [London]{"entity": "iata", "role": "arrival"} on [30 June 2025]{"entity": "date"}.
+
+    - Show me flights from [San Francisco International]{"entity": "iata", "role": "departure"} to [Los Angeles International]{"entity": "iata", "role": "arrival"} on [1 July 2025]{"entity": "date"}.
+    - Find me flights from [Seattle-Tacoma]{"entity": "iata", "role": "departure"} to [Chicago O'Hare]{"entity": "iata", "role": "arrival"} on [15 April 2025]{"entity": "date"}.
+    - Need flights from [Logan Airport]{"entity": "iata", "role": "departure"} to [Heathrow]{"entity": "iata", "role": "arrival"} next month
+    
+    - I need flights from [LHR]{"entity": "iata", "role": "departure"} to [JFK]{"entity": "iata", "role": "arrival"} [tomorrow]{"entity": "date"}.
+    - Can you find flights from [MIA]{"entity": "iata", "role": "departure"} to [ATL]{"entity": "iata", "role": "arrival"} [next Monday]{"entity": "date"}?
+    - What flights are there from [MIA]{"entity": "iata", "role": "departure"} to [SEA]{"entity": "iata", "role": "arrival"} [next Wednesday]{"entity": "date"}?
+
+    - Check scheduled flights from [Boston]{"entity": "iata", "role": "departure"} to [Miami]{"entity": "iata", "role": "arrival"} on [the day after tomorrow]{"entity": "date"}.
+    - Show me flights from [Atlanta]{"entity": "iata", "role": "departure"} to [Miami]{"entity": "iata", "role": "arrival"} [next Friday]{"entity": "date"}.
+    - What flights can I get from [Boston]{"entity": "iata", "role": "departure"} to [London]{"entity": "iata", "role": "arrival"} in [3 days later]{"entity": "date"}?
+
+    - Find flights from [Sydney Airport]{"entity": "iata", "role": "departure"} to [Narita]{"entity": "iata", "role": "arrival"} in [7 days after]{"entity": "date"}.
+    - Check flights from [LAX Airport]{"entity": "iata", "role": "departure"} to [O'Hare]{"entity": "iata", "role": "arrival"} in [10 days later]{"entity": "date"}.
+    - Need flights from [Heathrow]{"entity": "iata", "role": "departure"} to [JFK International]{"entity": "iata", "role": "arrival"} [next week]{"entity": "date"}.
+
+    - Can you show me the flights from [FCO]{"entity": "iata", "role": "departure"} to [MAD]{"entity": "iata", "role": "arrival"} on [Christmas]{"entity": "date"}?
+    - What flights are available from [SYD]{"entity": "iata", "role": "departure"} to [LHR]{"entity": "iata", "role": "arrival"} on [New Year's Eve]{"entity": "date"}?
+    - Find scheduled flights from [LAX]{"entity": "iata", "role": "departure"} to [SFO]{"entity": "iata", "role": "arrival"} on [Christmas]{"entity": "date"}?
+
+    - Check the flights from [Mumbai]{"entity": "iata", "role": "departure"} to [Dubai]{"entity": "iata", "role": "arrival"} on [Christmas Day]{"entity": "date"}.
+    - What flights are scheduled from [Madrid]{"entity": "iata", "role": "departure"} to [Berlin]{"entity": "iata", "role": "arrival"} on [New Years Eve]{"entity": "date"}?
+    - Show me flights from [New York]{"entity": "iata", "role": "departure"} to [Paris]{"entity": "iata", "role": "arrival"} on [Valentine's Day]{"entity": "date"}?
+
+    - Find flights from [JFK Airport]{"entity": "iata", "role": "departure"} to [Charles de Gaulle]{"entity": "iata", "role": "arrival"} on [Valentines Day]{"entity": "date"}.
+    - What flights are there from [O'Hare]{"entity": "iata", "role": "departure"} to [Seattle-Tacoma]{"entity": "iata", "role": "arrival"} on [New Year's Eve]{"entity": "date"}?
+    - Need flights from [Rome Fiumicino]{"entity": "iata", "role": "departure"} to [Barajas Madrid]{"entity": "iata", "role": "arrival"} for [Christmas]{"entity": "date"}?
+
+    - Hey, what flights are leaving from [JFK]{"entity": "iata", "role": "departure"} to [LAX]{"entity": "iata", "role": "arrival"} on [15-03-2025]{"entity": "date"}?
+    - Can you find me flights from [LHR]{"entity": "iata", "role": "departure"} to [CDG]{"entity": "iata", "role": "arrival"} on [1 May 2025]{"entity": "date"}?
+    - How about flights from [LHR]{"entity": "iata", "role": "departure"} to [JFK]{"entity": "iata", "role": "arrival"} on [03-04-2025]{"entity": "date"}?
+
+    - Need flights from [Tokyo]{"entity": "iata", "role": "departure"} to [Sydney]{"entity": "iata", "role": "arrival"} on [Valentine's Day]{"entity": "date"}?
+    - What flights are going from [Atlanta]{"entity": "iata", "role": "departure"} to [Miami]{"entity": "iata", "role": "arrival"} [tomorrow]{"entity": "date"}?
+    - Find flights for me from [Dubai]{"entity": "iata", "role": "departure"} to [Mumbai]{"entity": "iata", "role": "arrival"} on [10-04-2025]{"entity": "date"}.
+
+    - Looking for flights from [San Francisco International]{"entity": "iata", "role": "departure"} to [O'Hare]{"entity": "iata", "role": "arrival"} [next Thursday]{"entity": "date"}.
+    - Got any flights from [Logan Airport]{"entity": "iata", "role": "departure"} to [Seattle-Tacoma]{"entity": "iata", "role": "arrival"} on [20 March 2025]{"entity": "date"}?
+    - Any flights from [Chicago O'Hare]{"entity": "iata", "role": "departure"} to [Dallas/Fort Worth]{"entity": "iata", "role": "arrival"} on [Christmas Day]{"entity": "date"}?
+    - Look up flights from [Paris Charles de Gaulle]{"entity": "iata", "role": "departure"} to [Rome Fiumicino]{"entity": "iata", "role": "arrival"} in [5 days later]{"entity": "date"}.
 
 - intent: change_departure_iata
   examples: |

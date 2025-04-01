@@ -4,29 +4,13 @@
 # See this guide on how to implement these action:
 # https://rasa.com/docs/rasa/custom-actions
 
-
-# This is a simple example for a custom action which utters "Hello World!"
-
-# from typing import Any, Text, Dict, List
-#
-# from rasa_sdk import Action, Tracker
-# from rasa_sdk.executor import CollectingDispatcher
-#
-#
-# class ActionHelloWorld(Action):
-#
-#     def name(self) -> Text:
-#         return "action_hello_world"
-#
-#     def run(self, dispatcher: CollectingDispatcher,
-#             tracker: Tracker,
-#             domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
-#
-#         dispatcher.utter_message(text="Hello World!")
-#
-#         return []
-
 from rasa_sdk import Action
+from typing import Any, Text, Dict
+from rasa_sdk import Action, Tracker
+from rasa_sdk.executor import CollectingDispatcher
+from rasa_sdk.forms import FormValidationAction
+from .advancedDataParser import AdvancedDateParser
+from .airportMapper import AirportMapper
 
 class ActionUtterPlacesResponse(Action):
   def name(self):
@@ -57,28 +41,188 @@ class ActionUtterPlacesResponse(Action):
 
     return []
 
-# from rasa_sdk.events import ActiveLoop, SlotSet
+class ValidateFlightStatusForm(FormValidationAction):
+  def name(self) -> Text:
+    return "validate_flight_status_form"
 
-# class ActionChangeFlightDate(Action):
-#     def name(self):
-#         return "action_change_flight_date"
+  async def validate_date(
+    self,
+    slot_value: Any,
+    dispatcher: CollectingDispatcher,
+    tracker: Tracker,
+    domain: Dict[Text, Any],
+  ) -> Dict[Text, Any]:
+    if not slot_value:
+      dispatcher.utter_message(text="Please provide a valid date.")
+      return {'date': None}
+        
+    result = AdvancedDateParser.parse_date(slot_value)
+    if not result:
+      dispatcher.utter_message(
+        text="Please provide a date in one of these formats:\n"
+              "- Standard (15-03-2023 or 2023-03-15)\n"
+              "- Month name (15 March 2023)\n"
+              "- Natural (tomorrow, next Monday)\n"
+              "- Holiday (Christmas, New Year's Eve)"
+      )
+      return {'date': None}
+        
+    _, formatted_date = result
+    return {'date': formatted_date}
+    
+  async def validate_flight_number(
+    self,
+    slot_value: Any,
+    dispatcher: CollectingDispatcher,
+    tracker: Tracker,
+    domain: Dict[Text, Any],
+  ) -> Dict[Text, Any]:
+    if not slot_value:
+      dispatcher.utter_message(text="Please provide a valid flight number.")
+      return {'flight_number': None}
+    
+    return {'flight_number': slot_value.upper()}
+  
+class ValidateFlightsSearchForm(FormValidationAction):
+  def __init__(self):
+    super().__init__()
+    self.airport_mapper = AirportMapper("C:/Users/ASUS/Documents/vscode/Machine Learning/Rasa Projects/JetSetGo-Bot/actions/airports_lookup.txt")
 
-#     def run(self, dispatcher, tracker, domain):
-#         previous_form = tracker.get_slot("previous_form")
-#         new_date = tracker.get_slot("date")
+  def name(self) -> Text:
+    return "validate_flights_search_form"
 
-#         return_events = [
-#             SlotSet("flight_date", new_date),
-#             ActiveLoop(None), 
-#             SlotSet("requested_slot", None)
-#         ]
+  async def validate_departure(
+    self,
+    slot_value: Any,
+    dispatcher: CollectingDispatcher,
+    tracker: Tracker,
+    domain: Dict[Text, Any],
+  ) -> Dict[Text, Any]:
+    if not slot_value:
+      dispatcher.utter_message(text="Please provide a valid departure IATA.")
+      return {'departure': None}
+    
+    iata_code = self.airport_mapper.find_iata(slot_value)
 
-#         if previous_form == "flight_status_form":
-#           dispatcher.utter_message(text=f"Updating flight date for flight status check to {new_date}...")
-#           return_events.append(ActiveLoop("flight_status_form"))  # Reactivate flight_status_form
+    if not iata_code:
+      dispatcher.utter_message(
+        text=f"Sorry, I couldn't find an airport matching '{slot_value}'. "
+        "Please provide a valid IATA code or airport name."
+      )
+      return {'departure': None}
 
-#         elif previous_form == "flights_search_form":
-#             dispatcher.utter_message(text=f"Updating flight date for scheduled flights search to {new_date}...")
-#             return_events.append(ActiveLoop("flights_search_form"))  # Reactivate flights_search_form
+    return {'departure': iata_code}
 
-#         return return_events
+  async def validate_arrival(
+    self,
+    slot_value: Any,
+    dispatcher: CollectingDispatcher,
+    tracker: Tracker,
+    domain: Dict[Text, Any],
+  ) -> Dict[Text, Any]:
+    if not slot_value:
+      dispatcher.utter_message(text="Please provide a valid arrival IATA.")
+      return {'arrival': None}
+
+    iata_code = self.airport_mapper.find_iata(slot_value)
+
+    if not iata_code:
+      dispatcher.utter_message(
+        text=f"Sorry, I couldn't find an airport matching '{slot_value}'. "
+        "Please provide a valid IATA code or airport name."
+      )
+      return {'arrival': None}
+    
+    return {'arrival': iata_code}
+  
+  async def validate_date(
+    self,
+    slot_value: Any,
+    dispatcher: CollectingDispatcher,
+    tracker: Tracker,
+    domain: Dict[Text, Any],
+  ) -> Dict[Text, Any]:
+    if not slot_value:
+      dispatcher.utter_message(text="Please provide a valid date.")
+      return {'date': None}
+    
+    result = AdvancedDateParser.parse_date(slot_value)
+    if not result:
+      dispatcher.utter_message(
+        text="Please provide a date in one of these formats:\n"
+              "- Standard (15-03-2023 or 2023-03-15)\n"
+              "- Month name (15 March 2023)\n"
+              "- Natural (tomorrow, next Monday)\n"
+              "- Holiday (Christmas, New Year's Eve)"
+      )
+      return {'date': None}
+      
+    _, formatted_date = result
+    return {'date': formatted_date}
+  
+class ValidateHotelsForm(FormValidationAction):
+  def name(self) -> Text:
+    return "validate_hotels_form"
+
+  async def validate_location(
+    self,
+    slot_value: Any,
+    dispatcher: CollectingDispatcher,
+    tracker: Tracker,
+    domain: Dict[Text, Any],
+  ) -> Dict[Text, Any]:
+    if not slot_value:
+      dispatcher.utter_message(text="Please provide a location.")
+      return {'location': None}
+    
+    return {'location': slot_value}
+  
+  async def validate_check_in(
+    self,
+    slot_value: Any,
+    dispatcher: CollectingDispatcher,
+    tracker: Tracker,
+    domain: Dict[Text, Any],
+  ) -> Dict[Text, Any]:
+    if not slot_value:
+      dispatcher.utter_message(text="Please provide a valid check-in date.")
+      return {'check_in': None}
+    
+    result = AdvancedDateParser.parse_date(slot_value)
+    if not result:
+      dispatcher.utter_message(
+        text="Please provide a date in one of these formats:\n"
+              "- Standard (15-03-2023 or 2023-03-15)\n"
+              "- Month name (15 March 2023)\n"
+              "- Natural (tomorrow, next Monday)\n"
+              "- Holiday (Christmas, New Year's Eve)"
+      )
+      return {'check_in': None}
+      
+    _, formatted_date = result
+    return {'check_in': formatted_date}
+  
+  async def validate_check_out(
+    self,
+    slot_value: Any,
+    dispatcher: CollectingDispatcher,
+    tracker: Tracker,
+    domain: Dict[Text, Any],
+  ) -> Dict[Text, Any]:
+    if not slot_value:
+      dispatcher.utter_message(text="Please provide a valid check-out date.")
+      return {'check_out': None}
+    
+    result = AdvancedDateParser.parse_date(slot_value)
+    if not result:
+      dispatcher.utter_message(
+        text="Please provide a date in one of these formats:\n"
+              "- Standard (15-03-2023 or 2023-03-15)\n"
+              "- Month name (15 March 2023)\n"
+              "- Natural (tomorrow, next Monday)\n"
+              "- Holiday (Christmas, New Year's Eve)"
+      )
+      return {'check_out': None}
+      
+    _, formatted_date = result
+    return {'check_out': formatted_date}
