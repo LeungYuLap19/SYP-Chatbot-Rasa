@@ -1,64 +1,45 @@
-import re
-from fuzzywuzzy import fuzz
+from rapidfuzz import fuzz
 
 class AirportMapper:
-  def __init__(self, data_file):
-    self.iata_to_info = {}
-    self.airport_names = []
-    self.city_names = []
-    self.all_search_terms = []
+    def __init__(self, data_file):
+        self.iata_to_info = {}
+        self.index = []
 
-    with open(data_file, 'r', encoding='utf-8') as f:
-      for line in f:
-        line = line.strip()
-        if not line: 
-          continue
+        with open(data_file, 'r', encoding='utf-8') as f:
+            for line in f:
+                parts = line.strip().split(" | ")
+                if len(parts) >= 4:
+                    iata = parts[0].strip().upper()
+                    airport = parts[1].strip().lower()
+                    city = parts[3].strip().lower()
 
-        parts = line.split(' | ')
-        if len(parts) >= 3:
-          iata = parts[0].strip()
-          airport_name = parts[1].strip()
-          city = parts[2].strip()
+                    self.iata_to_info[iata] = {"airport": airport, "city": city}
+                    self.index.append((iata, airport, city))
 
-          self.iata_to_info[iata] = {
-            'airport': airport_name,
-            'city': city
-          }
+    def is_iata_code(self, code):
+        return len(code) == 3 and code.upper() in self.iata_to_info
 
-          self.airport_names.append((iata, airport_name))
-          self.city_names.append((iata, city))
-          self.all_search_terms.append((iata, airport_name))
-          self.all_search_terms.append((iata, city))
+    def find_iata(self, search_term):
+        search_term = search_term.strip().lower()
 
-  def is_iata_code(self, code):
-    return len(code) == 3 and code.isalpha()
-  
-  def find_iata(self, search_term):
-    search_term = search_term.strip().lower()
+        if self.is_iata_code(search_term):
+            return search_term.upper()
 
-    # already an IATA code, return it
-    if self.is_iata_code(search_term) and search_term in self.iata_to_info:
-      return search_term.upper()
-    
-    best_score = 0
-    best_iata = None
-    
-    # fuzzy search
-    # try airport names first
-    for iata, name in self.airport_names:
-      score = fuzz.token_set_ratio(search_term, name)
-      if score > best_score:
-        best_score = score
-        best_iata = iata
+        best_score = 0
+        best_iata = None
 
-    # try city names
-    for iata, city in self.city_names:
-      score = fuzz.token_set_ratio(search_term, city)
-      if score > best_score:
-        best_score = score
-        best_iata = iata
+        for iata, airport, city in self.index:
+            airport_score = fuzz.partial_token_sort_ratio(search_term, airport)
+            city_score = fuzz.partial_token_sort_ratio(search_term, city)
 
-    if best_score >= 50:  
-      return best_iata.upper()
-    
-    return None
+            # Weighted score: prioritize airport name
+            total_score = 1.0 * airport_score + 0.6 * city_score
+
+            if total_score > best_score:
+                best_score = total_score
+                best_iata = iata
+
+        if best_score >= 70:
+            return best_iata
+
+        return None

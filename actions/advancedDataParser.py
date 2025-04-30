@@ -60,16 +60,34 @@ class AdvancedDateParser:
                 pass
 
         # 2. Month name patterns (15 March 2023)
-        month_match = re.match(
-            r'^(\d{1,2})\s+(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)[a-z]*\s+(\d{4})$', 
+        month_with_year = re.match(
+            r'^(\d{1,2})\s+(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)[a-z]*\s+(\d{4})$',
             date_str
         )
-        if month_match:
-            day, month, year = month_match.groups()
-            month_num = AdvancedDateParser.MONTHS.get(month[:3])
+        if month_with_year:
+            day, month, year = month_with_year.groups()
+            month_num = AdvancedDateParser.MONTHS.get(month)
             if month_num:
                 try:
                     dt = datetime(int(year), month_num, int(day))
+                    return dt, dt.strftime("%Y-%m-%d")
+                except ValueError:
+                    pass
+
+        # 2b. Month name patterns WITHOUT year (e.g. "6 Apr")
+        month_without_year = re.match(
+            r'^(\d{1,2})\s+(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)[a-z]*$',
+            date_str
+        )
+        if month_without_year:
+            day, month = month_without_year.groups()
+            month_num = AdvancedDateParser.MONTHS.get(month)
+            if month_num:
+                year = reference_date.year
+                try:
+                    dt = datetime(year, month_num, int(day))
+                    if dt < reference_date:
+                        dt = datetime(year + 1, month_num, int(day))
                     return dt, dt.strftime("%Y-%m-%d")
                 except ValueError:
                     pass

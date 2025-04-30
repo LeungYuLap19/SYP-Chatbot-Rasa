@@ -19,6 +19,7 @@ nlu:
     - What are the hidden cultural gems in [Barcelona]{"entity": "location"}?
     - Which locations define the essence of [Amsterdam]{"entity": "location"}?
     - Explore famous sightseeing destinations in [Seoul]{"entity": "location"}.
+    - How about top attractions there in [Florence]{"entity": "location"}?
 
 - intent: check_restaurant
   examples: |
